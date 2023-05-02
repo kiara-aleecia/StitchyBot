@@ -1,0 +1,904 @@
+knitting - wikipedia jump to content main menu main menu move to sidebar hide navigation main pagecontentscurrent eventsrandom articleabout wikipediacontact usdonate contribute helplearn to editcommunity portalrecent changesupload file languages language links are at the top of the page across from the title.
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1structure toggle structure subsection 1.1courses and wales 1.2weft and warp knitting[3] 1.3knit and purl stitches 1.4differences between knitting and crocheting 1.5right- and left-plaited stitches 1.6edges and joins between fabrics 1.7cables, increases, and lace 1.8ornamentations and additions 2history and culture 3properties of fabrics toggle properties of fabrics subsection 3.1texture 3.2color 4hand knitting process 5materials toggle materials subsection 5.1yarn 5.2metal wire 5.3glass and wax 6tools toggle tools subsection 6.1needles 6.1.1largest circular knitting needles 6.1.2record 6.2ancillary tools 7knitting styles/holds toggle knitting styles/holds subsection 7.1continental/german style 7.1.1norwegian style 7.1.2russian style 7.2english style 7.3portuguese/greek/incan/turkish style 8knitting techniques toggle knitting techniques subsection 8.1armenian 8.2double knitting 8.3fair isle 8.4mega knitting 8.5micro knitting 8.6short row 8.6.1wrap and turn 8.6.2german short row 8.6.3japanese short row 8.7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةবাংলাбашҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ್ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia method of forming fabric from yarn "knit" redirects here.
+
+this article needs additional citations for verification.
+
+please help improve this article by adding citations to reliable sources.
+
+knitted garments are often more form-fitting than woven garments, since their elasticity allows them to contour to the body's outline more closely; by contrast, curvature is introduced into most woven garments only with sewn darts, flares, gussets and gores, the seams of which lower the elasticity of the woven fabric still further.
+
+extra curvature can be introduced into knitted garments without seams, as in the heel of a sock; the effect of darts, flares, etc.
+
+the upper red course is purled into the row below and then is knit, consistent with 'garter' stitch.
+
+in the simplest of hand-knitted fabrics, every row of stitches are all knit (or all purl); this creates a garter stitch fabric.
+
+fabrics in which each knitted row is followed by a purled row, such as in stockinette/stocking stitch, have a tendency to curl—top and bottom curl toward the front (or knitted side) while the sides curl toward the back (or purled side); by contrast, those in which knit and purl stitches are arranged symmetrically (such as ribbing, garter stitch or seed/moss stitch) have more texture and tend to lie flat.
+
+for example, a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts.
+
+history and culture[edit] main article: history of knitting the word is derived from knot and ultimately from the old english cnyttan, to knot.
+
+[13] the exact origins of knitting are unknown, the earliest known examples being cotton socks found in the remains of the city of fustat, now part of cairo.
+
+his collection of books about knitting is now housed at the winchester school of art (university of southampton).
+
+properties of fabrics[edit] main article: knitted fabric schematic of stockinette stitch, the most basic weft-knit fabric the topology of a knitted fabric is relatively complex.
+
+stitches can be worked from either side, and various patterns are created by mixing regular knit stitches with the "wrong side" stitches, known as purl stitches, either in columns (ribbing), rows (garter, welting), or more complex patterns.
+
+each fabric has different properties: a garter stitch has much more vertical stretch, while ribbing stretches much more horizontally.
+
+other simple textures can be made with nothing but knit and purl stitches, including garter stitch, ribbing, and moss and seed stitches.
+
+in hand knitting certain articles of clothing, especially larger ones like sweaters, the final knitted garment will be made of several knitted pieces, with individual sections of the garment hand knitted separately and then sewn together.
+
+hats in particular can be started "top down" on double pointed needles with the increases added until the preferred size is achieved, switching to an appropriate circular needle when enough stitches have been added.
+
+materials[edit] yarn[edit] main article: yarn a hank of wool yarn (center) is uncoiled into its basic loop.
+
+a yarn's usefulness for a knitting project is judged by several factors, such as its loft (its ability to trap air), its resilience (elasticity under tension), its washability and colorfastness, its hand (its feel, particularly softness vs. scratchiness), its durability against abrasion, its resistance to pilling, its hairiness (fuzziness), its tendency to twist or untwist, its overall weight and drape, its blocking and felting qualities, its comfort (breathability, moisture absorption, wicking properties) and of course its look, which includes its color, sheen, smoothness and ornamental features.
+
+the dyeing of yarns is a complex art that has a long history.
+
+needles[edit] main article: knitting needle knitting needles in a variety of sizes and materials.
+
+although the diameter of the knitting needle is often measured in millimeters, there are several measurement systems, particularly those specific to the united states, the united kingdom and japan; a conversion table is given at knitting needle.
+
+starting from the bottom right are two crochet hooks, two stitch holders (like big blunt safety pins), and two cable needles in pink and green.
+
+for large or complex knitting patterns, it is sometimes difficult to keep track of which stitch should be knit in a particular way; therefore, several tools have been developed to identify the number of a particular row or stitch, including circular stitch markers, hanging markers, extra yarn and row counters.
+
+knitting styles/holds[edit] continental/german style[edit] main article: continental knitting continental knitting is achieved by holding the yarn in your left hand for both knitting and purling.
+
+norwegian style[edit] main article: norwegian knitting while knit stitches are worked as in the classic continental style, the purl is worked by leaving the yarn at back and moving the needle.
+
+english style[edit] main article: english knitting english-style knitting is achieved by holding the yarn in your right hand.
+
+double knitting[edit] main article: double knittinga technique used to create a flat, smooth, reversible fabric that looks like stockinette or jersey on both sides, rather than having a knit face and a purl reverse side.
+
+fair isle[edit] main article: fair isle (technique) a method by which many different yarns are used throughout the row and when not being used are floated on the wrong side of the piece.
+
+[27][28][29] she has published bugknits: extreme knitting for hobbyists, artists and knitters (2009, blurb: isbn 978-1320025546).
+
+[30][31] short row[edit] main article: short row (knitting) in short row knitting, the work is turned before a row is fully knitted.
+
+twined knitting[edit] main article: twined knitting the technique, also known as two-end knitting, is a traditional scandinavian knitting technique.
+
+for individual hobbyists, websites such as etsy, big cartel and ravelry have made it easy to sell knitting patterns on a small scale, in a way similar to ebay.
+
+graffiti[edit] main article: yarn bombing in the 2000s, a practice called knitting graffiti, guerilla knitting, or yarn bombing—the use of knitted or crocheted cloth to modify and beautify one's (usually outdoor) surroundings—emerged in the u.s. and spread worldwide.
+
+[32] magda sayeg is credited with starting the movement in the us and knit the city are a prominent group of graffiti knitters in the united kingdom.
+
+for instance, dave cole is a contemporary sculpture artist who practiced knitting as graffiti for a large-scale public art installation in melbourne, australia for the big west arts festival in 2009. the work was vandalized the night of its completion.
+
+[34] a new movie, shot by a tasmanian filmmaker on a set made almost entirely out of yarn, was partially inspired by "knitted graffiti".
+
+over the multi-day period, multiple local yarn and knit shops participate in the yarn crawl and offer up store discounts, give away free exclusive patterns, provide classes, trunk shows and conduct raffles for prizes.
+
+participants of the crawl receive a passport and get their passport stamped at each store they visit along the crawl.
+
+[36][37][38][39] charity[edit] drawing by marguerite martyn of two women and a child knitting for the war effort at a st. louis, missouri, red cross office in 1917 hand knitting garments for free distribution to others has become common practice among hand knitting groups.
+
+[41] originally started after the 2004 indonesian tsunami, knitters without borders[42] is a charity challenge issued by knitting personality stephanie pearl-mcphee that encourages hand knitters to donate to médecins sans frontières (doctors without borders).
+
+the project was started in memory of a young woman who had collected plastic toy ducks and who died from cystic fibrosis while waiting for a lung transplant.
+
+these studies have found the rhythmic and repetitive action of hand knitting can help prevent and manage stress, pain and depression, which in turn strengthens the body's immune system,[47] as well as create a relaxation response in the body which can decrease blood pressure, heart rate, help prevent illness, and have a calming effect.
+
+this keeps the fingers limber and can be especially helpful for those with arthritis.
+
+knitting can reduce the pain of arthritis if people make it a daily habit.
+
+[2] notable knitters[edit] cat bordhi - pioneered teaching new and efficient knitting techniques kaffe fassett - american-born, british-based artist known for his colorful designs in the decorative arts stephanie pearl-mcphee - is a writer, knitter, and knit-wear designer magda sayeg - creator of knitta please knit graffiti movement barbara g. walker - author of several encyclopedic knitting references stephen west - american knitter, fashion designer, educator, and author known for his knitting patterns and strong use of color elizabeth zimmermann - british-born hand knitting teacher and designer tom daley - british olympic gold medallist and knitting and crochet designer.
+
+see also[edit] clothing portaltextile arts portal fiber art finger knitting knitted fabric knitting abbreviations knitting clubs the knitting guild association crochet macramé the tempestry project textile manufacturing yarn bombing sweater curse handicraft references[edit] ^ "techniques with theresa, frog pond edition".
+
+a wale starts as soon as an empty needle starts to knit" (spencer 1989:17).
+
+^ bartlett, roxana (1998).
+
+st. martin's press.
+
+collection bouvier, exposition 1993-1994, musée d'art et d'histoire à genève.
+
+^ "knitting glass (fiberarts magazine summer issue 2011)" (pdf).
+
+^ partlow, mia.
+
+arts & culture - indiana public media.
+
+"knitters turn to graffiti artists with 'yarnbombing'".
+
+"artists in pink fit as big knit vandal unravels artwork".
+
+"a new movie, shot by a tasmanian filmmaker on a set made almost entirely out of yarn, was partially inspired by "knitted graffiti"".
+
+stewart, tabori and chang, new york.
+
+wikisource has the text of the 1905 new international encyclopedia article "knitting".
+
+retrieved 22 september 2007. us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts, relationship to needle size and typical usage.
+
+"ravelry provides a personal notebook for fiber artists to keep track of their projects, yarns & fibers, tools, and pattern library, a rich database of patterns and yarns, and a community with thousands of forums and groups to connect with other ravelers over any interest you could think of."
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette/stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding/casting off bobble brioche knitting buttonhole cables casting on double knitting drop-stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip-stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee (inventor) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl-mcphee alice starmore debbie stoller meg swansen barbara g. walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch 'n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from "https://en.wikipedia.org/w/index.php?title=knitting&oldid=1149831060" categories: knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories: webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+privacy policy about wikipedia disclaimers contact wikipedia mobile view developers statistics cookie statement knitting - wikipedia jump to content main menu main menu move to sidebar hide navigation main pagecontentscurrent eventsrandom articleabout wikipediacontact usdonate contribute helplearn to editcommunity portalrecent changesupload file languages language links are at the top of the page across from the title .
+
+7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةব াং ল া башҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어ह ि न ् द ी hrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ ್ ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမ ြ န ် မ ာ ဘ ာ သ ာ nederlands日本語norsk bokmålnorsk nynorskoccitanਪ ੰ ਜ ਾ ਬ ੀ polskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print / export download as pdfprintable version in other projects wikimedia commons from wikipedia , the free encyclopedia method of forming fabric from yarn " knit " redirects here .
+
+this article needs additional citations for verification .
+
+please help improve this article by adding citations to reliable sources .
+
+knitted garments are often more form - fitting than woven garments , since their elasticity allows them to contour to the body ' s outline more closely ; by contrast , curvature is introduced into most woven garments only with sewn darts , flares , gussets and gores , the seams of which lower the elasticity of the woven fabric still further .
+
+extra curvature can be introduced into knitted garments without seams , as in the heel of a sock ; the effect of darts , flares , etc .
+
+the upper red course is purled into the row below and then is knit , consistent with ' garter ' stitch .
+
+in the simplest of hand - knitted fabrics , every row of stitches are all knit ( or all purl ); this creates a garter stitch fabric .
+
+fabrics in which each knitted row is followed by a purled row , such as in stockinette / stocking stitch , have a tendency to curl — top and bottom curl toward the front ( or knitted side ) while the sides curl toward the back ( or purled side ); by contrast , those in which knit and purl stitches are arranged symmetrically ( such as ribbing , garter stitch or seed / moss stitch ) have more texture and tend to lie flat .
+
+for example , a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts .
+
+history and culture [ edit ] main article : history of knitting the word is derived from knot and ultimately from the old english cnyttan , to knot .
+
+[ 13 ] the exact origins of knitting are unknown , the earliest known examples being cotton socks found in the remains of the city of fustat , now part of cairo .
+
+his collection of books about knitting is now housed at the winchester school of art ( university of southampton ).
+
+properties of fabrics [ edit ] main article : knitted fabric schematic of stockinette stitch , the most basic weft - knit fabric the topology of a knitted fabric is relatively complex .
+
+stitches can be worked from either side , and various patterns are created by mixing regular knit stitches with the " wrong side " stitches , known as purl stitches , either in columns ( ribbing ), rows ( garter , welting ), or more complex patterns .
+
+each fabric has different properties : a garter stitch has much more vertical stretch , while ribbing stretches much more horizontally .
+
+other simple textures can be made with nothing but knit and purl stitches , including garter stitch , ribbing , and moss and seed stitches .
+
+in hand knitting certain articles of clothing , especially larger ones like sweaters , the final knitted garment will be made of several knitted pieces , with individual sections of the garment hand knitted separately and then sewn together .
+
+hats in particular can be started " top down " on double pointed needles with the increases added until the preferred size is achieved , switching to an appropriate circular needle when enough stitches have been added .
+
+materials [ edit ] yarn [ edit ] main article : yarn a hank of wool yarn ( center ) is uncoiled into its basic loop .
+
+a yarn ' s usefulness for a knitting project is judged by several factors , such as its loft ( its ability to trap air ), its resilience ( elasticity under tension ), its washability and colorfastness , its hand ( its feel , particularly softness vs .
+
+the dyeing of yarns is a complex art that has a long history .
+
+needles [ edit ] main article : knitting needle knitting needles in a variety of sizes and materials .
+
+although the diameter of the knitting needle is often measured in millimeters , there are several measurement systems , particularly those specific to the united states , the united kingdom and japan ; a conversion table is given at knitting needle .
+
+starting from the bottom right are two crochet hooks , two stitch holders ( like big blunt safety pins ), and two cable needles in pink and green .
+
+for large or complex knitting patterns , it is sometimes difficult to keep track of which stitch should be knit in a particular way ; therefore , several tools have been developed to identify the number of a particular row or stitch , including circular stitch markers , hanging markers , extra yarn and row counters .
+
+knitting styles / holds [ edit ] continental / german style [ edit ] main article : continental knitting continental knitting is achieved by holding the yarn in your left hand for both knitting and purling .
+
+norwegian style [ edit ] main article : norwegian knitting while knit stitches are worked as in the classic continental style , the purl is worked by leaving the yarn at back and moving the needle .
+
+english style [ edit ] main article : english knitting english - style knitting is achieved by holding the yarn in your right hand .
+
+double knitting [ edit ] main article : double knittinga technique used to create a flat , smooth , reversible fabric that looks like stockinette or jersey on both sides , rather than having a knit face and a purl reverse side .
+
+fair isle [ edit ] main article : fair isle ( technique ) a method by which many different yarns are used throughout the row and when not being used are floated on the wrong side of the piece .
+
+[ 27 ][ 28 ][ 29 ] she has published bugknits : extreme knitting for hobbyists , artists and knitters ( 2009 , blurb : isbn 978 - 1320025546 ).
+
+[ 30 ][ 31 ] short row [ edit ] main article : short row ( knitting ) in short row knitting , the work is turned before a row is fully knitted .
+
+twined knitting [ edit ] main article : twined knitting the technique , also known as two - end knitting , is a traditional scandinavian knitting technique .
+
+for individual hobbyists , websites such as etsy , big cartel and ravelry have made it easy to sell knitting patterns on a small scale , in a way similar to ebay .
+
+graffiti [ edit ] main article : yarn bombing in the 2000s , a practice called knitting graffiti , guerilla knitting , or yarn bombing — the use of knitted or crocheted cloth to modify and beautify one ' s ( usually outdoor ) surroundings — emerged in the u .
+
+[ 32 ] magda sayeg is credited with starting the movement in the us and knit the city are a prominent group of graffiti knitters in the united kingdom .
+
+for instance , dave cole is a contemporary sculpture artist who practiced knitting as graffiti for a large - scale public art installation in melbourne , australia for the big west arts festival in 2009 .
+
+[ 34 ] a new movie , shot by a tasmanian filmmaker on a set made almost entirely out of yarn , was partially inspired by " knitted graffiti ".
+
+over the multi - day period , multiple local yarn and knit shops participate in the yarn crawl and offer up store discounts , give away free exclusive patterns , provide classes , trunk shows and conduct raffles for prizes .
+
+participants of the crawl receive a passport and get their passport stamped at each store they visit along the crawl .
+
+[ 36 ][ 37 ][ 38 ][ 39 ] charity [ edit ] drawing by marguerite martyn of two women and a child knitting for the war effort at a st .
+
+[ 41 ] originally started after the 2004 indonesian tsunami , knitters without borders [ 42 ] is a charity challenge issued by knitting personality stephanie pearl - mcphee that encourages hand knitters to donate to médecins sans frontières ( doctors without borders ).
+
+the project was started in memory of a young woman who had collected plastic toy ducks and who died from cystic fibrosis while waiting for a lung transplant .
+
+these studies have found the rhythmic and repetitive action of hand knitting can help prevent and manage stress , pain and depression , which in turn strengthens the body ' s immune system ,[ 47 ] as well as create a relaxation response in the body which can decrease blood pressure , heart rate , help prevent illness , and have a calming effect .
+
+this keeps the fingers limber and can be especially helpful for those with arthritis .
+
+knitting can reduce the pain of arthritis if people make it a daily habit .
+
+[ 2 ] notable knitters [ edit ] cat bordhi - pioneered teaching new and efficient knitting techniques kaffe fassett - american - born , british - based artist known for his colorful designs in the decorative arts stephanie pearl - mcphee - is a writer , knitter , and knit - wear designer magda sayeg - creator of knitta please knit graffiti movement barbara g .
+
+see also [ edit ] clothing portaltextile arts portal fiber art finger knitting knitted fabric knitting abbreviations knitting clubs the knitting guild association crochet macramé the tempestry project textile manufacturing yarn bombing sweater curse handicraft references [ edit ] ^ " techniques with theresa , frog pond edition ".
+
+a wale starts as soon as an empty needle starts to knit " ( spencer 1989 : 17 ).
+
+^ bartlett , roxana ( 1998 ).
+
+martin ' s press .
+
+collection bouvier , exposition 1993 - 1994 , musée d ' art et d ' histoire à genève .
+
+^ " knitting glass ( fiberarts magazine summer issue 2011 )" ( pdf ).
+
+^ partlow , mia . "
+
+arts & culture - indiana public media .
+
+knitters turn to graffiti artists with ' yarnbombing '".
+
+artists in pink fit as big knit vandal unravels artwork ".
+
+a new movie , shot by a tasmanian filmmaker on a set made almost entirely out of yarn , was partially inspired by " knitted graffiti "".
+
+stewart , tabori and chang , new york .
+
+wikisource has the text of the 1905 new international encyclopedia article " knitting ".
+
+us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts , relationship to needle size and typical usage .
+
+ravelry provides a personal notebook for fiber artists to keep track of their projects , yarns & fibers , tools , and pattern library , a rich database of patterns and yarns , and a community with thousands of forums and groups to connect with other ravelers over any interest you could think of ."
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette / stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding / casting off bobble brioche knitting buttonhole cables casting on double knitting drop - stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip - stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee ( inventor ) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl - mcphee alice starmore debbie stoller meg swansen barbara g .
+
+walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch ' n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from " https :// en .
+
+title = knitting & oldid = 1149831060 " categories : knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories : webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023 , at 17 : 57 ( utc ).
+
+knitting - wikipedia jump to content main menu main menu move to sidebar hide navigation main pagecontentscurrent eventsrandom articleabout wikipediacontact usdonate contribute helplearn to editcommunity portalrecent changesupload file languages language links are at the top of the page across from the title.
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1structure toggle structure subsection 1.1courses and wales 1.2weft and warp knitting[3] 1.3knit and purl stitches 1.4differences between knitting and crocheting 1.5right- and left-plaited stitches 1.6edges and joins between fabrics 1.7cables, increases, and lace 1.8ornamentations and additions 2history and culture 3properties of fabrics toggle properties of fabrics subsection 3.1texture 3.2color 4hand knitting process 5materials toggle materials subsection 5.1yarn 5.2metal wire 5.3glass and wax 6tools toggle tools subsection 6.1needles 6.1.1largest circular knitting needles 6.1.2record 6.2ancillary tools 7knitting styles/holds toggle knitting styles/holds subsection 7.1continental/german style 7.1.1norwegian style 7.1.2russian style 7.2english style 7.3portuguese/greek/incan/turkish style 8knitting techniques toggle knitting techniques subsection 8.1armenian 8.2double knitting 8.3fair isle 8.4mega knitting 8.5micro knitting 8.6short row 8.6.1wrap and turn 8.6.2german short row 8.6.3japanese short row 8.7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةবাংলাбашҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ್ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia method of forming fabric from yarn "knit" redirects here.
+
+this article needs additional citations for verification.
+
+please help improve this article by adding citations to reliable sources.
+
+knitted garments are often more form-fitting than woven garments, since their elasticity allows them to contour to the body's outline more closely; by contrast, curvature is introduced into most woven garments only with sewn darts, flares, gussets and gores, the seams of which lower the elasticity of the woven fabric still further.
+
+extra curvature can be introduced into knitted garments without seams, as in the heel of a sock; the effect of darts, flares, etc.
+
+the upper red course is purled into the row below and then is knit, consistent with 'garter' stitch.
+
+in the simplest of hand-knitted fabrics, every row of stitches are all knit (or all purl); this creates a garter stitch fabric.
+
+fabrics in which each knitted row is followed by a purled row, such as in stockinette/stocking stitch, have a tendency to curl—top and bottom curl toward the front (or knitted side) while the sides curl toward the back (or purled side); by contrast, those in which knit and purl stitches are arranged symmetrically (such as ribbing, garter stitch or seed/moss stitch) have more texture and tend to lie flat.
+
+for example, a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts.
+
+history and culture[edit] main article: history of knitting the word is derived from knot and ultimately from the old english cnyttan, to knot.
+
+[13] the exact origins of knitting are unknown, the earliest known examples being cotton socks found in the remains of the city of fustat, now part of cairo.
+
+his collection of books about knitting is now housed at the winchester school of art (university of southampton).
+
+properties of fabrics[edit] main article: knitted fabric schematic of stockinette stitch, the most basic weft-knit fabric the topology of a knitted fabric is relatively complex.
+
+stitches can be worked from either side, and various patterns are created by mixing regular knit stitches with the "wrong side" stitches, known as purl stitches, either in columns (ribbing), rows (garter, welting), or more complex patterns.
+
+each fabric has different properties: a garter stitch has much more vertical stretch, while ribbing stretches much more horizontally.
+
+other simple textures can be made with nothing but knit and purl stitches, including garter stitch, ribbing, and moss and seed stitches.
+
+in hand knitting certain articles of clothing, especially larger ones like sweaters, the final knitted garment will be made of several knitted pieces, with individual sections of the garment hand knitted separately and then sewn together.
+
+hats in particular can be started "top down" on double pointed needles with the increases added until the preferred size is achieved, switching to an appropriate circular needle when enough stitches have been added.
+
+materials[edit] yarn[edit] main article: yarn a hank of wool yarn (center) is uncoiled into its basic loop.
+
+a yarn's usefulness for a knitting project is judged by several factors, such as its loft (its ability to trap air), its resilience (elasticity under tension), its washability and colorfastness, its hand (its feel, particularly softness vs. scratchiness), its durability against abrasion, its resistance to pilling, its hairiness (fuzziness), its tendency to twist or untwist, its overall weight and drape, its blocking and felting qualities, its comfort (breathability, moisture absorption, wicking properties) and of course its look, which includes its color, sheen, smoothness and ornamental features.
+
+the dyeing of yarns is a complex art that has a long history.
+
+needles[edit] main article: knitting needle knitting needles in a variety of sizes and materials.
+
+although the diameter of the knitting needle is often measured in millimeters, there are several measurement systems, particularly those specific to the united states, the united kingdom and japan; a conversion table is given at knitting needle.
+
+starting from the bottom right are two crochet hooks, two stitch holders (like big blunt safety pins), and two cable needles in pink and green.
+
+for large or complex knitting patterns, it is sometimes difficult to keep track of which stitch should be knit in a particular way; therefore, several tools have been developed to identify the number of a particular row or stitch, including circular stitch markers, hanging markers, extra yarn and row counters.
+
+knitting styles/holds[edit] continental/german style[edit] main article: continental knitting continental knitting is achieved by holding the yarn in your left hand for both knitting and purling.
+
+norwegian style[edit] main article: norwegian knitting while knit stitches are worked as in the classic continental style, the purl is worked by leaving the yarn at back and moving the needle.
+
+english style[edit] main article: english knitting english-style knitting is achieved by holding the yarn in your right hand.
+
+double knitting[edit] main article: double knittinga technique used to create a flat, smooth, reversible fabric that looks like stockinette or jersey on both sides, rather than having a knit face and a purl reverse side.
+
+fair isle[edit] main article: fair isle (technique) a method by which many different yarns are used throughout the row and when not being used are floated on the wrong side of the piece.
+
+[27][28][29] she has published bugknits: extreme knitting for hobbyists, artists and knitters (2009, blurb: isbn 978-1320025546).
+
+[30][31] short row[edit] main article: short row (knitting) in short row knitting, the work is turned before a row is fully knitted.
+
+twined knitting[edit] main article: twined knitting the technique, also known as two-end knitting, is a traditional scandinavian knitting technique.
+
+for individual hobbyists, websites such as etsy, big cartel and ravelry have made it easy to sell knitting patterns on a small scale, in a way similar to ebay.
+
+graffiti[edit] main article: yarn bombing in the 2000s, a practice called knitting graffiti, guerilla knitting, or yarn bombing—the use of knitted or crocheted cloth to modify and beautify one's (usually outdoor) surroundings—emerged in the u.s. and spread worldwide.
+
+[32] magda sayeg is credited with starting the movement in the us and knit the city are a prominent group of graffiti knitters in the united kingdom.
+
+for instance, dave cole is a contemporary sculpture artist who practiced knitting as graffiti for a large-scale public art installation in melbourne, australia for the big west arts festival in 2009. the work was vandalized the night of its completion.
+
+[34] a new movie, shot by a tasmanian filmmaker on a set made almost entirely out of yarn, was partially inspired by "knitted graffiti".
+
+over the multi-day period, multiple local yarn and knit shops participate in the yarn crawl and offer up store discounts, give away free exclusive patterns, provide classes, trunk shows and conduct raffles for prizes.
+
+participants of the crawl receive a passport and get their passport stamped at each store they visit along the crawl.
+
+[36][37][38][39] charity[edit] drawing by marguerite martyn of two women and a child knitting for the war effort at a st. louis, missouri, red cross office in 1917 hand knitting garments for free distribution to others has become common practice among hand knitting groups.
+
+[41] originally started after the 2004 indonesian tsunami, knitters without borders[42] is a charity challenge issued by knitting personality stephanie pearl-mcphee that encourages hand knitters to donate to médecins sans frontières (doctors without borders).
+
+the project was started in memory of a young woman who had collected plastic toy ducks and who died from cystic fibrosis while waiting for a lung transplant.
+
+these studies have found the rhythmic and repetitive action of hand knitting can help prevent and manage stress, pain and depression, which in turn strengthens the body's immune system,[47] as well as create a relaxation response in the body which can decrease blood pressure, heart rate, help prevent illness, and have a calming effect.
+
+this keeps the fingers limber and can be especially helpful for those with arthritis.
+
+knitting can reduce the pain of arthritis if people make it a daily habit.
+
+[2] notable knitters[edit] cat bordhi - pioneered teaching new and efficient knitting techniques kaffe fassett - american-born, british-based artist known for his colorful designs in the decorative arts stephanie pearl-mcphee - is a writer, knitter, and knit-wear designer magda sayeg - creator of knitta please knit graffiti movement barbara g. walker - author of several encyclopedic knitting references stephen west - american knitter, fashion designer, educator, and author known for his knitting patterns and strong use of color elizabeth zimmermann - british-born hand knitting teacher and designer tom daley - british olympic gold medallist and knitting and crochet designer.
+
+see also[edit] clothing portaltextile arts portal fiber art finger knitting knitted fabric knitting abbreviations knitting clubs the knitting guild association crochet macramé the tempestry project textile manufacturing yarn bombing sweater curse handicraft references[edit] ^ "techniques with theresa, frog pond edition".
+
+a wale starts as soon as an empty needle starts to knit" (spencer 1989:17).
+
+^ bartlett, roxana (1998).
+
+st. martin's press.
+
+collection bouvier, exposition 1993-1994, musée d'art et d'histoire à genève.
+
+^ "knitting glass (fiberarts magazine summer issue 2011)" (pdf).
+
+^ partlow, mia.
+
+arts & culture - indiana public media.
+
+"knitters turn to graffiti artists with 'yarnbombing'".
+
+"artists in pink fit as big knit vandal unravels artwork".
+
+"a new movie, shot by a tasmanian filmmaker on a set made almost entirely out of yarn, was partially inspired by "knitted graffiti"".
+
+stewart, tabori and chang, new york.
+
+wikisource has the text of the 1905 new international encyclopedia article "knitting".
+
+retrieved 22 september 2007. us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts, relationship to needle size and typical usage.
+
+"ravelry provides a personal notebook for fiber artists to keep track of their projects, yarns & fibers, tools, and pattern library, a rich database of patterns and yarns, and a community with thousands of forums and groups to connect with other ravelers over any interest you could think of."
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette/stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding/casting off bobble brioche knitting buttonhole cables casting on double knitting drop-stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip-stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee (inventor) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl-mcphee alice starmore debbie stoller meg swansen barbara g. walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch 'n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from "https://en.wikipedia.org/w/index.php?title=knitting&oldid=1149831060" categories: knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories: webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+privacy policy about wikipedia disclaimers contact wikipedia mobile view developers statistics cookie statement knitting - wikipedia jump to content main menu main menu move to sidebar hide navigation main pagecontentscurrent eventsrandom articleabout wikipediacontact usdonate contribute helplearn to editcommunity portalrecent changesupload file languages language links are at the top of the page across from the title .
+
+7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةব াং ল া башҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어ह ि न ् द ी hrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ ್ ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမ ြ န ် မ ာ ဘ ာ သ ာ nederlands日本語norsk bokmålnorsk nynorskoccitanਪ ੰ ਜ ਾ ਬ ੀ polskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print / export download as pdfprintable version in other projects wikimedia commons from wikipedia , the free encyclopedia method of forming fabric from yarn " knit " redirects here .
+
+this article needs additional citations for verification .
+
+please help improve this article by adding citations to reliable sources .
+
+knitted garments are often more form - fitting than woven garments , since their elasticity allows them to contour to the body ' s outline more closely ; by contrast , curvature is introduced into most woven garments only with sewn darts , flares , gussets and gores , the seams of which lower the elasticity of the woven fabric still further .
+
+extra curvature can be introduced into knitted garments without seams , as in the heel of a sock ; the effect of darts , flares , etc .
+
+the upper red course is purled into the row below and then is knit , consistent with ' garter ' stitch .
+
+in the simplest of hand - knitted fabrics , every row of stitches are all knit ( or all purl ); this creates a garter stitch fabric .
+
+fabrics in which each knitted row is followed by a purled row , such as in stockinette / stocking stitch , have a tendency to curl — top and bottom curl toward the front ( or knitted side ) while the sides curl toward the back ( or purled side ); by contrast , those in which knit and purl stitches are arranged symmetrically ( such as ribbing , garter stitch or seed / moss stitch ) have more texture and tend to lie flat .
+
+for example , a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts .
+
+history and culture [ edit ] main article : history of knitting the word is derived from knot and ultimately from the old english cnyttan , to knot .
+
+[ 13 ] the exact origins of knitting are unknown , the earliest known examples being cotton socks found in the remains of the city of fustat , now part of cairo .
+
+his collection of books about knitting is now housed at the winchester school of art ( university of southampton ).
+
+properties of fabrics [ edit ] main article : knitted fabric schematic of stockinette stitch , the most basic weft - knit fabric the topology of a knitted fabric is relatively complex .
+
+stitches can be worked from either side , and various patterns are created by mixing regular knit stitches with the " wrong side " stitches , known as purl stitches , either in columns ( ribbing ), rows ( garter , welting ), or more complex patterns .
+
+each fabric has different properties : a garter stitch has much more vertical stretch , while ribbing stretches much more horizontally .
+
+other simple textures can be made with nothing but knit and purl stitches , including garter stitch , ribbing , and moss and seed stitches .
+
+in hand knitting certain articles of clothing , especially larger ones like sweaters , the final knitted garment will be made of several knitted pieces , with individual sections of the garment hand knitted separately and then sewn together .
+
+hats in particular can be started " top down " on double pointed needles with the increases added until the preferred size is achieved , switching to an appropriate circular needle when enough stitches have been added .
+
+materials [ edit ] yarn [ edit ] main article : yarn a hank of wool yarn ( center ) is uncoiled into its basic loop .
+
+a yarn ' s usefulness for a knitting project is judged by several factors , such as its loft ( its ability to trap air ), its resilience ( elasticity under tension ), its washability and colorfastness , its hand ( its feel , particularly softness vs .
+
+the dyeing of yarns is a complex art that has a long history .
+
+needles [ edit ] main article : knitting needle knitting needles in a variety of sizes and materials .
+
+although the diameter of the knitting needle is often measured in millimeters , there are several measurement systems , particularly those specific to the united states , the united kingdom and japan ; a conversion table is given at knitting needle .
+
+starting from the bottom right are two crochet hooks , two stitch holders ( like big blunt safety pins ), and two cable needles in pink and green .
+
+for large or complex knitting patterns , it is sometimes difficult to keep track of which stitch should be knit in a particular way ; therefore , several tools have been developed to identify the number of a particular row or stitch , including circular stitch markers , hanging markers , extra yarn and row counters .
+
+knitting styles / holds [ edit ] continental / german style [ edit ] main article : continental knitting continental knitting is achieved by holding the yarn in your left hand for both knitting and purling .
+
+norwegian style [ edit ] main article : norwegian knitting while knit stitches are worked as in the classic continental style , the purl is worked by leaving the yarn at back and moving the needle .
+
+english style [ edit ] main article : english knitting english - style knitting is achieved by holding the yarn in your right hand .
+
+double knitting [ edit ] main article : double knittinga technique used to create a flat , smooth , reversible fabric that looks like stockinette or jersey on both sides , rather than having a knit face and a purl reverse side .
+
+fair isle [ edit ] main article : fair isle ( technique ) a method by which many different yarns are used throughout the row and when not being used are floated on the wrong side of the piece .
+
+[ 27 ][ 28 ][ 29 ] she has published bugknits : extreme knitting for hobbyists , artists and knitters ( 2009 , blurb : isbn 978 - 1320025546 ).
+
+[ 30 ][ 31 ] short row [ edit ] main article : short row ( knitting ) in short row knitting , the work is turned before a row is fully knitted .
+
+twined knitting [ edit ] main article : twined knitting the technique , also known as two - end knitting , is a traditional scandinavian knitting technique .
+
+for individual hobbyists , websites such as etsy , big cartel and ravelry have made it easy to sell knitting patterns on a small scale , in a way similar to ebay .
+
+graffiti [ edit ] main article : yarn bombing in the 2000s , a practice called knitting graffiti , guerilla knitting , or yarn bombing — the use of knitted or crocheted cloth to modify and beautify one ' s ( usually outdoor ) surroundings — emerged in the u .
+
+[ 32 ] magda sayeg is credited with starting the movement in the us and knit the city are a prominent group of graffiti knitters in the united kingdom .
+
+for instance , dave cole is a contemporary sculpture artist who practiced knitting as graffiti for a large - scale public art installation in melbourne , australia for the big west arts festival in 2009 .
+
+[ 34 ] a new movie , shot by a tasmanian filmmaker on a set made almost entirely out of yarn , was partially inspired by " knitted graffiti ".
+
+over the multi - day period , multiple local yarn and knit shops participate in the yarn crawl and offer up store discounts , give away free exclusive patterns , provide classes , trunk shows and conduct raffles for prizes .
+
+participants of the crawl receive a passport and get their passport stamped at each store they visit along the crawl .
+
+[ 36 ][ 37 ][ 38 ][ 39 ] charity [ edit ] drawing by marguerite martyn of two women and a child knitting for the war effort at a st .
+
+[ 41 ] originally started after the 2004 indonesian tsunami , knitters without borders [ 42 ] is a charity challenge issued by knitting personality stephanie pearl - mcphee that encourages hand knitters to donate to médecins sans frontières ( doctors without borders ).
+
+the project was started in memory of a young woman who had collected plastic toy ducks and who died from cystic fibrosis while waiting for a lung transplant .
+
+these studies have found the rhythmic and repetitive action of hand knitting can help prevent and manage stress , pain and depression , which in turn strengthens the body ' s immune system ,[ 47 ] as well as create a relaxation response in the body which can decrease blood pressure , heart rate , help prevent illness , and have a calming effect .
+
+this keeps the fingers limber and can be especially helpful for those with arthritis .
+
+knitting can reduce the pain of arthritis if people make it a daily habit .
+
+[ 2 ] notable knitters [ edit ] cat bordhi - pioneered teaching new and efficient knitting techniques kaffe fassett - american - born , british - based artist known for his colorful designs in the decorative arts stephanie pearl - mcphee - is a writer , knitter , and knit - wear designer magda sayeg - creator of knitta please knit graffiti movement barbara g .
+
+see also [ edit ] clothing portaltextile arts portal fiber art finger knitting knitted fabric knitting abbreviations knitting clubs the knitting guild association crochet macramé the tempestry project textile manufacturing yarn bombing sweater curse handicraft references [ edit ] ^ " techniques with theresa , frog pond edition ".
+
+a wale starts as soon as an empty needle starts to knit " ( spencer 1989 : 17 ).
+
+^ bartlett , roxana ( 1998 ).
+
+martin ' s press .
+
+collection bouvier , exposition 1993 - 1994 , musée d ' art et d ' histoire à genève .
+
+^ " knitting glass ( fiberarts magazine summer issue 2011 )" ( pdf ).
+
+^ partlow , mia . "
+
+arts & culture - indiana public media .
+
+knitters turn to graffiti artists with ' yarnbombing '".
+
+artists in pink fit as big knit vandal unravels artwork ".
+
+a new movie , shot by a tasmanian filmmaker on a set made almost entirely out of yarn , was partially inspired by " knitted graffiti "".
+
+stewart , tabori and chang , new york .
+
+wikisource has the text of the 1905 new international encyclopedia article " knitting ".
+
+us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts , relationship to needle size and typical usage .
+
+ravelry provides a personal notebook for fiber artists to keep track of their projects , yarns & fibers , tools , and pattern library , a rich database of patterns and yarns , and a community with thousands of forums and groups to connect with other ravelers over any interest you could think of ."
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette / stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding / casting off bobble brioche knitting buttonhole cables casting on double knitting drop - stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip - stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee ( inventor ) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl - mcphee alice starmore debbie stoller meg swansen barbara g .
+
+walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch ' n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from " https :// en .
+
+title = knitting & oldid = 1149831060 " categories : knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories : webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023 , at 17 : 57 ( utc ).
+
+knitting - wikipedia jump to content main menu main menu move to sidebar hide navigation main pagecontentscurrent eventsrandom articleabout wikipediacontact usdonate contribute helplearn to editcommunity portalrecent changesupload file languages language links are at the top of the page across from the title.
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1structure toggle structure subsection 1.1courses and wales 1.2weft and warp knitting[3] 1.3knit and purl stitches 1.4differences between knitting and crocheting 1.5right- and left-plaited stitches 1.6edges and joins between fabrics 1.7cables, increases, and lace 1.8ornamentations and additions 2history and culture 3properties of fabrics toggle properties of fabrics subsection 3.1texture 3.2color 4hand knitting process 5materials toggle materials subsection 5.1yarn 5.2metal wire 5.3glass and wax 6tools toggle tools subsection 6.1needles 6.1.1largest circular knitting needles 6.1.2record 6.2ancillary tools 7knitting styles/holds toggle knitting styles/holds subsection 7.1continental/german style 7.1.1norwegian style 7.1.2russian style 7.2english style 7.3portuguese/greek/incan/turkish style 8knitting techniques toggle knitting techniques subsection 8.1armenian 8.2double knitting 8.3fair isle 8.4mega knitting 8.5micro knitting 8.6short row 8.6.1wrap and turn 8.6.2german short row 8.6.3japanese short row 8.7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةবাংলাбашҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ್ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia method of forming fabric from yarn "knit" redirects here.
+
+this article needs additional citations for verification.
+
+please help improve this article by adding citations to reliable sources.
+
+knitted garments are often more form-fitting than woven garments, since their elasticity allows them to contour to the body's outline more closely; by contrast, curvature is introduced into most woven garments only with sewn darts, flares, gussets and gores, the seams of which lower the elasticity of the woven fabric still further.
+
+extra curvature can be introduced into knitted garments without seams, as in the heel of a sock; the effect of darts, flares, etc.
+
+the upper red course is purled into the row below and then is knit, consistent with 'garter' stitch.
+
+in the simplest of hand-knitted fabrics, every row of stitches are all knit (or all purl); this creates a garter stitch fabric.
+
+fabrics in which each knitted row is followed by a purled row, such as in stockinette/stocking stitch, have a tendency to curl—top and bottom curl toward the front (or knitted side) while the sides curl toward the back (or purled side); by contrast, those in which knit and purl stitches are arranged symmetrically (such as ribbing, garter stitch or seed/moss stitch) have more texture and tend to lie flat.
+
+for example, a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts.
+
+history and culture[edit] main article: history of knitting the word is derived from knot and ultimately from the old english cnyttan, to knot.
+
+[13] the exact origins of knitting are unknown, the earliest known examples being cotton socks found in the remains of the city of fustat, now part of cairo.
+
+his collection of books about knitting is now housed at the winchester school of art (university of southampton).
+
+properties of fabrics[edit] main article: knitted fabric schematic of stockinette stitch, the most basic weft-knit fabric the topology of a knitted fabric is relatively complex.
+
+stitches can be worked from either side, and various patterns are created by mixing regular knit stitches with the "wrong side" stitches, known as purl stitches, either in columns (ribbing), rows (garter, welting), or more complex patterns.
+
+each fabric has different properties: a garter stitch has much more vertical stretch, while ribbing stretches much more horizontally.
+
+other simple textures can be made with nothing but knit and purl stitches, including garter stitch, ribbing, and moss and seed stitches.
+
+in hand knitting certain articles of clothing, especially larger ones like sweaters, the final knitted garment will be made of several knitted pieces, with individual sections of the garment hand knitted separately and then sewn together.
+
+hats in particular can be started "top down" on double pointed needles with the increases added until the preferred size is achieved, switching to an appropriate circular needle when enough stitches have been added.
+
+materials[edit] yarn[edit] main article: yarn a hank of wool yarn (center) is uncoiled into its basic loop.
+
+a yarn's usefulness for a knitting project is judged by several factors, such as its loft (its ability to trap air), its resilience (elasticity under tension), its washability and colorfastness, its hand (its feel, particularly softness vs. scratchiness), its durability against abrasion, its resistance to pilling, its hairiness (fuzziness), its tendency to twist or untwist, its overall weight and drape, its blocking and felting qualities, its comfort (breathability, moisture absorption, wicking properties) and of course its look, which includes its color, sheen, smoothness and ornamental features.
+
+the dyeing of yarns is a complex art that has a long history.
+
+needles[edit] main article: knitting needle knitting needles in a variety of sizes and materials.
+
+although the diameter of the knitting needle is often measured in millimeters, there are several measurement systems, particularly those specific to the united states, the united kingdom and japan; a conversion table is given at knitting needle.
+
+starting from the bottom right are two crochet hooks, two stitch holders (like big blunt safety pins), and two cable needles in pink and green.
+
+for large or complex knitting patterns, it is sometimes difficult to keep track of which stitch should be knit in a particular way; therefore, several tools have been developed to identify the number of a particular row or stitch, including circular stitch markers, hanging markers, extra yarn and row counters.
+
+knitting styles/holds[edit] continental/german style[edit] main article: continental knitting continental knitting is achieved by holding the yarn in your left hand for both knitting and purling.
+
+norwegian style[edit] main article: norwegian knitting while knit stitches are worked as in the classic continental style, the purl is worked by leaving the yarn at back and moving the needle.
+
+english style[edit] main article: english knitting english-style knitting is achieved by holding the yarn in your right hand.
+
+double knitting[edit] main article: double knittinga technique used to create a flat, smooth, reversible fabric that looks like stockinette or jersey on both sides, rather than having a knit face and a purl reverse side.
+
+fair isle[edit] main article: fair isle (technique) a method by which many different yarns are used throughout the row and when not being used are floated on the wrong side of the piece.
+
+[27][28][29] she has published bugknits: extreme knitting for hobbyists, artists and knitters (2009, blurb: isbn 978-1320025546).
+
+[30][31] short row[edit] main article: short row (knitting) in short row knitting, the work is turned before a row is fully knitted.
+
+twined knitting[edit] main article: twined knitting the technique, also known as two-end knitting, is a traditional scandinavian knitting technique.
+
+for individual hobbyists, websites such as etsy, big cartel and ravelry have made it easy to sell knitting patterns on a small scale, in a way similar to ebay.
+
+graffiti[edit] main article: yarn bombing in the 2000s, a practice called knitting graffiti, guerilla knitting, or yarn bombing—the use of knitted or crocheted cloth to modify and beautify one's (usually outdoor) surroundings—emerged in the u.s. and spread worldwide.
+
+[32] magda sayeg is credited with starting the movement in the us and knit the city are a prominent group of graffiti knitters in the united kingdom.
+
+for instance, dave cole is a contemporary sculpture artist who practiced knitting as graffiti for a large-scale public art installation in melbourne, australia for the big west arts festival in 2009. the work was vandalized the night of its completion.
+
+[34] a new movie, shot by a tasmanian filmmaker on a set made almost entirely out of yarn, was partially inspired by "knitted graffiti".
+
+over the multi-day period, multiple local yarn and knit shops participate in the yarn crawl and offer up store discounts, give away free exclusive patterns, provide classes, trunk shows and conduct raffles for prizes.
+
+participants of the crawl receive a passport and get their passport stamped at each store they visit along the crawl.
+
+[36][37][38][39] charity[edit] drawing by marguerite martyn of two women and a child knitting for the war effort at a st. louis, missouri, red cross office in 1917 hand knitting garments for free distribution to others has become common practice among hand knitting groups.
+
+[41] originally started after the 2004 indonesian tsunami, knitters without borders[42] is a charity challenge issued by knitting personality stephanie pearl-mcphee that encourages hand knitters to donate to médecins sans frontières (doctors without borders).
+
+the project was started in memory of a young woman who had collected plastic toy ducks and who died from cystic fibrosis while waiting for a lung transplant.
+
+these studies have found the rhythmic and repetitive action of hand knitting can help prevent and manage stress, pain and depression, which in turn strengthens the body's immune system,[47] as well as create a relaxation response in the body which can decrease blood pressure, heart rate, help prevent illness, and have a calming effect.
+
+this keeps the fingers limber and can be especially helpful for those with arthritis.
+
+knitting can reduce the pain of arthritis if people make it a daily habit.
+
+[2] notable knitters[edit] cat bordhi - pioneered teaching new and efficient knitting techniques kaffe fassett - american-born, british-based artist known for his colorful designs in the decorative arts stephanie pearl-mcphee - is a writer, knitter, and knit-wear designer magda sayeg - creator of knitta please knit graffiti movement barbara g. walker - author of several encyclopedic knitting references stephen west - american knitter, fashion designer, educator, and author known for his knitting patterns and strong use of color elizabeth zimmermann - british-born hand knitting teacher and designer tom daley - british olympic gold medallist and knitting and crochet designer.
+
+see also[edit] clothing portaltextile arts portal fiber art finger knitting knitted fabric knitting abbreviations knitting clubs the knitting guild association crochet macramé the tempestry project textile manufacturing yarn bombing sweater curse handicraft references[edit] ^ "techniques with theresa, frog pond edition".
+
+a wale starts as soon as an empty needle starts to knit" (spencer 1989:17).
+
+^ bartlett, roxana (1998).
+
+st. martin's press.
+
+collection bouvier, exposition 1993-1994, musée d'art et d'histoire à genève.
+
+^ "knitting glass (fiberarts magazine summer issue 2011)" (pdf).
+
+^ partlow, mia.
+
+arts & culture - indiana public media.
+
+"knitters turn to graffiti artists with 'yarnbombing'".
+
+"artists in pink fit as big knit vandal unravels artwork".
+
+"a new movie, shot by a tasmanian filmmaker on a set made almost entirely out of yarn, was partially inspired by "knitted graffiti"".
+
+stewart, tabori and chang, new york.
+
+wikisource has the text of the 1905 new international encyclopedia article "knitting".
+
+retrieved 22 september 2007. us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts, relationship to needle size and typical usage.
+
+"ravelry provides a personal notebook for fiber artists to keep track of their projects, yarns & fibers, tools, and pattern library, a rich database of patterns and yarns, and a community with thousands of forums and groups to connect with other ravelers over any interest you could think of."
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette/stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding/casting off bobble brioche knitting buttonhole cables casting on double knitting drop-stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip-stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee (inventor) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl-mcphee alice starmore debbie stoller meg swansen barbara g. walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch 'n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from "https://en.wikipedia.org/w/index.php?title=knitting&oldid=1149831060" categories: knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories: webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+privacy policy about wikipedia disclaimers contact wikipedia mobile view developers statistics cookie statement knitting - wikipedia jump to content main menu main menu move to sidebar hide navigation main pagecontentscurrent eventsrandom articleabout wikipediacontact usdonate contribute helplearn to editcommunity portalrecent changesupload file languages language links are at the top of the page across from the title .
+
+7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةব াং ল া башҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어ह ि न ् द ी hrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ ್ ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမ ြ န ် မ ာ ဘ ာ သ ာ nederlands日本語norsk bokmålnorsk nynorskoccitanਪ ੰ ਜ ਾ ਬ ੀ polskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print / export download as pdfprintable version in other projects wikimedia commons from wikipedia , the free encyclopedia method of forming fabric from yarn " knit " redirects here .
+
+this article needs additional citations for verification .
+
+please help improve this article by adding citations to reliable sources .
+
+knitted garments are often more form - fitting than woven garments , since their elasticity allows them to contour to the body ' s outline more closely ; by contrast , curvature is introduced into most woven garments only with sewn darts , flares , gussets and gores , the seams of which lower the elasticity of the woven fabric still further .
+
+extra curvature can be introduced into knitted garments without seams , as in the heel of a sock ; the effect of darts , flares , etc .
+
+the upper red course is purled into the row below and then is knit , consistent with ' garter ' stitch .
+
+in the simplest of hand - knitted fabrics , every row of stitches are all knit ( or all purl ); this creates a garter stitch fabric .
+
+fabrics in which each knitted row is followed by a purled row , such as in stockinette / stocking stitch , have a tendency to curl — top and bottom curl toward the front ( or knitted side ) while the sides curl toward the back ( or purled side ); by contrast , those in which knit and purl stitches are arranged symmetrically ( such as ribbing , garter stitch or seed / moss stitch ) have more texture and tend to lie flat .
+
+for example , a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts .
+
+history and culture [ edit ] main article : history of knitting the word is derived from knot and ultimately from the old english cnyttan , to knot .
+
+[ 13 ] the exact origins of knitting are unknown , the earliest known examples being cotton socks found in the remains of the city of fustat , now part of cairo .
+
+his collection of books about knitting is now housed at the winchester school of art ( university of southampton ).
+
+properties of fabrics [ edit ] main article : knitted fabric schematic of stockinette stitch , the most basic weft - knit fabric the topology of a knitted fabric is relatively complex .
+
+stitches can be worked from either side , and various patterns are created by mixing regular knit stitches with the " wrong side " stitches , known as purl stitches , either in columns ( ribbing ), rows ( garter , welting ), or more complex patterns .
+
+each fabric has different properties : a garter stitch has much more vertical stretch , while ribbing stretches much more horizontally .
+
+other simple textures can be made with nothing but knit and purl stitches , including garter stitch , ribbing , and moss and seed stitches .
+
+in hand knitting certain articles of clothing , especially larger ones like sweaters , the final knitted garment will be made of several knitted pieces , with individual sections of the garment hand knitted separately and then sewn together .
+
+hats in particular can be started " top down " on double pointed needles with the increases added until the preferred size is achieved , switching to an appropriate circular needle when enough stitches have been added .
+
+materials [ edit ] yarn [ edit ] main article : yarn a hank of wool yarn ( center ) is uncoiled into its basic loop .
+
+a yarn ' s usefulness for a knitting project is judged by several factors , such as its loft ( its ability to trap air ), its resilience ( elasticity under tension ), its washability and colorfastness , its hand ( its feel , particularly softness vs .
+
+the dyeing of yarns is a complex art that has a long history .
+
+needles [ edit ] main article : knitting needle knitting needles in a variety of sizes and materials .
+
+although the diameter of the knitting needle is often measured in millimeters , there are several measurement systems , particularly those specific to the united states , the united kingdom and japan ; a conversion table is given at knitting needle .
+
+starting from the bottom right are two crochet hooks , two stitch holders ( like big blunt safety pins ), and two cable needles in pink and green .
+
+for large or complex knitting patterns , it is sometimes difficult to keep track of which stitch should be knit in a particular way ; therefore , several tools have been developed to identify the number of a particular row or stitch , including circular stitch markers , hanging markers , extra yarn and row counters .
+
+knitting styles / holds [ edit ] continental / german style [ edit ] main article : continental knitting continental knitting is achieved by holding the yarn in your left hand for both knitting and purling .
+
+norwegian style [ edit ] main article : norwegian knitting while knit stitches are worked as in the classic continental style , the purl is worked by leaving the yarn at back and moving the needle .
+
+english style [ edit ] main article : english knitting english - style knitting is achieved by holding the yarn in your right hand .
+
+double knitting [ edit ] main article : double knittinga technique used to create a flat , smooth , reversible fabric that looks like stockinette or jersey on both sides , rather than having a knit face and a purl reverse side .
+
+fair isle [ edit ] main article : fair isle ( technique ) a method by which many different yarns are used throughout the row and when not being used are floated on the wrong side of the piece .
+
+[ 27 ][ 28 ][ 29 ] she has published bugknits : extreme knitting for hobbyists , artists and knitters ( 2009 , blurb : isbn 978 - 1320025546 ).
+
+[ 30 ][ 31 ] short row [ edit ] main article : short row ( knitting ) in short row knitting , the work is turned before a row is fully knitted .
+
+twined knitting [ edit ] main article : twined knitting the technique , also known as two - end knitting , is a traditional scandinavian knitting technique .
+
+for individual hobbyists , websites such as etsy , big cartel and ravelry have made it easy to sell knitting patterns on a small scale , in a way similar to ebay .
+
+graffiti [ edit ] main article : yarn bombing in the 2000s , a practice called knitting graffiti , guerilla knitting , or yarn bombing — the use of knitted or crocheted cloth to modify and beautify one ' s ( usually outdoor ) surroundings — emerged in the u .
+
+[ 32 ] magda sayeg is credited with starting the movement in the us and knit the city are a prominent group of graffiti knitters in the united kingdom .
+
+for instance , dave cole is a contemporary sculpture artist who practiced knitting as graffiti for a large - scale public art installation in melbourne , australia for the big west arts festival in 2009 .
+
+[ 34 ] a new movie , shot by a tasmanian filmmaker on a set made almost entirely out of yarn , was partially inspired by " knitted graffiti ".
+
+over the multi - day period , multiple local yarn and knit shops participate in the yarn crawl and offer up store discounts , give away free exclusive patterns , provide classes , trunk shows and conduct raffles for prizes .
+
+participants of the crawl receive a passport and get their passport stamped at each store they visit along the crawl .
+
+[ 36 ][ 37 ][ 38 ][ 39 ] charity [ edit ] drawing by marguerite martyn of two women and a child knitting for the war effort at a st .
+
+[ 41 ] originally started after the 2004 indonesian tsunami , knitters without borders [ 42 ] is a charity challenge issued by knitting personality stephanie pearl - mcphee that encourages hand knitters to donate to médecins sans frontières ( doctors without borders ).
+
+the project was started in memory of a young woman who had collected plastic toy ducks and who died from cystic fibrosis while waiting for a lung transplant .
+
+these studies have found the rhythmic and repetitive action of hand knitting can help prevent and manage stress , pain and depression , which in turn strengthens the body ' s immune system ,[ 47 ] as well as create a relaxation response in the body which can decrease blood pressure , heart rate , help prevent illness , and have a calming effect .
+
+this keeps the fingers limber and can be especially helpful for those with arthritis .
+
+knitting can reduce the pain of arthritis if people make it a daily habit .
+
+[ 2 ] notable knitters [ edit ] cat bordhi - pioneered teaching new and efficient knitting techniques kaffe fassett - american - born , british - based artist known for his colorful designs in the decorative arts stephanie pearl - mcphee - is a writer , knitter , and knit - wear designer magda sayeg - creator of knitta please knit graffiti movement barbara g .
+
+see also [ edit ] clothing portaltextile arts portal fiber art finger knitting knitted fabric knitting abbreviations knitting clubs the knitting guild association crochet macramé the tempestry project textile manufacturing yarn bombing sweater curse handicraft references [ edit ] ^ " techniques with theresa , frog pond edition ".
+
+a wale starts as soon as an empty needle starts to knit " ( spencer 1989 : 17 ).
+
+^ bartlett , roxana ( 1998 ).
+
+martin ' s press .
+
+collection bouvier , exposition 1993 - 1994 , musée d ' art et d ' histoire à genève .
+
+^ " knitting glass ( fiberarts magazine summer issue 2011 )" ( pdf ).
+
+^ partlow , mia . "
+
+arts & culture - indiana public media .
+
+knitters turn to graffiti artists with ' yarnbombing '".
+
+artists in pink fit as big knit vandal unravels artwork ".
+
+a new movie , shot by a tasmanian filmmaker on a set made almost entirely out of yarn , was partially inspired by " knitted graffiti "".
+
+stewart , tabori and chang , new york .
+
+wikisource has the text of the 1905 new international encyclopedia article " knitting ".
+
+us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts , relationship to needle size and typical usage .
+
+ravelry provides a personal notebook for fiber artists to keep track of their projects , yarns & fibers , tools , and pattern library , a rich database of patterns and yarns , and a community with thousands of forums and groups to connect with other ravelers over any interest you could think of ."
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette / stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding / casting off bobble brioche knitting buttonhole cables casting on double knitting drop - stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip - stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee ( inventor ) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl - mcphee alice starmore debbie stoller meg swansen barbara g .
+
+walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch ' n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from " https :// en .
+
+title = knitting & oldid = 1149831060 " categories : knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories : webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023 , at 17 : 57 ( utc ).
+
+– create the world you want skip to content create the world you want live the life you imagine about enermazing quotes specials free downloads menu about courseshaper world of magnifica quilting oneness enermazing quotes specials november 2011: nanowrimo – but not only free downloads how to get everything you want in life arts & crafts, creativity, featured, realise your dreams, true storiesknitting with glass – impossible!?
+
+creation starts with an idea or vision – but it takes determination, endurance and resilience to bring it into being, to realise what formerly existed only in our mind.
+
+which is exactly what happened a few weeks ago when i came across artwork which i would not have believed possible: “knitted glass” by carol milne.
+
+you can crack or break single threads without the whole structure falling apart.
+
+related articles: blood-lines of action – butterfly effects for change (creatingreciprocity.wordpress.com) you are very welcome to share this post!facebookemailtwitterpinterestpocketreddittumblrmorelinkedinprintlike this:like loading... related tagged creation, creativity, determination, discover potential, realise dreams, resilience, self-expression, vision published by maria hi, i'm maria.
+
+i grew up in a very creative family, and creativity is part of my normal life.
+
+in 1989 i started teaching adults - in subjects as varied as arts & crafts, languages, and office skills - and training teachers-to-be.
+
+😉 will share with my mate as he is artistic and will enjoy this.
+
+🙂 reply enermazing says: 06/10/2011 at 07:44 thank you, marie, for your comment and visiting – i’m glad you enjoyed this post 🙂 i think i’ll start counting the “wow’s” in the comments and pass them on to carol.
+
+:) this article is reblogged by permission of the author – click this link to see the original post.
+
+categoriescategories select category arts & crafts blog award challenge yourself courseshaper creative routine hack creativity drawing/painting featured freebie frugal lifestyle have-your-say-day inspirational | motivational & other quotes mindset my enermazing toolbox productivity quilting oneness realise your dreams synchronicity the enermazing project the enermazing weekly ticker topic of the week true stories uncategorized world of magnifica writing writing buddies november 2011 tagsartist's block awareness balance causality choice colouring page compassion consciousness consolidation consumerism creation creative block creativity creativity exercise discover potential editorial calendar emotional intelligence emotions empathy exchange extremes failure first aid kit frugal-lifestyle frugal-living give-and-take giving goodness growth happiness happy-smile heightened awareness help imagination improvement kindness life life journey life priorities mental imagery motivation nanowrimo nanowrimo 2011 objective observation overcome limitations peace perception perfect day personal balance personal growth politics potential problem-solving-strategies quotes realise dreams reality check responsibility responsibility-quotes review self-confidence self-discovery self-expression self-fulfilment self-realisation self-transcendence setting priorities smile success or failure surprise sweet synchronicity travel light vision visualisation word art © 2011-2018 enermazing, unless stated otherwise disclaimer the content of this blog is for educational and motivational purposes only - although you're welcome to be inspired :) .
+
+– create the world you want skip to content create the world you want live the life you imagine about enermazing quotes specials free downloads menu about courseshaper world of magnifica quilting oneness enermazing quotes specials november 2011 : nanowrimo – but not only free downloads how to get everything you want in life arts & crafts , creativity , featured , realise your dreams , true storiesknitting with glass – impossible !
+
+creation starts with an idea or vision – but it takes determination , endurance and resilience to bring it into being , to realise what formerly existed only in our mind .
+
+which is exactly what happened a few weeks ago when i came across artwork which i would not have believed possible : “ knitted glass ” by carol milne .
+
+you can crack or break single threads without the whole structure falling apart .
+
+related articles : blood - lines of action – butterfly effects for change ( creatingreciprocity .
+
+i grew up in a very creative family , and creativity is part of my normal life .
+
+in 1989 i started teaching adults - in subjects as varied as arts & crafts , languages , and office skills - and training teachers - to - be .
+
+😉 will share with my mate as he is artistic and will enjoy this .
+
+🙂 reply enermazing says : 06 / 10 / 2011 at 07 : 44 thank you , marie , for your comment and visiting – i ’ m glad you enjoyed this post 🙂 i think i ’ ll start counting the “ wow ’ s ” in the comments and pass them on to carol .
+
+:) this article is reblogged by permission of the author – click this link to see the original post .
+
+categoriescategories select category arts & crafts blog award challenge yourself courseshaper creative routine hack creativity drawing / painting featured freebie frugal lifestyle have - your - say - day inspirational | motivational & other quotes mindset my enermazing toolbox productivity quilting oneness realise your dreams synchronicity the enermazing project the enermazing weekly ticker topic of the week true stories uncategorized world of magnifica writing writing buddies november 2011 tagsartist ' s block awareness balance causality choice colouring page compassion consciousness consolidation consumerism creation creative block creativity creativity exercise discover potential editorial calendar emotional intelligence emotions empathy exchange extremes failure first aid kit frugal - lifestyle frugal - living give - and - take giving goodness growth happiness happy - smile heightened awareness help imagination improvement kindness life life journey life priorities mental imagery motivation nanowrimo nanowrimo 2011 objective observation overcome limitations peace perception perfect day personal balance personal growth politics potential problem - solving - strategies quotes realise dreams reality check responsibility responsibility - quotes review self - confidence self - discovery self - expression self - fulfilment self - realisation self - transcendence setting priorities smile success or failure surprise sweet synchronicity travel light vision visualisation word art © 2011 - 2018 enermazing , unless stated otherwise disclaimer the content of this blog is for educational and motivational purposes only - although you ' re welcome to be inspired :) .
+
+ss 1st stitch, purl to last, but dont purl last put on holder, turn continue steps 1 and 2 until you have 1/2 of what you started with (e.g.
+
+hugs and kisses hybrid bagby ronda chapman aka offthehookart ﻿2012 supplies:5mm knook hooksmall amount of worst yarn (a skein or less)stitch markers and/or row counter crochet bottom of bag:(ch3 always counts as a dc stitch.)
+
+start with a magic ring.
+
+when your chain is long enough and weaved through dc’s clip the yarn, but leave a long enough tail so that you can slipstitch back down the crochet chain to your starting point at the bottom of the bag.fasten off, and weave your ends.
+
+it's not that i don't want to, but i have a part time job, i am mother of 3 and wife that has decided to go to college to fulfill my dream of becoming a rn.
+
+do nothing else leave th... knooked hat crown down free pattern knooked hat by: ronda chapman offthehookart starting at the crown and knitting in the round materials: size g knook 4 ply worst yarn ne... hugs and kisses hybrid bag so while on break i thought would design a simple drawstring bag that has both knooking and crochet incorporated in it.
+
+!ronda about me unknown view my complete profile pages home everything, but knooking my favorite places japanese books click on under book to take a look "ipponbari" japanese knitting with a crochet hook my etsy store - offthehookart denise interchangeable hooks for knooking knooking jen's place picture window theme.
+
+ss 1st stitch , purl to last , but dont purl last put on holder , turn continue steps 1 and 2 until you have 1 / 2 of what you started with ( e .
+
+hugs and kisses hybrid bagby ronda chapman aka offthehookart ﻿ 2012 supplies : 5mm knook hooksmall amount of worst yarn ( a skein or less ) stitch markers and / or row counter crochet bottom of bag :( ch3 always counts as a dc stitch .)
+
+start with a magic ring .
+
+when your chain is long enough and weaved through dc ’ s clip the yarn , but leave a long enough tail so that you can slipstitch back down the crochet chain to your starting point at the bottom of the bag .
+
+it ' s not that i don ' t want to , but i have a part time job , i am mother of 3 and wife that has decided to go to college to fulfill my dream of becoming a rn .
+
+do nothing else leave th ... knooked hat crown down free pattern knooked hat by : ronda chapman offthehookart starting at the crown and knitting in the round materials : size g knook 4 ply worst yarn ne ... hugs and kisses hybrid bag so while on break i thought would design a simple drawstring bag that has both knooking and crochet incorporated in it .
+
+ronda about me unknown view my complete profile pages home everything , but knooking my favorite places japanese books click on under book to take a look " ipponbari " japanese knitting with a crochet hook my etsy store - offthehookart denise interchangeable hooks for knooking knooking jen ' s place picture window theme .
+
+this particular hold puts the working yarn in the non-dominant hand, which makes it a variant of continental; the knit stitches are worked just like the regular continental style.
+
+here's a chart of the main differences between eastern, western, and combination knitting methods.
+
+western eastern combination knit stitches leading leg in front leading leg in back leading leg in front purl stitches leading leg in front leading leg in back leading leg in back yarn wrap counter-clockwise(for right-handed) clockwise(for right-handed) counter-clockwise for knit (right-handed)clockwise for purl (right-handed) stitches worked through front loop worked through back loop worked through back loop for knitsworked through front loop for purls twisted stitches worked through back loop worked through front loop worked through front loop for knitsworked through back loop for purls check out this great article that goes deeper into the english vs continental debate!
+
+read nexthow to knit a hat free projects, giveaways, exclusive partner offers, and more straight to your inbox!
+
+register now for free to: save all your favorite patternsadd personal notesquickly reference your patterns log in join us todayforgot password connect with us our newest patterns & articles mangrove knit stitch woven-look throw knitting pattern loose ends easy to knit slipper pattern knit flat with bulky yarn on straight needles waffle stitch pattern stylish cardigan with colorful stripes unisex winter hat spider fingerless gloves waffle stitch kitchen towel see more see more of our newest patterns & articles free ebooks 15 free cute knitting patterns for every season 24 quick and easy knitting patterns 9 free knitting patterns perfect for spring a knitters gift guide: 8 homemade gift ideas a yarn hoarders guide to organization: knitting storage solutions, simple knitting patterns and more easy lace knitting patterns how to knit for beginners: 9 free tutorials the best light & lacy knit scarf patterns: 7 free scarf patterns for you see more see more free ebooks about us advertise contact us faq keyword index do not sell my personal information privacy policy share your project subscribe terms of service unsubscribe prime publishing craft group © copyright 2023 prime publishing, llc.
+
+click here to start sign in or join us today please sign into your account to add new images.
+
+the service is limited to parties that lawfully can enter into and form contracts under applicable law.
+
+you hereby grant to prime publishing and its affiliates a worldwide, nonexclusive, royalty-free, perpetual right and license to (a) reproduce, distribute, transmit, publicly perform and publicly display the materials, in whole or in part, in any manner and media, (b) modify, adapt, translate and create derivative works from the materials, in whole or in part, in any manner and media, and (c) sublicense the foregoing rights, in whole or in part, to any third party, with or without a fee.
+
+you represent and warrant to prime publishing and its affiliates that (a) you have the right, power, and authority necessary to enter into this agreement, to fully perform your obligations hereunder, and to grant the licenses set forth in paragraphs 3 and 5 above, (b) you will comply fully with all terms of this agreement, (c) the materials submitted to prime publishing by you, and prime publishing's and its affiliates' exercise of their rights hereunder, do not and will not violate, misappropriate or infringe any intellectual property right, including but not limited to trademark rights, copyrights, moral rights and publicity rights of any third party, (d) you possess all rights necessary for the reproduction, distribution, transmission, public performance, public display, and other exploitation of the materials by prime publishing and its affiliates as permitted hereunder, (e) the materials are not pornographic, obscene, libelous, defamatory, tortious, or otherwise unlawful, and (f) all factual statements submitted by you are accurate and not misleading.
+
+subject to that restriction, this agreement will be binding on, inure to, and be enforceable against the parties and their respective successors and permitted assigns.
+
+for example: images that highlight a article's features ("here are the controls on this music player", "see the clasp for this necklace", "look at the box this came in") images showing someone using a product ("here i am wearing this scarf", "install the ink cartridge here") images related to a topic ("my dog skipper", "a great outfit", "our family at yellowstone", "how to glue a chair using a cabinet clamp") images that show how a product performs ("i took this picture with this camera", "this shirt shrunk in the wash", "the saw blade after 100 cuts") images that give a sense of the size of the product ("this refrigerator is actually 6' tall", "a cellphone the size of a credit card") do include captions for your images.
+
+behave as if you were a guest at a friend's dinner party: please treat the prime publishing community with respect.
+
+generally your image will appear where you uploaded it: in the article image gallery.
+
+this particular hold puts the working yarn in the non - dominant hand , which makes it a variant of continental ; the knit stitches are worked just like the regular continental style .
+
+here ' s a chart of the main differences between eastern , western , and combination knitting methods .
+
+western eastern combination knit stitches leading leg in front leading leg in back leading leg in front purl stitches leading leg in front leading leg in back leading leg in back yarn wrap counter - clockwise ( for right - handed ) clockwise ( for right - handed ) counter - clockwise for knit ( right - handed ) clockwise for purl ( right - handed ) stitches worked through front loop worked through back loop worked through back loop for knitsworked through front loop for purls twisted stitches worked through back loop worked through front loop worked through front loop for knitsworked through back loop for purls check out this great article that goes deeper into the english vs continental debate !
+
+read nexthow to knit a hat free projects , giveaways , exclusive partner offers , and more straight to your inbox !
+
+register now for free to : save all your favorite patternsadd personal notesquickly reference your patterns log in join us todayforgot password connect with us our newest patterns & articles mangrove knit stitch woven - look throw knitting pattern loose ends easy to knit slipper pattern knit flat with bulky yarn on straight needles waffle stitch pattern stylish cardigan with colorful stripes unisex winter hat spider fingerless gloves waffle stitch kitchen towel see more see more of our newest patterns & articles free ebooks 15 free cute knitting patterns for every season 24 quick and easy knitting patterns 9 free knitting patterns perfect for spring a knitters gift guide : 8 homemade gift ideas a yarn hoarders guide to organization : knitting storage solutions , simple knitting patterns and more easy lace knitting patterns how to knit for beginners : 9 free tutorials the best light & lacy knit scarf patterns : 7 free scarf patterns for you see more see more free ebooks about us advertise contact us faq keyword index do not sell my personal information privacy policy share your project subscribe terms of service unsubscribe prime publishing craft group © copyright 2023 prime publishing , llc .
+
+click here to start sign in or join us today please sign into your account to add new images .
+
+the service is limited to parties that lawfully can enter into and form contracts under applicable law .
+
+you hereby grant to prime publishing and its affiliates a worldwide , nonexclusive , royalty - free , perpetual right and license to ( a ) reproduce , distribute , transmit , publicly perform and publicly display the materials , in whole or in part , in any manner and media , ( b ) modify , adapt , translate and create derivative works from the materials , in whole or in part , in any manner and media , and ( c ) sublicense the foregoing rights , in whole or in part , to any third party , with or without a fee .
+
+you represent and warrant to prime publishing and its affiliates that ( a ) you have the right , power , and authority necessary to enter into this agreement , to fully perform your obligations hereunder , and to grant the licenses set forth in paragraphs 3 and 5 above , ( b ) you will comply fully with all terms of this agreement , ( c ) the materials submitted to prime publishing by you , and prime publishing ' s and its affiliates ' exercise of their rights hereunder , do not and will not violate , misappropriate or infringe any intellectual property right , including but not limited to trademark rights , copyrights , moral rights and publicity rights of any third party , ( d ) you possess all rights necessary for the reproduction , distribution , transmission , public performance , public display , and other exploitation of the materials by prime publishing and its affiliates as permitted hereunder , ( e ) the materials are not pornographic , obscene , libelous , defamatory , tortious , or otherwise unlawful , and ( f ) all factual statements submitted by you are accurate and not misleading .
+
+subject to that restriction , this agreement will be binding on , inure to , and be enforceable against the parties and their respective successors and permitted assigns .
+
+for example : images that highlight a article ' s features (" here are the controls on this music player ", " see the clasp for this necklace ", " look at the box this came in ") images showing someone using a product (" here i am wearing this scarf ", " install the ink cartridge here ") images related to a topic (" my dog skipper ", " a great outfit ", " our family at yellowstone ", " how to glue a chair using a cabinet clamp ") images that show how a product performs (" i took this picture with this camera ", " this shirt shrunk in the wash ", " the saw blade after 100 cuts ") images that give a sense of the size of the product (" this refrigerator is actually 6 ' tall ", " a cellphone the size of a credit card ") do include captions for your images .
+
+behave as if you were a guest at a friend ' s dinner party : please treat the prime publishing community with respect .
+
+generally your image will appear where you uploaded it : in the article image gallery .
+

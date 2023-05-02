@@ -1,0 +1,784 @@
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1etymology 2origins 3irish crochet 4modern practice and culture 5materials toggle materials subsection 5.1crochet hook 5.2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12.1yarn bombing 12.2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةবাংলাcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisहिन्दीhrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमराठीမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification.
+
+the key difference between crochet and knitting, beyond the implements used for their production, is that each stitch in crochet is completed before the next one is begun, while knitting keeps many stitches open at a time.
+
+some variant forms of crochet, such as tunisian crochet and broomstick lace, do keep multiple crochet stitches open at a time.
+
+[3] it was used in 17th-century french lace-making, where the term crochetage designated a stitch used to join separate pieces of lace.
+
+[7] the first is "simple open crochet" (crochet simple ajour), a mesh of chain-stitch arches.
+
+the second (illustrated here) starts in a semi-open form (demi jour), where chain-stitch arches alternate with equally long segments of slip-stitch crochet, and closes with a star made with "double-crochet stitches" (dubbelde hekelsteek: double-crochet in british terminology; single-crochet in us).
+
+[12] an instruction book from 1846 describes shepherd or single crochet as what in current british usage is either called single crochet or slip-stitch crochet, with u.s. american terminology always using the latter (reserving single crochet for use as noted above).
+
+the tip of the needle shown there is indistinguishable from that of a present-day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique.
+
+[16] shepherd's hook, 19th-century tapered hook, modern inline hook the strong taper of the shepherd's hook eases the production of slip-stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time.
+
+[citation needed] the early instruction books make frequent reference to the alternative use of 'ivory, bone, or wooden hooks' and 'steel needles in a handle', as appropriate to the stitch being made.
+
+shepherd's hooks are still being made for local slip-stitch crochet traditions.
+
+crocheted laces in the new edwardian era, peaking between 1910 and 1920, became even more elaborate in texture and complicated stitching.
+
+examples of such tools include cardboard cutouts, which can be used to make tassels, fringe, and many other items; a pom-pom circle, used to make pom-poms; a tape measure and a gauge measure, both used for measuring crocheted work and counting stitches; a row counter; and occasionally plastic rings, which are used for special projects.
+
+[23] because sizing is categorized by the diameter of the hook's shaft, a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern.
+
+if gauge is not reached with one hook, another is used until the stitches made are the needed size.
+
+[citation needed] a hairpin loom is often used to create lacy and long stitches, known as hairpin lace.
+
+while this is not in itself a hook, it is a device used in conjunction with a crochet hook to produce stitches.
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern.
+
+hence, thicker yarns generally require fewer stitches, and therefore less time, to work up a given project.
+
+the chain is either turned and worked in rows, or joined to the beginning of the row with a slip stitch and worked in rounds.
+
+rounds can also be created by working many stitches into a single loop.
+
+stitches are made by pulling one or more loops through each loop of the chain.
+
+at any one time at the end of a stitch, there is only one loop left on the hook.
+
+[citation needed] types of stitches[edit] indian crochet white tablecloth about 1970. there are six main types of basic stitches (the following description uses us crochet terminology which differs from the terminology used in the uk and europe).
+
+chain stitch – the most basic of all stitches and used to begin most projects.
+
+slip stitch – used to join chain stitch to form a ring.
+
+single crochet stitch (called double crochet stitch in the uk) – easiest stitch to master half-double crochet stitch (called half treble stitch in the uk) – the 'in-between' stitch, sometimes called short double crochet in vintage publications double crochet stitch (called treble stitch in the uk) (yarn over once) – many uses for this unlimited use stitch treble (or triple) crochet stitch (called double treble stitch in the uk) (yarn over twice) while the horizontal distance covered by these basic stitches is the same, they differ in height and thickness.
+
+[citation needed] the more advanced stitches are often combinations of these basic stitches, or are made by inserting the hook into the work in unusual locations.
+
+more advanced stitches include the shell stitch, v stitch, spike stitch, afghan stitch, butterfly stitch, popcorn stitch, cluster stitch, and crocodile stitch.
+
+international crochet terms and notations[edit] main article: list of crochet stitches some crochet symbols, abbreviations, and us/uk terms in the english-speaking crochet world, basic stitches have different names that vary by country.
+
+crochet is traditionally worked off a written pattern in which stitches and placement are communicated using textual abbreviations.
+
+individual crocheters work yarn with a loose or a tight hold and, if unmeasured, these differences can lead to significant size changes in finished garments that have the same number of stitches.
+
+in order to control for this inconsistency, printed crochet instructions include a standard for the number of stitches across a standard swatch of fabric.
+
+north americans call this gauge, referring to the result of these adjustments; british crocheters speak of tension, which refers to the crafter's grip on the yarn while producing stitches.
+
+in most crochet, the artisan usually has only one live stitch on the hook (with the exception being tunisian crochet), while a knitter keeps an entire row of stitches active simultaneously.
+
+dropped stitches, which can unravel a knitted fabric, rarely interfere with crochet work, due to a second structural difference between knitting and crochet.
+
+in knitting, each stitch is supported by the corresponding stitch in the row above and it supports the corresponding stitch in the row below, whereas crochet stitches are only supported by and support the stitches on either side of it.
+
+if a stitch in a finished crocheted item breaks, the stitches above and below remain intact, and because of the complex looping of each stitch, the stitches on either side are unlikely to come loose unless heavily stressed.
+
+[citation needed] freeform crochet is a technique that can create interesting shapes in three dimensions because new stitches can be made independently of previous stitches almost anywhere in the crocheted piece.
+
+knitting can be accomplished by machine, while many crochet stitches can only be crafted by hand.
+
+the height of knitted and crocheted stitches is also different: a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools, and a double crochet stitch is about four times the height of a knit stitch.
+
+[28] slip stitch crochet is very similar to knitting.
+
+each stitch in slip stitch crochet is formed the same way as a knit or purl stitch which is then bound off.
+
+a person working in slip stitch crochet can follow a knitted pattern with knits, purls, and cables, and get a similar result.
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces.
+
+according to sources[30] claiming to have tested the 1/3 more yarn assertion, a single crochet stitch (sc) uses approximately the same amount of yarn as knit garter stitch, but more yarn than stockinette stitch.
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric.
+
+cluster stitches, which are in fact multiple stitches worked together, will use the most length.
+
+[citation needed] standard crochet stitches like sc and dc also produce a thicker fabric, more like knit garter stitch.
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn.
+
+[31] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time.
+
+knitting uses two or more straight needles that carry multiple stitches.
+
+[clarification needed] in section 53, he writes of the "loop stitch, or noeud coulant: a knot that, if untied, causes the whole system to unravel."
+
+90–94 ^ sarah hazell, 200 crochet stitches, search press, kent, 2013, isbn 978-1-84448-963-3 ^ [2] elizabeth grant, the memoirs of a highland lady, john murray, london, 1898 p. 182.
+
+9–10 ^ nancy nehring, learn slip stitch crochet, annie's attic, berne in, 2008, isbn 1596352159, p. 2 ^ [6] mlle.
+
+^ "slip stitch crochet « a yarnified life".
+
+the antique pattern library vtecrochettools crochet hook cro-hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control: national france bnf data germany israel united states czech republic retrieved from "https://en.wikipedia.org/w/index.php?title=crochet&oldid=1149831025" categories: crochetcraftsfigured fabricsneedleworkhidden categories: webarchive template wayback linksarticles with short descriptionshort description matches wikidataarticles needing additional references from march 2023all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from march 2023articles with unsourced statements from october 2022wikipedia articles needing clarification from october 2022commons category link is on wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with nkc identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12 .
+
+the key difference between crochet and knitting , beyond the implements used for their production , is that each stitch in crochet is completed before the next one is begun , while knitting keeps many stitches open at a time .
+
+some variant forms of crochet , such as tunisian crochet and broomstick lace , do keep multiple crochet stitches open at a time .
+
+[ 3 ] it was used in 17th - century french lace - making , where the term crochetage designated a stitch used to join separate pieces of lace .
+
+[ 7 ] the first is " simple open crochet " ( crochet simple ajour ), a mesh of chain - stitch arches .
+
+the second ( illustrated here ) starts in a semi - open form ( demi jour ), where chain - stitch arches alternate with equally long segments of slip - stitch crochet , and closes with a star made with " double - crochet stitches " ( dubbelde hekelsteek : double - crochet in british terminology ; single - crochet in us ).
+
+[ 12 ] an instruction book from 1846 describes shepherd or single crochet as what in current british usage is either called single crochet or slip - stitch crochet , with u .
+
+the tip of the needle shown there is indistinguishable from that of a present - day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique .
+
+[ 16 ] shepherd ' s hook , 19th - century tapered hook , modern inline hook the strong taper of the shepherd ' s hook eases the production of slip - stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time .
+
+[ citation needed ] the early instruction books make frequent reference to the alternative use of ' ivory , bone , or wooden hooks ' and ' steel needles in a handle ', as appropriate to the stitch being made .
+
+shepherd ' s hooks are still being made for local slip - stitch crochet traditions .
+
+crocheted laces in the new edwardian era , peaking between 1910 and 1920 , became even more elaborate in texture and complicated stitching .
+
+examples of such tools include cardboard cutouts , which can be used to make tassels , fringe , and many other items ; a pom - pom circle , used to make pom - poms ; a tape measure and a gauge measure , both used for measuring crocheted work and counting stitches ; a row counter ; and occasionally plastic rings , which are used for special projects .
+
+[ 23 ] because sizing is categorized by the diameter of the hook ' s shaft , a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern .
+
+if gauge is not reached with one hook , another is used until the stitches made are the needed size .
+
+[ citation needed ] a hairpin loom is often used to create lacy and long stitches , known as hairpin lace .
+
+while this is not in itself a hook , it is a device used in conjunction with a crochet hook to produce stitches .
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern .
+
+hence , thicker yarns generally require fewer stitches , and therefore less time , to work up a given project .
+
+the chain is either turned and worked in rows , or joined to the beginning of the row with a slip stitch and worked in rounds .
+
+rounds can also be created by working many stitches into a single loop .
+
+stitches are made by pulling one or more loops through each loop of the chain .
+
+at any one time at the end of a stitch , there is only one loop left on the hook .
+
+[ citation needed ] types of stitches [ edit ] indian crochet white tablecloth about 1970 .
+
+there are six main types of basic stitches ( the following description uses us crochet terminology which differs from the terminology used in the uk and europe ).
+
+chain stitch – the most basic of all stitches and used to begin most projects .
+
+slip stitch – used to join chain stitch to form a ring .
+
+single crochet stitch ( called double crochet stitch in the uk ) – easiest stitch to master half - double crochet stitch ( called half treble stitch in the uk ) – the ' in - between ' stitch , sometimes called short double crochet in vintage publications double crochet stitch ( called treble stitch in the uk ) ( yarn over once ) – many uses for this unlimited use stitch treble ( or triple ) crochet stitch ( called double treble stitch in the uk ) ( yarn over twice ) while the horizontal distance covered by these basic stitches is the same , they differ in height and thickness .
+
+[ citation needed ] the more advanced stitches are often combinations of these basic stitches , or are made by inserting the hook into the work in unusual locations .
+
+more advanced stitches include the shell stitch , v stitch , spike stitch , afghan stitch , butterfly stitch , popcorn stitch , cluster stitch , and crocodile stitch .
+
+international crochet terms and notations [ edit ] main article : list of crochet stitches some crochet symbols , abbreviations , and us / uk terms in the english - speaking crochet world , basic stitches have different names that vary by country .
+
+crochet is traditionally worked off a written pattern in which stitches and placement are communicated using textual abbreviations .
+
+individual crocheters work yarn with a loose or a tight hold and , if unmeasured , these differences can lead to significant size changes in finished garments that have the same number of stitches .
+
+in order to control for this inconsistency , printed crochet instructions include a standard for the number of stitches across a standard swatch of fabric .
+
+north americans call this gauge , referring to the result of these adjustments ; british crocheters speak of tension , which refers to the crafter ' s grip on the yarn while producing stitches .
+
+in most crochet , the artisan usually has only one live stitch on the hook ( with the exception being tunisian crochet ), while a knitter keeps an entire row of stitches active simultaneously .
+
+dropped stitches , which can unravel a knitted fabric , rarely interfere with crochet work , due to a second structural difference between knitting and crochet .
+
+in knitting , each stitch is supported by the corresponding stitch in the row above and it supports the corresponding stitch in the row below , whereas crochet stitches are only supported by and support the stitches on either side of it .
+
+if a stitch in a finished crocheted item breaks , the stitches above and below remain intact , and because of the complex looping of each stitch , the stitches on either side are unlikely to come loose unless heavily stressed .
+
+[ citation needed ] freeform crochet is a technique that can create interesting shapes in three dimensions because new stitches can be made independently of previous stitches almost anywhere in the crocheted piece .
+
+knitting can be accomplished by machine , while many crochet stitches can only be crafted by hand .
+
+the height of knitted and crocheted stitches is also different : a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools , and a double crochet stitch is about four times the height of a knit stitch .
+
+[ 28 ] slip stitch crochet is very similar to knitting .
+
+each stitch in slip stitch crochet is formed the same way as a knit or purl stitch which is then bound off .
+
+a person working in slip stitch crochet can follow a knitted pattern with knits , purls , and cables , and get a similar result .
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces .
+
+according to sources [ 30 ] claiming to have tested the 1 / 3 more yarn assertion , a single crochet stitch ( sc ) uses approximately the same amount of yarn as knit garter stitch , but more yarn than stockinette stitch .
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric .
+
+cluster stitches , which are in fact multiple stitches worked together , will use the most length .
+
+[ citation needed ] standard crochet stitches like sc and dc also produce a thicker fabric , more like knit garter stitch .
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn .
+
+[ 31 ] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time .
+
+knitting uses two or more straight needles that carry multiple stitches .
+
+[ clarification needed ] in section 53 , he writes of the " loop stitch , or noeud coulant : a knot that , if untied , causes the whole system to unravel ."
+
+90 – 94 ^ sarah hazell , 200 crochet stitches , search press , kent , 2013 , isbn 978 - 1 - 84448 - 963 - 3 ^ [ 2 ] elizabeth grant , the memoirs of a highland lady , john murray , london , 1898 p .
+
+9 – 10 ^ nancy nehring , learn slip stitch crochet , annie ' s attic , berne in , 2008 , isbn 1596352159 , p .
+
+^ " slip stitch crochet « a yarnified life ".
+
+the antique pattern library vtecrochettools crochet hook cro - hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control : national france bnf data germany israel united states czech republic retrieved from " https :// en .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1etymology 2origins 3irish crochet 4modern practice and culture 5materials toggle materials subsection 5.1crochet hook 5.2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12.1yarn bombing 12.2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةবাংলাcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisहिन्दीhrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमराठीမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification.
+
+the key difference between crochet and knitting, beyond the implements used for their production, is that each stitch in crochet is completed before the next one is begun, while knitting keeps many stitches open at a time.
+
+some variant forms of crochet, such as tunisian crochet and broomstick lace, do keep multiple crochet stitches open at a time.
+
+[3] it was used in 17th-century french lace-making, where the term crochetage designated a stitch used to join separate pieces of lace.
+
+[7] the first is "simple open crochet" (crochet simple ajour), a mesh of chain-stitch arches.
+
+the second (illustrated here) starts in a semi-open form (demi jour), where chain-stitch arches alternate with equally long segments of slip-stitch crochet, and closes with a star made with "double-crochet stitches" (dubbelde hekelsteek: double-crochet in british terminology; single-crochet in us).
+
+[12] an instruction book from 1846 describes shepherd or single crochet as what in current british usage is either called single crochet or slip-stitch crochet, with u.s. american terminology always using the latter (reserving single crochet for use as noted above).
+
+the tip of the needle shown there is indistinguishable from that of a present-day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique.
+
+[16] shepherd's hook, 19th-century tapered hook, modern inline hook the strong taper of the shepherd's hook eases the production of slip-stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time.
+
+[citation needed] the early instruction books make frequent reference to the alternative use of 'ivory, bone, or wooden hooks' and 'steel needles in a handle', as appropriate to the stitch being made.
+
+shepherd's hooks are still being made for local slip-stitch crochet traditions.
+
+crocheted laces in the new edwardian era, peaking between 1910 and 1920, became even more elaborate in texture and complicated stitching.
+
+examples of such tools include cardboard cutouts, which can be used to make tassels, fringe, and many other items; a pom-pom circle, used to make pom-poms; a tape measure and a gauge measure, both used for measuring crocheted work and counting stitches; a row counter; and occasionally plastic rings, which are used for special projects.
+
+[23] because sizing is categorized by the diameter of the hook's shaft, a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern.
+
+if gauge is not reached with one hook, another is used until the stitches made are the needed size.
+
+[citation needed] a hairpin loom is often used to create lacy and long stitches, known as hairpin lace.
+
+while this is not in itself a hook, it is a device used in conjunction with a crochet hook to produce stitches.
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern.
+
+hence, thicker yarns generally require fewer stitches, and therefore less time, to work up a given project.
+
+the chain is either turned and worked in rows, or joined to the beginning of the row with a slip stitch and worked in rounds.
+
+rounds can also be created by working many stitches into a single loop.
+
+stitches are made by pulling one or more loops through each loop of the chain.
+
+at any one time at the end of a stitch, there is only one loop left on the hook.
+
+[citation needed] types of stitches[edit] indian crochet white tablecloth about 1970. there are six main types of basic stitches (the following description uses us crochet terminology which differs from the terminology used in the uk and europe).
+
+chain stitch – the most basic of all stitches and used to begin most projects.
+
+slip stitch – used to join chain stitch to form a ring.
+
+single crochet stitch (called double crochet stitch in the uk) – easiest stitch to master half-double crochet stitch (called half treble stitch in the uk) – the 'in-between' stitch, sometimes called short double crochet in vintage publications double crochet stitch (called treble stitch in the uk) (yarn over once) – many uses for this unlimited use stitch treble (or triple) crochet stitch (called double treble stitch in the uk) (yarn over twice) while the horizontal distance covered by these basic stitches is the same, they differ in height and thickness.
+
+[citation needed] the more advanced stitches are often combinations of these basic stitches, or are made by inserting the hook into the work in unusual locations.
+
+more advanced stitches include the shell stitch, v stitch, spike stitch, afghan stitch, butterfly stitch, popcorn stitch, cluster stitch, and crocodile stitch.
+
+international crochet terms and notations[edit] main article: list of crochet stitches some crochet symbols, abbreviations, and us/uk terms in the english-speaking crochet world, basic stitches have different names that vary by country.
+
+crochet is traditionally worked off a written pattern in which stitches and placement are communicated using textual abbreviations.
+
+individual crocheters work yarn with a loose or a tight hold and, if unmeasured, these differences can lead to significant size changes in finished garments that have the same number of stitches.
+
+in order to control for this inconsistency, printed crochet instructions include a standard for the number of stitches across a standard swatch of fabric.
+
+north americans call this gauge, referring to the result of these adjustments; british crocheters speak of tension, which refers to the crafter's grip on the yarn while producing stitches.
+
+in most crochet, the artisan usually has only one live stitch on the hook (with the exception being tunisian crochet), while a knitter keeps an entire row of stitches active simultaneously.
+
+dropped stitches, which can unravel a knitted fabric, rarely interfere with crochet work, due to a second structural difference between knitting and crochet.
+
+in knitting, each stitch is supported by the corresponding stitch in the row above and it supports the corresponding stitch in the row below, whereas crochet stitches are only supported by and support the stitches on either side of it.
+
+if a stitch in a finished crocheted item breaks, the stitches above and below remain intact, and because of the complex looping of each stitch, the stitches on either side are unlikely to come loose unless heavily stressed.
+
+[citation needed] freeform crochet is a technique that can create interesting shapes in three dimensions because new stitches can be made independently of previous stitches almost anywhere in the crocheted piece.
+
+knitting can be accomplished by machine, while many crochet stitches can only be crafted by hand.
+
+the height of knitted and crocheted stitches is also different: a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools, and a double crochet stitch is about four times the height of a knit stitch.
+
+[28] slip stitch crochet is very similar to knitting.
+
+each stitch in slip stitch crochet is formed the same way as a knit or purl stitch which is then bound off.
+
+a person working in slip stitch crochet can follow a knitted pattern with knits, purls, and cables, and get a similar result.
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces.
+
+according to sources[30] claiming to have tested the 1/3 more yarn assertion, a single crochet stitch (sc) uses approximately the same amount of yarn as knit garter stitch, but more yarn than stockinette stitch.
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric.
+
+cluster stitches, which are in fact multiple stitches worked together, will use the most length.
+
+[citation needed] standard crochet stitches like sc and dc also produce a thicker fabric, more like knit garter stitch.
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn.
+
+[31] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time.
+
+knitting uses two or more straight needles that carry multiple stitches.
+
+[clarification needed] in section 53, he writes of the "loop stitch, or noeud coulant: a knot that, if untied, causes the whole system to unravel."
+
+90–94 ^ sarah hazell, 200 crochet stitches, search press, kent, 2013, isbn 978-1-84448-963-3 ^ [2] elizabeth grant, the memoirs of a highland lady, john murray, london, 1898 p. 182.
+
+9–10 ^ nancy nehring, learn slip stitch crochet, annie's attic, berne in, 2008, isbn 1596352159, p. 2 ^ [6] mlle.
+
+^ "slip stitch crochet « a yarnified life".
+
+the antique pattern library vtecrochettools crochet hook cro-hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control: national france bnf data germany israel united states czech republic retrieved from "https://en.wikipedia.org/w/index.php?title=crochet&oldid=1149831025" categories: crochetcraftsfigured fabricsneedleworkhidden categories: webarchive template wayback linksarticles with short descriptionshort description matches wikidataarticles needing additional references from march 2023all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from march 2023articles with unsourced statements from october 2022wikipedia articles needing clarification from october 2022commons category link is on wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with nkc identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12 .
+
+the key difference between crochet and knitting , beyond the implements used for their production , is that each stitch in crochet is completed before the next one is begun , while knitting keeps many stitches open at a time .
+
+some variant forms of crochet , such as tunisian crochet and broomstick lace , do keep multiple crochet stitches open at a time .
+
+[ 3 ] it was used in 17th - century french lace - making , where the term crochetage designated a stitch used to join separate pieces of lace .
+
+[ 7 ] the first is " simple open crochet " ( crochet simple ajour ), a mesh of chain - stitch arches .
+
+the second ( illustrated here ) starts in a semi - open form ( demi jour ), where chain - stitch arches alternate with equally long segments of slip - stitch crochet , and closes with a star made with " double - crochet stitches " ( dubbelde hekelsteek : double - crochet in british terminology ; single - crochet in us ).
+
+[ 12 ] an instruction book from 1846 describes shepherd or single crochet as what in current british usage is either called single crochet or slip - stitch crochet , with u .
+
+the tip of the needle shown there is indistinguishable from that of a present - day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique .
+
+[ 16 ] shepherd ' s hook , 19th - century tapered hook , modern inline hook the strong taper of the shepherd ' s hook eases the production of slip - stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time .
+
+[ citation needed ] the early instruction books make frequent reference to the alternative use of ' ivory , bone , or wooden hooks ' and ' steel needles in a handle ', as appropriate to the stitch being made .
+
+shepherd ' s hooks are still being made for local slip - stitch crochet traditions .
+
+crocheted laces in the new edwardian era , peaking between 1910 and 1920 , became even more elaborate in texture and complicated stitching .
+
+examples of such tools include cardboard cutouts , which can be used to make tassels , fringe , and many other items ; a pom - pom circle , used to make pom - poms ; a tape measure and a gauge measure , both used for measuring crocheted work and counting stitches ; a row counter ; and occasionally plastic rings , which are used for special projects .
+
+[ 23 ] because sizing is categorized by the diameter of the hook ' s shaft , a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern .
+
+if gauge is not reached with one hook , another is used until the stitches made are the needed size .
+
+[ citation needed ] a hairpin loom is often used to create lacy and long stitches , known as hairpin lace .
+
+while this is not in itself a hook , it is a device used in conjunction with a crochet hook to produce stitches .
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern .
+
+hence , thicker yarns generally require fewer stitches , and therefore less time , to work up a given project .
+
+the chain is either turned and worked in rows , or joined to the beginning of the row with a slip stitch and worked in rounds .
+
+rounds can also be created by working many stitches into a single loop .
+
+stitches are made by pulling one or more loops through each loop of the chain .
+
+at any one time at the end of a stitch , there is only one loop left on the hook .
+
+[ citation needed ] types of stitches [ edit ] indian crochet white tablecloth about 1970 .
+
+there are six main types of basic stitches ( the following description uses us crochet terminology which differs from the terminology used in the uk and europe ).
+
+chain stitch – the most basic of all stitches and used to begin most projects .
+
+slip stitch – used to join chain stitch to form a ring .
+
+single crochet stitch ( called double crochet stitch in the uk ) – easiest stitch to master half - double crochet stitch ( called half treble stitch in the uk ) – the ' in - between ' stitch , sometimes called short double crochet in vintage publications double crochet stitch ( called treble stitch in the uk ) ( yarn over once ) – many uses for this unlimited use stitch treble ( or triple ) crochet stitch ( called double treble stitch in the uk ) ( yarn over twice ) while the horizontal distance covered by these basic stitches is the same , they differ in height and thickness .
+
+[ citation needed ] the more advanced stitches are often combinations of these basic stitches , or are made by inserting the hook into the work in unusual locations .
+
+more advanced stitches include the shell stitch , v stitch , spike stitch , afghan stitch , butterfly stitch , popcorn stitch , cluster stitch , and crocodile stitch .
+
+international crochet terms and notations [ edit ] main article : list of crochet stitches some crochet symbols , abbreviations , and us / uk terms in the english - speaking crochet world , basic stitches have different names that vary by country .
+
+crochet is traditionally worked off a written pattern in which stitches and placement are communicated using textual abbreviations .
+
+individual crocheters work yarn with a loose or a tight hold and , if unmeasured , these differences can lead to significant size changes in finished garments that have the same number of stitches .
+
+in order to control for this inconsistency , printed crochet instructions include a standard for the number of stitches across a standard swatch of fabric .
+
+north americans call this gauge , referring to the result of these adjustments ; british crocheters speak of tension , which refers to the crafter ' s grip on the yarn while producing stitches .
+
+in most crochet , the artisan usually has only one live stitch on the hook ( with the exception being tunisian crochet ), while a knitter keeps an entire row of stitches active simultaneously .
+
+dropped stitches , which can unravel a knitted fabric , rarely interfere with crochet work , due to a second structural difference between knitting and crochet .
+
+in knitting , each stitch is supported by the corresponding stitch in the row above and it supports the corresponding stitch in the row below , whereas crochet stitches are only supported by and support the stitches on either side of it .
+
+if a stitch in a finished crocheted item breaks , the stitches above and below remain intact , and because of the complex looping of each stitch , the stitches on either side are unlikely to come loose unless heavily stressed .
+
+[ citation needed ] freeform crochet is a technique that can create interesting shapes in three dimensions because new stitches can be made independently of previous stitches almost anywhere in the crocheted piece .
+
+knitting can be accomplished by machine , while many crochet stitches can only be crafted by hand .
+
+the height of knitted and crocheted stitches is also different : a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools , and a double crochet stitch is about four times the height of a knit stitch .
+
+[ 28 ] slip stitch crochet is very similar to knitting .
+
+each stitch in slip stitch crochet is formed the same way as a knit or purl stitch which is then bound off .
+
+a person working in slip stitch crochet can follow a knitted pattern with knits , purls , and cables , and get a similar result .
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces .
+
+according to sources [ 30 ] claiming to have tested the 1 / 3 more yarn assertion , a single crochet stitch ( sc ) uses approximately the same amount of yarn as knit garter stitch , but more yarn than stockinette stitch .
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric .
+
+cluster stitches , which are in fact multiple stitches worked together , will use the most length .
+
+[ citation needed ] standard crochet stitches like sc and dc also produce a thicker fabric , more like knit garter stitch .
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn .
+
+[ 31 ] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time .
+
+knitting uses two or more straight needles that carry multiple stitches .
+
+[ clarification needed ] in section 53 , he writes of the " loop stitch , or noeud coulant : a knot that , if untied , causes the whole system to unravel ."
+
+90 – 94 ^ sarah hazell , 200 crochet stitches , search press , kent , 2013 , isbn 978 - 1 - 84448 - 963 - 3 ^ [ 2 ] elizabeth grant , the memoirs of a highland lady , john murray , london , 1898 p .
+
+9 – 10 ^ nancy nehring , learn slip stitch crochet , annie ' s attic , berne in , 2008 , isbn 1596352159 , p .
+
+^ " slip stitch crochet « a yarnified life ".
+
+the antique pattern library vtecrochettools crochet hook cro - hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control : national france bnf data germany israel united states czech republic retrieved from " https :// en .
+
+see crook1, -et] cro•chet′er, n. random house kernerman webster's college dictionary, © 2010 k dictionaries ltd. copyright 2005, 1997, 1991 by random house, inc. all rights reserved.crochetpast participle: crochetedgerund: crochetingimperativepresentpreteritepresent continuouspresent perfectpast continuouspast perfectfuturefuture perfectfuture continuouspresent perfect continuousfuture perfect continuouspast perfect continuousconditionalpast conditionalimperativecrochetcrochetpresenti crochetyou crochethe/she/it crochetswe crochetyou crochetthey crochetpreteritei crochetedyou crochetedhe/she/it crochetedwe crochetedyou crochetedthey crochetedpresent continuousi am crochetingyou are crochetinghe/she/it is crochetingwe are crochetingyou are crochetingthey are crochetingpresent perfecti have crochetedyou have crochetedhe/she/it has crochetedwe have crochetedyou have crochetedthey have crochetedpast continuousi was crochetingyou were crochetinghe/she/it was crochetingwe were crochetingyou were crochetingthey were crochetingpast perfecti had crochetedyou had crochetedhe/she/it had crochetedwe had crochetedyou had crochetedthey had crochetedfuturei will crochetyou will crochethe/she/it will crochetwe will crochetyou will crochetthey will crochetfuture perfecti will have crochetedyou will have crochetedhe/she/it will have crochetedwe will have crochetedyou will have crochetedthey will have crochetedfuture continuousi will be crochetingyou will be crochetinghe/she/it will be crochetingwe will be crochetingyou will be crochetingthey will be crochetingpresent perfect continuousi have been crochetingyou have been crochetinghe/she/it has been crochetingwe have been crochetingyou have been crochetingthey have been crochetingfuture perfect continuousi will have been crochetingyou will have been crochetinghe/she/it will have been crochetingwe will have been crochetingyou will have been crochetingthey will have been crochetingpast perfect continuousi had been crochetingyou had been crochetinghe/she/it had been crochetingwe had been crochetingyou had been crochetingthey had been crochetingconditionali would crochetyou would crochethe/she/it would crochetwe would crochetyou would crochetthey would crochetpast conditionali would have crochetedyou would have crochetedhe/she/it would have crochetedwe would have crochetedyou would have crochetedthey would have crochetedcollins english verb tables © harpercollins publishers 2011 thesaurusantonymsrelated wordssynonymslegend:switch to new thesaurus noun1.crochet - needlework done by interlocking looped stitches with a hooked needlecrochetingneedlecraft, needlework - a creation created or assembled by needle and threadverb1.crochet - create by looping or crocheting; "crochet a bedspread"handicraft - a craft that requires skillful handscreate from raw material, create from raw stuff - make from scratchcrochet, hook - make a piece of needlework by interlocking and looping thread with a hooked needle; "she sat there crocheting all day"shell stitch - make by shell stitchingdouble crochet, double stitch - make by double stitchingsingle crochet, single stitch - make by single stitching2.crochet - make a piece of needlework by interlocking and looping thread with a hooked needle; "she sat there crocheting all day"hookhandicraft - a craft that requires skillful handscrochet - create by looping or crocheting; "crochet a bedspread"loop, intertwine - make a loop in; "loop a rope"based on wordnet 3.0, farlex clipart collection.
+
+aertexafghanbaggingbasket weavebombazinebracketbracketsbroadclothby hook or by crookcamel's haircamocanton flannelcereclothchain stitchchallischambrayclothcotton flannelcreate from raw material references in classic literature ?
+
+view in contextdiana showed me a new fancy crochet stitch her aunt over at carmody taught her.
+
+▲crizzelcrmcrnacrna goracrocroagh patrickcroakcroakercroakingcroakycroatcroatiacroatiancroato-serbcroccrocanthemum canadensecrocecroce benedettocroceatecroceincroceouscrocethiacrocethia albacrocetincrochecrochetcrochet hookcrochet needlecrochet stitchcrochetedcrochetingcrochetingscrocicrociarycrocidolitecrocincrocinecrockcrock potcrock upcrockedcrockercrockerycrocketcrocketedcrocketingcrockettcrockett davidcrockfordcrockiecrockpot▼ full browser ?
+
+▲croc tear croc tear croc tear croc tear croc-monsieur crocamander crocamander crocamander crocanthemum canadense crocanthemum canadense crocco's equation croce croce croce benedetto croce bianca val vibrata croce rossa italiana croce, benedetto croce, benedetto croceate crocein crocels croceous crocethia crocethia crocethia alba crocethia alba crocetin crocetinate croche croche crochetcrochet (music) crochet file crochet guild of america crochet hook crochet hooks crochet needle crochet stitch crochet work crochet work crocheted crocheted crocheter crocheter crocheters crocheters crocheting crocheting crochetings crochets crochets croci croci croci croci crociary crocidolite crocidolite crocidolites crocidolites crocidura ▼ facebook share twitter cite site: follow: facebook twitter rss mail share: facebook twitter linkedin mail open / close more from dictionary, thesaurus, and translations mobile apps apple android kindle windows windows phone free tools for surfers: free toolbar & extensions word of the day help for webmasters: free content linking lookup box terms of use privacy policy feedback advertise with us copyright © 2003-2023 farlex, inc disclaimer all content on this website, including dictionary, thesaurus, literature, geography, and other reference data is for informational purposes only.
+
+crochet - needlework done by interlocking looped stitches with a hooked needlecrochetingneedlecraft , needlework - a creation created or assembled by needle and threadverb1 .
+
+crochet - create by looping or crocheting ; " crochet a bedspread " handicraft - a craft that requires skillful handscreate from raw material , create from raw stuff - make from scratchcrochet , hook - make a piece of needlework by interlocking and looping thread with a hooked needle ; " she sat there crocheting all day " shell stitch - make by shell stitchingdouble crochet , double stitch - make by double stitchingsingle crochet , single stitch - make by single stitching2 .
+
+aertexafghanbaggingbasket weavebombazinebracketbracketsbroadclothby hook or by crookcamel ' s haircamocanton flannelcereclothchain stitchchallischambrayclothcotton flannelcreate from raw material references in classic literature ?
+
+view in contextdiana showed me a new fancy crochet stitch her aunt over at carmody taught her .
+
+▲ crizzelcrmcrnacrna goracrocroagh patrickcroakcroakercroakingcroakycroatcroatiacroatiancroato - serbcroccrocanthemum canadensecrocecroce benedettocroceatecroceincroceouscrocethiacrocethia albacrocetincrochecrochetcrochet hookcrochet needlecrochet stitchcrochetedcrochetingcrochetingscrocicrociarycrocidolitecrocincrocinecrockcrock potcrock upcrockedcrockercrockerycrocketcrocketedcrocketingcrockettcrockett davidcrockfordcrockiecrockpot ▼ full browser ?
+
+▲ croc tear croc tear croc tear croc tear croc - monsieur crocamander crocamander crocamander crocanthemum canadense crocanthemum canadense crocco ' s equation croce croce croce benedetto croce bianca val vibrata croce rossa italiana croce , benedetto croce , benedetto croceate crocein crocels croceous crocethia crocethia crocethia alba crocethia alba crocetin crocetinate croche croche crochetcrochet ( music ) crochet file crochet guild of america crochet hook crochet hooks crochet needle crochet stitch crochet work crochet work crocheted crocheted crocheter crocheter crocheters crocheters crocheting crocheting crochetings crochets crochets croci croci croci croci crociary crocidolite crocidolite crocidolites crocidolites crocidura ▼ facebook share twitter cite site : follow : facebook twitter rss mail share : facebook twitter linkedin mail open / close more from dictionary , thesaurus , and translations mobile apps apple android kindle windows windows phone free tools for surfers : free toolbar & extensions word of the day help for webmasters : free content linking lookup box terms of use privacy policy feedback advertise with us copyright © 2003 - 2023 farlex , inc disclaimer all content on this website , including dictionary , thesaurus , literature , geography , and other reference data is for informational purposes only .
+
+all of these designs just mimicked crochet stitches, but each one took me a little closer to what i was trying to achieve - to translate actual crochet stitches on the knitting looms.
+
+all this resulted in the granny's rose square and a new technique i fondly call "loomchet" was born.when i first completed the granny's rose, which produced actual crochet stitches on the knitting looms, i had hoped the tutorial would be ready by last september.
+
+as stated in the tutorial:this tutorial will show you how to make a simple granny square by incorporating two pegs on the knifty knitter looms to produce crochet stitches.
+
+word of warning, like any new technique, the two peg stitch technique is a bit fiddly, but the results are well worth the effort.for best results, gather your supplies and find a quiet spot, then work through it as you read the tutorial.
+
+then stitch them all together and in less than 30 minutes you have a cute little two & one-half inch shamrock.
+
+it is made from the center out using a little two row loomer's magic circle (lmc) and 6 stitch i-cords worked into the bind off to form the leaves & stem.
+
+these work up quickly, since no stitching is involved; however, they just aren't as pretty as the shamrocks.please comment if you enjoy this project.
+
+some worked around the impossibly tight stitches & faulty techniques; a few others used it as a springboard to design their own basket; and some just gave up.
+
+thank you, monica for being my impetus and test knitting the updated basket.the new design is similar to the old one, but different techniques and stitches are used to accomplish what i was trying to do in the original basket: scalloped base & rim with a slight taper from the top to the bottom.
+
+however, the double e-wrap knit stitches that are used on the basket sides are so dense that you may find the liner is not necessary.
+
+the later has an additional e-wrap row to allow ease in weaving the ribbon through the stitches.when i was making the pictures of the new baskets, i only had a few jellybeans on hand and didn't have any bunny peeps to add to the basket for decoration, so i created some tiny little bunnies and eggs.
+
+posted by brenda, domedweller at thursday, march 04, 2010 email thisblogthis!share to twittershare to facebookshare to pinterest labels: easter, loom knitting, toys newer posts older posts home subscribe to: posts (atom) about me brenda, domedweller view my complete profile awards blog archive ► 2019 (1) ► june (1) ► 2018 (3) ► december (2) ► july (1) ► 2017 (3) ► october (1) ► august (2) ► 2016 (2) ► may (1) ► february (1) ► 2015 (4) ► august (1) ► may (1) ► april (1) ► march (1) ► 2014 (1) ► january (1) ► 2013 (7) ► november (2) ► october (2) ► july (1) ► april (1) ► march (1) ► 2012 (12) ► july (1) ► june (3) ► may (1) ► april (3) ► march (1) ► february (2) ► january (1) ► 2011 (15) ► december (1) ► november (2) ► october (1) ► september (1) ► july (1) ► may (2) ► april (1) ► march (2) ► february (2) ► january (2) ▼ 2010 (16) ► december (3) ► november (1) ► october (3) ► september (1) ► august (1) ► july (1) ► april (2) ▼ march (4) granny-on-the-loom shamrocks itsy eggs & bitsy bunnies jellybean basket redux ► 2009 (22) ► december (3) ► november (3) ► october (1) ► august (6) ► july (1) ► june (1) ► april (4) ► march (2) ► february (1) ► 2008 (6) ► december (1) ► november (3) ► may (1) ► february (1) ► 2007 (26) ► december (2) ► november (2) ► october (3) ► september (1) ► may (3) ► april (1) ► march (4) ► february (5) ► january (5) ► 2006 (10) ► december (5) ► november (5) i taught myself to loom knit (2011), projects by brenda myers this is an updated version of the original book which is available online and at joann's fabric & craft stores.. i taught myself to loom knit (2010), projects by brenda myers available at all walmart craft departments and online from: my projects photo album knitting projects loom stitch patterns basket lace stitch houndstooth checks ridge eyelet lace pattern box angel finger puppet august sun motif autumn skull cap baby blanket baby gran hexagon12 baby gran hexagon24 baby gran square12 baby gran square24 béla bat belle angel bitsy bunnies blossom bunny boo-ella, the ghost bright bells bright star bunnies-in-the-garden dishcloth candy canes christmas egg daffodils double hearts easter eggs falling leaves lariat felted roses fishy sachet-soap sack frankie's button bands frosty snowman hat ghost angel heartstrings hexagonal geopuffs honeycomb lace cowl honeycomb lace ornament hot lips tawashi indian corn indian corn hotpad itsy easter eggs jacko, the jack-o-lantern jellybean basket--revised 3/10 knifty christmas bells lacy pumpkin loom-inaries lacy scarflet large christmas stocking leprechaun leprechaun hat lil' punkin hat with leaf & tendril little loom-knit hearts little snowmen loomed leghorn egg cozy loomy-licious cupcakes loopy flowers love birds lovebugs mini-christmas wreaths mort, the mummy ms. kitty ms. santa towel topper my cheatin' hearts pansies patriot pin piggy finger puppet poinsettia pumpkin hat quick can koozies shamrocks short row snowflake silly santa snowflake angel snowflakes snowman tp cozy sock-it-to-me dog sweater specs the owl sunflower coasters sunflowers tea time coaster tiny tim turkey tom-tildrum, the cat tommy turkey hat towel toppers valentine angel victorian lace ornaments watermelon can/bottle koozie watermelon coasters: tutorial pattern for knitting a flat circle wendy's snood witchy-poo my techniques & videos adjustable cast on christmas stocking video tutorial drawstring cast on (alternate method) diagram by greenfuzzer drawstring cast on instructions drawstring kitchener cast on geopuff-1 (drawstring co) geopuff-2 (setup & increases) geopuff-3 (peg doubling) geopuff-4 (outer edge shaping) geopuff-5 (decreasing rows) geopuff-6 (bo & finishing) granny-on-the-loom tutorial italian tubular cast on little hearts tutorial video online resources afghan sizes blocking: how to block blocking: to block, or not... chart maker charts are your friends copyright - (a primer for knitters) copyright guidelines for crafters & hobbyists copyright theft hurts copyright: how patterns are affected crafty links - loom knitting determining yarn gauge dyeing with food color dyeing with kool aid graph paper hand felting knits how to knit needle free knitting caculators, generators, sockulators & online tools knitting graph paper knittingpatterncentral's loom knitting pattern links lkc abbreviation list loom knitting on squidoo magic formula for circles making looms (blog post link list) planned pooling random stripe generator scratchy yarn made soft seduced by beads standards & guidelines for crochet & knitting yarn calculator yarn substitution yarn yardage estimator yarndex yarn directory youtube looming videos rune songs rune songs for the 21st century by tyriel followers travel theme.
+
+all of these designs just mimicked crochet stitches , but each one took me a little closer to what i was trying to achieve - to translate actual crochet stitches on the knitting looms .
+
+when i first completed the granny ' s rose , which produced actual crochet stitches on the knitting looms , i had hoped the tutorial would be ready by last september .
+
+as stated in the tutorial : this tutorial will show you how to make a simple granny square by incorporating two pegs on the knifty knitter looms to produce crochet stitches .
+
+word of warning , like any new technique , the two peg stitch technique is a bit fiddly , but the results are well worth the effort .
+
+then stitch them all together and in less than 30 minutes you have a cute little two & one - half inch shamrock .
+
+it is made from the center out using a little two row loomer ' s magic circle ( lmc ) and 6 stitch i - cords worked into the bind off to form the leaves & stem .
+
+these work up quickly , since no stitching is involved ; however , they just aren ' t as pretty as the shamrocks .
+
+some worked around the impossibly tight stitches & faulty techniques ; a few others used it as a springboard to design their own basket ; and some just gave up .
+
+the new design is similar to the old one , but different techniques and stitches are used to accomplish what i was trying to do in the original basket : scalloped base & rim with a slight taper from the top to the bottom .
+
+however , the double e - wrap knit stitches that are used on the basket sides are so dense that you may find the liner is not necessary .
+
+the later has an additional e - wrap row to allow ease in weaving the ribbon through the stitches .
+
+share to twittershare to facebookshare to pinterest labels : easter , loom knitting , toys newer posts older posts home subscribe to : posts ( atom ) about me brenda , domedweller view my complete profile awards blog archive ► 2019 ( 1 ) ► june ( 1 ) ► 2018 ( 3 ) ► december ( 2 ) ► july ( 1 ) ► 2017 ( 3 ) ► october ( 1 ) ► august ( 2 ) ► 2016 ( 2 ) ► may ( 1 ) ► february ( 1 ) ► 2015 ( 4 ) ► august ( 1 ) ► may ( 1 ) ► april ( 1 ) ► march ( 1 ) ► 2014 ( 1 ) ► january ( 1 ) ► 2013 ( 7 ) ► november ( 2 ) ► october ( 2 ) ► july ( 1 ) ► april ( 1 ) ► march ( 1 ) ► 2012 ( 12 ) ► july ( 1 ) ► june ( 3 ) ► may ( 1 ) ► april ( 3 ) ► march ( 1 ) ► february ( 2 ) ► january ( 1 ) ► 2011 ( 15 ) ► december ( 1 ) ► november ( 2 ) ► october ( 1 ) ► september ( 1 ) ► july ( 1 ) ► may ( 2 ) ► april ( 1 ) ► march ( 2 ) ► february ( 2 ) ► january ( 2 ) ▼ 2010 ( 16 ) ► december ( 3 ) ► november ( 1 ) ► october ( 3 ) ► september ( 1 ) ► august ( 1 ) ► july ( 1 ) ► april ( 2 ) ▼ march ( 4 ) granny - on - the - loom shamrocks itsy eggs & bitsy bunnies jellybean basket redux ► 2009 ( 22 ) ► december ( 3 ) ► november ( 3 ) ► october ( 1 ) ► august ( 6 ) ► july ( 1 ) ► june ( 1 ) ► april ( 4 ) ► march ( 2 ) ► february ( 1 ) ► 2008 ( 6 ) ► december ( 1 ) ► november ( 3 ) ► may ( 1 ) ► february ( 1 ) ► 2007 ( 26 ) ► december ( 2 ) ► november ( 2 ) ► october ( 3 ) ► september ( 1 ) ► may ( 3 ) ► april ( 1 ) ► march ( 4 ) ► february ( 5 ) ► january ( 5 ) ► 2006 ( 10 ) ► december ( 5 ) ► november ( 5 ) i taught myself to loom knit ( 2011 ), projects by brenda myers this is an updated version of the original book which is available online and at joann ' s fabric & craft stores .. i taught myself to loom knit ( 2010 ), projects by brenda myers available at all walmart craft departments and online from : my projects photo album knitting projects loom stitch patterns basket lace stitch houndstooth checks ridge eyelet lace pattern box angel finger puppet august sun motif autumn skull cap baby blanket baby gran hexagon12 baby gran hexagon24 baby gran square12 baby gran square24 béla bat belle angel bitsy bunnies blossom bunny boo - ella , the ghost bright bells bright star bunnies - in - the - garden dishcloth candy canes christmas egg daffodils double hearts easter eggs falling leaves lariat felted roses fishy sachet - soap sack frankie ' s button bands frosty snowman hat ghost angel heartstrings hexagonal geopuffs honeycomb lace cowl honeycomb lace ornament hot lips tawashi indian corn indian corn hotpad itsy easter eggs jacko , the jack - o - lantern jellybean basket -- revised 3 / 10 knifty christmas bells lacy pumpkin loom - inaries lacy scarflet large christmas stocking leprechaun leprechaun hat lil ' punkin hat with leaf & tendril little loom - knit hearts little snowmen loomed leghorn egg cozy loomy - licious cupcakes loopy flowers love birds lovebugs mini - christmas wreaths mort , the mummy ms .
+
+along with the wertheim sisters, more than 20,000 participants — mostly women — around the world have spent countless hours crocheting millions of stitches, creating woolly corals and other undersea creatures that the sisters then join together in a large-scale and endlessly evolving collective art installation.
+
+at its most basic, the hyperbolic crochet code involves increasing stitches at a regular rate.
+
+corals are hyperbolic structures, and crocheting allows their form to be recreated she and her sister encourage contributors to "queer the code," or vary the rate of stitch increase.
+
+along with the wertheim sisters , more than 20 , 000 participants — mostly women — around the world have spent countless hours crocheting millions of stitches , creating woolly corals and other undersea creatures that the sisters then join together in a large - scale and endlessly evolving collective art installation . "
+
+at its most basic , the hyperbolic crochet code involves increasing stitches at a regular rate .
+
+corals are hyperbolic structures , and crocheting allows their form to be recreated she and her sister encourage contributors to " queer the code ," or vary the rate of stitch increase .
+
+along with the wertheim sisters, more than 20,000 participants — mostly women — around the world have spent countless hours crocheting millions of stitches, creating woolly corals and other undersea creatures that the sisters then join together in a large-scale and endlessly evolving collective art installation.
+
+at its most basic, the hyperbolic crochet code involves increasing stitches at a regular rate.
+
+"corals are hyperbolic structures, and crocheting allows their form to be recreatedimage: 58th international art exhibition/la biennale di venezia she and her sister encourage contributors to "queer the code," or vary the rate of stitch increase.
+
+along with the wertheim sisters , more than 20 , 000 participants — mostly women — around the world have spent countless hours crocheting millions of stitches , creating woolly corals and other undersea creatures that the sisters then join together in a large - scale and endlessly evolving collective art installation . "
+
+at its most basic , the hyperbolic crochet code involves increasing stitches at a regular rate .
+
+corals are hyperbolic structures , and crocheting allows their form to be recreatedimage : 58th international art exhibition / la biennale di venezia she and her sister encourage contributors to " queer the code ," or vary the rate of stitch increase .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1etymology 2origins 3irish crochet 4modern practice and culture 5materials toggle materials subsection 5.1crochet hook 5.2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12.1yarn bombing 12.2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةবাংলাcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisहिन्दीhrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमराठीမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification.
+
+the key difference between crochet and knitting, beyond the implements used for their production, is that each stitch in crochet is completed before the next one is begun, while knitting keeps many stitches open at a time.
+
+some variant forms of crochet, such as tunisian crochet and broomstick lace, do keep multiple crochet stitches open at a time.
+
+[3] it was used in 17th-century french lace-making, where the term crochetage designated a stitch used to join separate pieces of lace.
+
+[7] the first is "simple open crochet" (crochet simple ajour), a mesh of chain-stitch arches.
+
+the second (illustrated here) starts in a semi-open form (demi jour), where chain-stitch arches alternate with equally long segments of slip-stitch crochet, and closes with a star made with "double-crochet stitches" (dubbelde hekelsteek: double-crochet in british terminology; single-crochet in us).
+
+[12] an instruction book from 1846 describes shepherd or single crochet as what in current british usage is either called single crochet or slip-stitch crochet, with u.s. american terminology always using the latter (reserving single crochet for use as noted above).
+
+the tip of the needle shown there is indistinguishable from that of a present-day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique.
+
+[16] shepherd's hook, 19th-century tapered hook, modern inline hook the strong taper of the shepherd's hook eases the production of slip-stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time.
+
+[citation needed] the early instruction books make frequent reference to the alternative use of 'ivory, bone, or wooden hooks' and 'steel needles in a handle', as appropriate to the stitch being made.
+
+shepherd's hooks are still being made for local slip-stitch crochet traditions.
+
+crocheted laces in the new edwardian era, peaking between 1910 and 1920, became even more elaborate in texture and complicated stitching.
+
+examples of such tools include cardboard cutouts, which can be used to make tassels, fringe, and many other items; a pom-pom circle, used to make pom-poms; a tape measure and a gauge measure, both used for measuring crocheted work and counting stitches; a row counter; and occasionally plastic rings, which are used for special projects.
+
+[23] because sizing is categorized by the diameter of the hook's shaft, a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern.
+
+if gauge is not reached with one hook, another is used until the stitches made are the needed size.
+
+[citation needed] a hairpin loom is often used to create lacy and long stitches, known as hairpin lace.
+
+while this is not in itself a hook, it is a device used in conjunction with a crochet hook to produce stitches.
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern.
+
+hence, thicker yarns generally require fewer stitches, and therefore less time, to work up a given project.
+
+the chain is either turned and worked in rows, or joined to the beginning of the row with a slip stitch and worked in rounds.
+
+rounds can also be created by working many stitches into a single loop.
+
+stitches are made by pulling one or more loops through each loop of the chain.
+
+at any one time at the end of a stitch, there is only one loop left on the hook.
+
+[citation needed] types of stitches[edit] indian crochet white tablecloth about 1970. there are six main types of basic stitches (the following description uses us crochet terminology which differs from the terminology used in the uk and europe).
+
+chain stitch – the most basic of all stitches and used to begin most projects.
+
+slip stitch – used to join chain stitch to form a ring.
+
+single crochet stitch (called double crochet stitch in the uk) – easiest stitch to master half-double crochet stitch (called half treble stitch in the uk) – the 'in-between' stitch, sometimes called short double crochet in vintage publications double crochet stitch (called treble stitch in the uk) (yarn over once) – many uses for this unlimited use stitch treble (or triple) crochet stitch (called double treble stitch in the uk) (yarn over twice) while the horizontal distance covered by these basic stitches is the same, they differ in height and thickness.
+
+[citation needed] the more advanced stitches are often combinations of these basic stitches, or are made by inserting the hook into the work in unusual locations.
+
+more advanced stitches include the shell stitch, v stitch, spike stitch, afghan stitch, butterfly stitch, popcorn stitch, cluster stitch, and crocodile stitch.
+
+international crochet terms and notations[edit] main article: list of crochet stitches some crochet symbols, abbreviations, and us/uk terms in the english-speaking crochet world, basic stitches have different names that vary by country.
+
+crochet is traditionally worked off a written pattern in which stitches and placement are communicated using textual abbreviations.
+
+individual crocheters work yarn with a loose or a tight hold and, if unmeasured, these differences can lead to significant size changes in finished garments that have the same number of stitches.
+
+in order to control for this inconsistency, printed crochet instructions include a standard for the number of stitches across a standard swatch of fabric.
+
+north americans call this gauge, referring to the result of these adjustments; british crocheters speak of tension, which refers to the crafter's grip on the yarn while producing stitches.
+
+in most crochet, the artisan usually has only one live stitch on the hook (with the exception being tunisian crochet), while a knitter keeps an entire row of stitches active simultaneously.
+
+dropped stitches, which can unravel a knitted fabric, rarely interfere with crochet work, due to a second structural difference between knitting and crochet.
+
+in knitting, each stitch is supported by the corresponding stitch in the row above and it supports the corresponding stitch in the row below, whereas crochet stitches are only supported by and support the stitches on either side of it.
+
+if a stitch in a finished crocheted item breaks, the stitches above and below remain intact, and because of the complex looping of each stitch, the stitches on either side are unlikely to come loose unless heavily stressed.
+
+[citation needed] freeform crochet is a technique that can create interesting shapes in three dimensions because new stitches can be made independently of previous stitches almost anywhere in the crocheted piece.
+
+knitting can be accomplished by machine, while many crochet stitches can only be crafted by hand.
+
+the height of knitted and crocheted stitches is also different: a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools, and a double crochet stitch is about four times the height of a knit stitch.
+
+[28] slip stitch crochet is very similar to knitting.
+
+each stitch in slip stitch crochet is formed the same way as a knit or purl stitch which is then bound off.
+
+a person working in slip stitch crochet can follow a knitted pattern with knits, purls, and cables, and get a similar result.
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces.
+
+according to sources[30] claiming to have tested the 1/3 more yarn assertion, a single crochet stitch (sc) uses approximately the same amount of yarn as knit garter stitch, but more yarn than stockinette stitch.
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric.
+
+cluster stitches, which are in fact multiple stitches worked together, will use the most length.
+
+[citation needed] standard crochet stitches like sc and dc also produce a thicker fabric, more like knit garter stitch.
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn.
+
+[31] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time.
+
+knitting uses two or more straight needles that carry multiple stitches.
+
+[clarification needed] in section 53, he writes of the "loop stitch, or noeud coulant: a knot that, if untied, causes the whole system to unravel."
+
+90–94 ^ sarah hazell, 200 crochet stitches, search press, kent, 2013, isbn 978-1-84448-963-3 ^ [2] elizabeth grant, the memoirs of a highland lady, john murray, london, 1898 p. 182.
+
+9–10 ^ nancy nehring, learn slip stitch crochet, annie's attic, berne in, 2008, isbn 1596352159, p. 2 ^ [6] mlle.
+
+^ "slip stitch crochet « a yarnified life".
+
+the antique pattern library vtecrochettools crochet hook cro-hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control: national france bnf data germany israel united states czech republic retrieved from "https://en.wikipedia.org/w/index.php?title=crochet&oldid=1149831025" categories: crochetcraftsfigured fabricsneedleworkhidden categories: webarchive template wayback linksarticles with short descriptionshort description matches wikidataarticles needing additional references from march 2023all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from march 2023articles with unsourced statements from october 2022wikipedia articles needing clarification from october 2022commons category link is on wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with nkc identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12 .
+
+the key difference between crochet and knitting , beyond the implements used for their production , is that each stitch in crochet is completed before the next one is begun , while knitting keeps many stitches open at a time .
+
+some variant forms of crochet , such as tunisian crochet and broomstick lace , do keep multiple crochet stitches open at a time .
+
+[ 3 ] it was used in 17th - century french lace - making , where the term crochetage designated a stitch used to join separate pieces of lace .
+
+[ 7 ] the first is " simple open crochet " ( crochet simple ajour ), a mesh of chain - stitch arches .
+
+the second ( illustrated here ) starts in a semi - open form ( demi jour ), where chain - stitch arches alternate with equally long segments of slip - stitch crochet , and closes with a star made with " double - crochet stitches " ( dubbelde hekelsteek : double - crochet in british terminology ; single - crochet in us ).
+
+[ 12 ] an instruction book from 1846 describes shepherd or single crochet as what in current british usage is either called single crochet or slip - stitch crochet , with u .
+
+the tip of the needle shown there is indistinguishable from that of a present - day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique .
+
+[ 16 ] shepherd ' s hook , 19th - century tapered hook , modern inline hook the strong taper of the shepherd ' s hook eases the production of slip - stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time .
+
+[ citation needed ] the early instruction books make frequent reference to the alternative use of ' ivory , bone , or wooden hooks ' and ' steel needles in a handle ', as appropriate to the stitch being made .
+
+shepherd ' s hooks are still being made for local slip - stitch crochet traditions .
+
+crocheted laces in the new edwardian era , peaking between 1910 and 1920 , became even more elaborate in texture and complicated stitching .
+
+examples of such tools include cardboard cutouts , which can be used to make tassels , fringe , and many other items ; a pom - pom circle , used to make pom - poms ; a tape measure and a gauge measure , both used for measuring crocheted work and counting stitches ; a row counter ; and occasionally plastic rings , which are used for special projects .
+
+[ 23 ] because sizing is categorized by the diameter of the hook ' s shaft , a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern .
+
+if gauge is not reached with one hook , another is used until the stitches made are the needed size .
+
+[ citation needed ] a hairpin loom is often used to create lacy and long stitches , known as hairpin lace .
+
+while this is not in itself a hook , it is a device used in conjunction with a crochet hook to produce stitches .
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern .
+
+hence , thicker yarns generally require fewer stitches , and therefore less time , to work up a given project .
+
+the chain is either turned and worked in rows , or joined to the beginning of the row with a slip stitch and worked in rounds .
+
+rounds can also be created by working many stitches into a single loop .
+
+stitches are made by pulling one or more loops through each loop of the chain .
+
+at any one time at the end of a stitch , there is only one loop left on the hook .
+
+[ citation needed ] types of stitches [ edit ] indian crochet white tablecloth about 1970 .
+
+there are six main types of basic stitches ( the following description uses us crochet terminology which differs from the terminology used in the uk and europe ).
+
+chain stitch – the most basic of all stitches and used to begin most projects .
+
+slip stitch – used to join chain stitch to form a ring .
+
+single crochet stitch ( called double crochet stitch in the uk ) – easiest stitch to master half - double crochet stitch ( called half treble stitch in the uk ) – the ' in - between ' stitch , sometimes called short double crochet in vintage publications double crochet stitch ( called treble stitch in the uk ) ( yarn over once ) – many uses for this unlimited use stitch treble ( or triple ) crochet stitch ( called double treble stitch in the uk ) ( yarn over twice ) while the horizontal distance covered by these basic stitches is the same , they differ in height and thickness .
+
+[ citation needed ] the more advanced stitches are often combinations of these basic stitches , or are made by inserting the hook into the work in unusual locations .
+
+more advanced stitches include the shell stitch , v stitch , spike stitch , afghan stitch , butterfly stitch , popcorn stitch , cluster stitch , and crocodile stitch .
+
+international crochet terms and notations [ edit ] main article : list of crochet stitches some crochet symbols , abbreviations , and us / uk terms in the english - speaking crochet world , basic stitches have different names that vary by country .
+
+crochet is traditionally worked off a written pattern in which stitches and placement are communicated using textual abbreviations .
+
+individual crocheters work yarn with a loose or a tight hold and , if unmeasured , these differences can lead to significant size changes in finished garments that have the same number of stitches .
+
+in order to control for this inconsistency , printed crochet instructions include a standard for the number of stitches across a standard swatch of fabric .
+
+north americans call this gauge , referring to the result of these adjustments ; british crocheters speak of tension , which refers to the crafter ' s grip on the yarn while producing stitches .
+
+in most crochet , the artisan usually has only one live stitch on the hook ( with the exception being tunisian crochet ), while a knitter keeps an entire row of stitches active simultaneously .
+
+dropped stitches , which can unravel a knitted fabric , rarely interfere with crochet work , due to a second structural difference between knitting and crochet .
+
+in knitting , each stitch is supported by the corresponding stitch in the row above and it supports the corresponding stitch in the row below , whereas crochet stitches are only supported by and support the stitches on either side of it .
+
+if a stitch in a finished crocheted item breaks , the stitches above and below remain intact , and because of the complex looping of each stitch , the stitches on either side are unlikely to come loose unless heavily stressed .
+
+[ citation needed ] freeform crochet is a technique that can create interesting shapes in three dimensions because new stitches can be made independently of previous stitches almost anywhere in the crocheted piece .
+
+knitting can be accomplished by machine , while many crochet stitches can only be crafted by hand .
+
+the height of knitted and crocheted stitches is also different : a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools , and a double crochet stitch is about four times the height of a knit stitch .
+
+[ 28 ] slip stitch crochet is very similar to knitting .
+
+each stitch in slip stitch crochet is formed the same way as a knit or purl stitch which is then bound off .
+
+a person working in slip stitch crochet can follow a knitted pattern with knits , purls , and cables , and get a similar result .
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces .
+
+according to sources [ 30 ] claiming to have tested the 1 / 3 more yarn assertion , a single crochet stitch ( sc ) uses approximately the same amount of yarn as knit garter stitch , but more yarn than stockinette stitch .
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric .
+
+cluster stitches , which are in fact multiple stitches worked together , will use the most length .
+
+[ citation needed ] standard crochet stitches like sc and dc also produce a thicker fabric , more like knit garter stitch .
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn .
+
+[ 31 ] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time .
+
+knitting uses two or more straight needles that carry multiple stitches .
+
+[ clarification needed ] in section 53 , he writes of the " loop stitch , or noeud coulant : a knot that , if untied , causes the whole system to unravel ."
+
+90 – 94 ^ sarah hazell , 200 crochet stitches , search press , kent , 2013 , isbn 978 - 1 - 84448 - 963 - 3 ^ [ 2 ] elizabeth grant , the memoirs of a highland lady , john murray , london , 1898 p .
+
+9 – 10 ^ nancy nehring , learn slip stitch crochet , annie ' s attic , berne in , 2008 , isbn 1596352159 , p .
+
+^ " slip stitch crochet « a yarnified life ".
+
+the antique pattern library vtecrochettools crochet hook cro - hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control : national france bnf data germany israel united states czech republic retrieved from " https :// en .
+

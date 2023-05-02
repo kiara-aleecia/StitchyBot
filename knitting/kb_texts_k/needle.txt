@@ -1,0 +1,1066 @@
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1structure toggle structure subsection 1.1courses and wales 1.2weft and warp knitting[3] 1.3knit and purl stitches 1.4differences between knitting and crocheting 1.5right- and left-plaited stitches 1.6edges and joins between fabrics 1.7cables, increases, and lace 1.8ornamentations and additions 2history and culture 3properties of fabrics toggle properties of fabrics subsection 3.1texture 3.2color 4hand knitting process 5materials toggle materials subsection 5.1yarn 5.2metal wire 5.3glass and wax 6tools toggle tools subsection 6.1needles 6.1.1largest circular knitting needles 6.1.2record 6.2ancillary tools 7knitting styles/holds toggle knitting styles/holds subsection 7.1continental/german style 7.1.1norwegian style 7.1.2russian style 7.2english style 7.3portuguese/greek/incan/turkish style 8knitting techniques toggle knitting techniques subsection 8.1armenian 8.2double knitting 8.3fair isle 8.4mega knitting 8.5micro knitting 8.6short row 8.6.1wrap and turn 8.6.2german short row 8.6.3japanese short row 8.7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةবাংলাбашҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ್ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia method of forming fabric from yarn "knit" redirects here.
+
+there are usually many active stitches on the knitting needle at one time.
+
+as each row is formed, each newly created loop is pulled through one or more loops from the prior row and placed on the gaining needle so that the loops from the prior row can be pulled off the other needle without unraveling.
+
+differences in yarn (varying in fibre type, weight, uniformity and twist), needle size, and stitch type allow for a variety of knitted fabrics with different properties, including color, texture, thickness, heat retention, water resistance, and integrity.
+
+during knitting, the active stitches are secured mechanically, either from individual hooks (in knitting machines) or from a knitting needle or frame in hand-knitting.
+
+not every stitch in a row need be knitted; some may be 'missed' (unknitted and passed to the active needle) and knitted on a subsequent row.
+
+when knitting, a pair of long needles is needed to be able to form the loops from one set of loop to another through the needles.
+
+hand-knitters generally produce right-plaited stitches by knitting or purling through the back loops, i.e., passing the needle through the initial stitch in an unusual way, but wrapping the yarn as usual.
+
+by contrast, the left-plaited stitch is generally formed by hand-knitters by wrapping the yarn in the opposite way, rather than by any change in the needle.
+
+[14] nålebinding (danish: literally "binding with a needle" or "needle-binding") is a fabric creation technique predating both knitting and crochet.
+
+similar to quilting, spinning, and needlepoint, hand knitting became a leisure activity for the wealthy.
+
+adding a "slip stitch" (where a loop is passed from one needle to the other) allows for a wide range of textures, including heel and linen stitches as well as a number of more complicated patterns.
+
+combining certain increases, which can create small eyelet holes in the resulting fabric, with assorted decreases is key to creating knitted lace, a very open fabric resembling needle or bobbin lace.
+
+changing the order of stitches from one row to the next, usually with the help of a cable needle or stitch holder, is key to cable knitting, producing an endless variety of cables, honeycombs, ropes, and aran sweater patterning.
+
+a piece of hand knitting begins with the process of casting on, which involves the initial creation of the stitches on the needle.
+
+there are various methods employed to cast on, such as the "thumb method" (also known as "slingshot" or "long-tail" cast-ons), where the stitches are created by a series of loops that will, when knitted, give a very loose edge ideal for "picking up stitches" and knitting a border; the "double needle method" (also known as "knit-on" or "cable cast-on"), whereby each loop placed on the needle is then "knitted on", which produces a firmer edge ideal on its own as a border; and many more.
+
+there are also different ways to insert the needle into the stitch.
+
+casting (or "binding") off loops the stitches across each other so they can be removed from the needle without unravelling the item.
+
+smaller items, such as socks and hats, are usually knit in one piece on double-pointed needles or circular needles.
+
+hats in particular can be started "top down" on double pointed needles with the increases added until the preferred size is achieved, switching to an appropriate circular needle when enough stitches have been added.
+
+skeins and balls are generally sold with a yarn-band, a label that describes the yarn's weight, length, dye lot, fiber content, washing instructions, suggested needle size, likely gauge/tension, etc.
+
+thicker yarns generally require thicker knitting needles, whereas thinner yarns may be knit with thick or thin needles.
+
+in very simple cases, knitting can be done without tools, using only the fingers to do these tasks; however, knitting is usually carried out using tools such as knitting needles, knitting machines or rigid frames.
+
+needles[edit] main article: knitting needle knitting needles in a variety of sizes and materials.
+
+there are three basic types of knitting needles (also called "knitting pins").
+
+such needles are usually 10–16 inches (250–410 mm) long but, due to the compressibility of knitted fabrics, may be used to knit pieces significantly wider.
+
+the most important property of needles is their diameter, which ranges from below 2 to 25 mm (roughly 1 inch).
+
+thus, a simple way to change gauge/tension is to use different needles, which is the basis of uneven knitting.
+
+although the diameter of the knitting needle is often measured in millimeters, there are several measurement systems, particularly those specific to the united states, the united kingdom and japan; a conversion table is given at knitting needle.
+
+such knitting needles may be made out of any materials, but the most common materials are metals, wood, bamboo, and plastic.
+
+different materials have different frictions and grip the yarn differently; slick needles such as metallic needles are useful for swift knitting, whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches.
+
+needles with lighted tips have been sold to allow knitters to knit in the dark.
+
+double-pointed knitting needles in various materials and sizes.
+
+the second type of knitting needles are straight, double-pointed knitting needles (also called "dpns").
+
+double-pointed needles are tapered at both ends, which allows them to be knit from either end.
+
+dpns are typically used for circular knitting, especially smaller tube-shaped pieces such as sleeves, collars, and socks; usually one needle is active while the others hold the remaining active stitches.
+
+the third needle type consists of circular needles, which are long, flexible double-pointed needles.
+
+circular needles are typically 24-60 inches long, and are usually used singly or in pairs; again, the width of the knitted piece may be significantly longer than the length of the circular needle.
+
+interchangeable needles are a subset of circular needles.
+
+they are kits consist of pairs of needles with usually nylon cables or cords.
+
+the cables/cords are screwed into the needles, allowing the knitter to have both flexible straight needles or circular needles.
+
+this also allows the knitter to change the diameter and length of the needles as needed.
+
+the needles must be screwed on tightly, otherwise yarn can snag and become damaged.
+
+circular knitting needles in different lengths, materials and sizes, including plastic, aluminum, steel and nickel-plated brassthe ability to work from either end of one needle is convenient in several types of knitting, such as slip-stitch versions of double knitting.
+
+circular needles may be used for flat or circular knitting.
+
+cable needles are a special case of dpns, although they are usually not straight, but dimpled in the middle.
+
+cable needles are typically very short (a few inches), and are used to hold stitches temporarily while others are being knitted.
+
+when in use, the cable needle is used at the same time as two regular needles.
+
+at specific points indicated by the knitting pattern, the cable needle is moved, the stitches on it are worked by the other needles, then the cable needle is turned around to a different position to create the cable twist.
+
+cable needles cable needles are a specific design, and are used to create the twisting motif of a knitted cable.
+
+largest circular knitting needles[edit] the largest aluminum circular knitting needles on record are size us 150 and are nearly 7 feet tall.
+
+record[edit] julia hopson with world-record 3.5 meter (11'6") long knitting needles the current holder of the guinness world record for knitting with the largest knitting needles is julia hopson[24] of penzance in cornwall.
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6.5 centimeters (2½") in diameter and 3.5 meters (11'6") long.
+
+starting from the bottom right are two crochet hooks, two stitch holders (like big blunt safety pins), and two cable needles in pink and green.
+
+on the left are a pair of scissors, a yarn needle, green and blue stitch markers, and two orange point protectors.
+
+at the top left are two blue point protectors, one on a red needle.
+
+tools for measuring needle diameter and yarn properties have been discussed above, as well as the yarn swift, ballwinder and "yarntainers".
+
+crochet hooks and a darning needle are often useful in binding/casting off or in joining two knitted pieces edge-to-edge.
+
+the darning needle is used in duplicate stitch (also known as swiss darning).
+
+a second potential difficulty is that the knitted piece will slide off the tapered end of the needles when unattended; this is prevented by "point protectors" that cap the tapered ends.
+
+in traditional shetland knitting a special belt is often used to support the end of one needle allowing the knitting greater speed.
+
+finally, there are sundry bags and containers for holding knitting, yarns and needles.
+
+norwegian style[edit] main article: norwegian knitting while knit stitches are worked as in the classic continental style, the purl is worked by leaving the yarn at back and moving the needle.
+
+[25] russian style[edit] another variation on continental knitting, this style is achieved by "picking" up the yarn by moving the needle head into it.
+
+you will wind up with your index finger very close to the back of your left-hand needle.
+
+mega knitting[edit] mega knitting is a term recently coined and relates to the use of knitting needles greater than or equal to half an inch in diameter.
+
+mega knitting uses the same stitches and techniques as conventional knitting, except that hooks are carved into the ends of the needles.
+
+the hooked needles greatly enhance control of the work, catching the stitches and preventing them from slipping off.
+
+it was the development of the knitting machine that introduced hooked needles and enabled faultless, automated knitting.
+
+the hook catches the loop of yarn as each stitch is knitted, meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle.
+
+[26] micro knitting[edit] micro knitting or miniature knitting uses extremely fine threads and needles.
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch, making her own needles from fine surgical steel wire.
+
+annelies de kort has knitted on an even smaller scale and has used needles of 0.4mm.
+
+german short row[edit] in german short rows, the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle.
+
+finally, the working yarn is pulled over the top of the needle to the back, which rotates the stitch on the needle so that it tips backwards, forming what appears to be a double-stitch, sometimes referred to as a “german double stitch”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted, or rotated below the right needle and pulled to the front, if it is to be purled, both of which maintain the proper (“tipped back”) orientation of the german double stitch.
+
+[46] health benefits[edit] the earliest image of circular knitting, from the 15th century ad buxtehude altarpiece studies have shown that hand knitting, along with other forms of needlework, provide several significant health benefits.
+
+^ a b c a wale, according to knitting technology: a comprehensive handbook and practical guide, is "a predominantly vertical column of needle loops generally produced by the same needles at successive (not necessarily all) knitting cycles.
+
+a wale starts as soon as an empty needle starts to knit" (spencer 1989:17).
+
+^ "it's official: julia gains guinness world record for knitting with the largest knitting needles in the world".
+
+retrieved 22 september 2007. us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts, relationship to needle size and typical usage.
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette/stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding/casting off bobble brioche knitting buttonhole cables casting on double knitting drop-stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip-stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee (inventor) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl-mcphee alice starmore debbie stoller meg swansen barbara g. walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch 'n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from "https://en.wikipedia.org/w/index.php?title=knitting&oldid=1149831060" categories: knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories: webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+1needles 6 .
+
+1largest circular knitting needles 6 .
+
+there are usually many active stitches on the knitting needle at one time .
+
+as each row is formed , each newly created loop is pulled through one or more loops from the prior row and placed on the gaining needle so that the loops from the prior row can be pulled off the other needle without unraveling .
+
+differences in yarn ( varying in fibre type , weight , uniformity and twist ), needle size , and stitch type allow for a variety of knitted fabrics with different properties , including color , texture , thickness , heat retention , water resistance , and integrity .
+
+during knitting , the active stitches are secured mechanically , either from individual hooks ( in knitting machines ) or from a knitting needle or frame in hand - knitting .
+
+not every stitch in a row need be knitted ; some may be ' missed ' ( unknitted and passed to the active needle ) and knitted on a subsequent row .
+
+when knitting , a pair of long needles is needed to be able to form the loops from one set of loop to another through the needles .
+
+e ., passing the needle through the initial stitch in an unusual way , but wrapping the yarn as usual .
+
+by contrast , the left - plaited stitch is generally formed by hand - knitters by wrapping the yarn in the opposite way , rather than by any change in the needle .
+
+[ 14 ] nålebinding ( danish : literally " binding with a needle " or " needle - binding ") is a fabric creation technique predating both knitting and crochet .
+
+similar to quilting , spinning , and needlepoint , hand knitting became a leisure activity for the wealthy .
+
+adding a " slip stitch " ( where a loop is passed from one needle to the other ) allows for a wide range of textures , including heel and linen stitches as well as a number of more complicated patterns .
+
+combining certain increases , which can create small eyelet holes in the resulting fabric , with assorted decreases is key to creating knitted lace , a very open fabric resembling needle or bobbin lace .
+
+changing the order of stitches from one row to the next , usually with the help of a cable needle or stitch holder , is key to cable knitting , producing an endless variety of cables , honeycombs , ropes , and aran sweater patterning .
+
+a piece of hand knitting begins with the process of casting on , which involves the initial creation of the stitches on the needle .
+
+there are various methods employed to cast on , such as the " thumb method " ( also known as " slingshot " or " long - tail " cast - ons ), where the stitches are created by a series of loops that will , when knitted , give a very loose edge ideal for " picking up stitches " and knitting a border ; the " double needle method " ( also known as " knit - on " or " cable cast - on "), whereby each loop placed on the needle is then " knitted on ", which produces a firmer edge ideal on its own as a border ; and many more .
+
+there are also different ways to insert the needle into the stitch .
+
+casting ( or " binding ") off loops the stitches across each other so they can be removed from the needle without unravelling the item .
+
+smaller items , such as socks and hats , are usually knit in one piece on double - pointed needles or circular needles .
+
+hats in particular can be started " top down " on double pointed needles with the increases added until the preferred size is achieved , switching to an appropriate circular needle when enough stitches have been added .
+
+skeins and balls are generally sold with a yarn - band , a label that describes the yarn ' s weight , length , dye lot , fiber content , washing instructions , suggested needle size , likely gauge / tension , etc .
+
+thicker yarns generally require thicker knitting needles , whereas thinner yarns may be knit with thick or thin needles .
+
+in very simple cases , knitting can be done without tools , using only the fingers to do these tasks ; however , knitting is usually carried out using tools such as knitting needles , knitting machines or rigid frames .
+
+needles [ edit ] main article : knitting needle knitting needles in a variety of sizes and materials .
+
+there are three basic types of knitting needles ( also called " knitting pins ").
+
+such needles are usually 10 – 16 inches ( 250 – 410 mm ) long but , due to the compressibility of knitted fabrics , may be used to knit pieces significantly wider .
+
+the most important property of needles is their diameter , which ranges from below 2 to 25 mm ( roughly 1 inch ).
+
+thus , a simple way to change gauge / tension is to use different needles , which is the basis of uneven knitting .
+
+although the diameter of the knitting needle is often measured in millimeters , there are several measurement systems , particularly those specific to the united states , the united kingdom and japan ; a conversion table is given at knitting needle .
+
+such knitting needles may be made out of any materials , but the most common materials are metals , wood , bamboo , and plastic .
+
+different materials have different frictions and grip the yarn differently ; slick needles such as metallic needles are useful for swift knitting , whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches .
+
+needles with lighted tips have been sold to allow knitters to knit in the dark .
+
+double - pointed knitting needles in various materials and sizes .
+
+the second type of knitting needles are straight , double - pointed knitting needles ( also called " dpns ").
+
+double - pointed needles are tapered at both ends , which allows them to be knit from either end .
+
+dpns are typically used for circular knitting , especially smaller tube - shaped pieces such as sleeves , collars , and socks ; usually one needle is active while the others hold the remaining active stitches .
+
+the third needle type consists of circular needles , which are long , flexible double - pointed needles .
+
+circular needles are typically 24 - 60 inches long , and are usually used singly or in pairs ; again , the width of the knitted piece may be significantly longer than the length of the circular needle .
+
+interchangeable needles are a subset of circular needles .
+
+they are kits consist of pairs of needles with usually nylon cables or cords .
+
+the cables / cords are screwed into the needles , allowing the knitter to have both flexible straight needles or circular needles .
+
+this also allows the knitter to change the diameter and length of the needles as needed .
+
+the needles must be screwed on tightly , otherwise yarn can snag and become damaged .
+
+circular knitting needles in different lengths , materials and sizes , including plastic , aluminum , steel and nickel - plated brassthe ability to work from either end of one needle is convenient in several types of knitting , such as slip - stitch versions of double knitting .
+
+circular needles may be used for flat or circular knitting .
+
+cable needles are a special case of dpns , although they are usually not straight , but dimpled in the middle .
+
+cable needles are typically very short ( a few inches ), and are used to hold stitches temporarily while others are being knitted .
+
+when in use , the cable needle is used at the same time as two regular needles .
+
+at specific points indicated by the knitting pattern , the cable needle is moved , the stitches on it are worked by the other needles , then the cable needle is turned around to a different position to create the cable twist .
+
+cable needles cable needles are a specific design , and are used to create the twisting motif of a knitted cable .
+
+largest circular knitting needles [ edit ] the largest aluminum circular knitting needles on record are size us 150 and are nearly 7 feet tall .
+
+5 meter ( 11 ' 6 ") long knitting needles the current holder of the guinness world record for knitting with the largest knitting needles is julia hopson [ 24 ] of penzance in cornwall .
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6 .
+
+starting from the bottom right are two crochet hooks , two stitch holders ( like big blunt safety pins ), and two cable needles in pink and green .
+
+on the left are a pair of scissors , a yarn needle , green and blue stitch markers , and two orange point protectors .
+
+at the top left are two blue point protectors , one on a red needle .
+
+tools for measuring needle diameter and yarn properties have been discussed above , as well as the yarn swift , ballwinder and " yarntainers ".
+
+crochet hooks and a darning needle are often useful in binding / casting off or in joining two knitted pieces edge - to - edge .
+
+the darning needle is used in duplicate stitch ( also known as swiss darning ).
+
+a second potential difficulty is that the knitted piece will slide off the tapered end of the needles when unattended ; this is prevented by " point protectors " that cap the tapered ends .
+
+in traditional shetland knitting a special belt is often used to support the end of one needle allowing the knitting greater speed .
+
+finally , there are sundry bags and containers for holding knitting , yarns and needles .
+
+norwegian style [ edit ] main article : norwegian knitting while knit stitches are worked as in the classic continental style , the purl is worked by leaving the yarn at back and moving the needle .
+
+[ 25 ] russian style [ edit ] another variation on continental knitting , this style is achieved by " picking " up the yarn by moving the needle head into it .
+
+you will wind up with your index finger very close to the back of your left - hand needle .
+
+mega knitting [ edit ] mega knitting is a term recently coined and relates to the use of knitting needles greater than or equal to half an inch in diameter .
+
+mega knitting uses the same stitches and techniques as conventional knitting , except that hooks are carved into the ends of the needles .
+
+the hooked needles greatly enhance control of the work , catching the stitches and preventing them from slipping off .
+
+it was the development of the knitting machine that introduced hooked needles and enabled faultless , automated knitting .
+
+the hook catches the loop of yarn as each stitch is knitted , meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle .
+
+[ 26 ] micro knitting [ edit ] micro knitting or miniature knitting uses extremely fine threads and needles .
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch , making her own needles from fine surgical steel wire .
+
+annelies de kort has knitted on an even smaller scale and has used needles of 0 .
+
+german short row [ edit ] in german short rows , the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle .
+
+finally , the working yarn is pulled over the top of the needle to the back , which rotates the stitch on the needle so that it tips backwards , forming what appears to be a double - stitch , sometimes referred to as a “ german double stitch ”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted , or rotated below the right needle and pulled to the front , if it is to be purled , both of which maintain the proper (“ tipped back ”) orientation of the german double stitch .
+
+[ 46 ] health benefits [ edit ] the earliest image of circular knitting , from the 15th century ad buxtehude altarpiece studies have shown that hand knitting , along with other forms of needlework , provide several significant health benefits .
+
+^ a b c a wale , according to knitting technology : a comprehensive handbook and practical guide , is " a predominantly vertical column of needle loops generally produced by the same needles at successive ( not necessarily all ) knitting cycles .
+
+a wale starts as soon as an empty needle starts to knit " ( spencer 1989 : 17 ).
+
+^ " it ' s official : julia gains guinness world record for knitting with the largest knitting needles in the world ".
+
+us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts , relationship to needle size and typical usage .
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette / stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding / casting off bobble brioche knitting buttonhole cables casting on double knitting drop - stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip - stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee ( inventor ) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl - mcphee alice starmore debbie stoller meg swansen barbara g .
+
+walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch ' n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from " https :// en .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1structure toggle structure subsection 1.1courses and wales 1.2weft and warp knitting[3] 1.3knit and purl stitches 1.4differences between knitting and crocheting 1.5right- and left-plaited stitches 1.6edges and joins between fabrics 1.7cables, increases, and lace 1.8ornamentations and additions 2history and culture 3properties of fabrics toggle properties of fabrics subsection 3.1texture 3.2color 4hand knitting process 5materials toggle materials subsection 5.1yarn 5.2metal wire 5.3glass and wax 6tools toggle tools subsection 6.1needles 6.1.1largest circular knitting needles 6.1.2record 6.2ancillary tools 7knitting styles/holds toggle knitting styles/holds subsection 7.1continental/german style 7.1.1norwegian style 7.1.2russian style 7.2english style 7.3portuguese/greek/incan/turkish style 8knitting techniques toggle knitting techniques subsection 8.1armenian 8.2double knitting 8.3fair isle 8.4mega knitting 8.5micro knitting 8.6short row 8.6.1wrap and turn 8.6.2german short row 8.6.3japanese short row 8.7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةবাংলাбашҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ್ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia method of forming fabric from yarn "knit" redirects here.
+
+there are usually many active stitches on the knitting needle at one time.
+
+as each row is formed, each newly created loop is pulled through one or more loops from the prior row and placed on the gaining needle so that the loops from the prior row can be pulled off the other needle without unraveling.
+
+differences in yarn (varying in fibre type, weight, uniformity and twist), needle size, and stitch type allow for a variety of knitted fabrics with different properties, including color, texture, thickness, heat retention, water resistance, and integrity.
+
+during knitting, the active stitches are secured mechanically, either from individual hooks (in knitting machines) or from a knitting needle or frame in hand-knitting.
+
+not every stitch in a row need be knitted; some may be 'missed' (unknitted and passed to the active needle) and knitted on a subsequent row.
+
+when knitting, a pair of long needles is needed to be able to form the loops from one set of loop to another through the needles.
+
+hand-knitters generally produce right-plaited stitches by knitting or purling through the back loops, i.e., passing the needle through the initial stitch in an unusual way, but wrapping the yarn as usual.
+
+by contrast, the left-plaited stitch is generally formed by hand-knitters by wrapping the yarn in the opposite way, rather than by any change in the needle.
+
+[14] nålebinding (danish: literally "binding with a needle" or "needle-binding") is a fabric creation technique predating both knitting and crochet.
+
+similar to quilting, spinning, and needlepoint, hand knitting became a leisure activity for the wealthy.
+
+adding a "slip stitch" (where a loop is passed from one needle to the other) allows for a wide range of textures, including heel and linen stitches as well as a number of more complicated patterns.
+
+combining certain increases, which can create small eyelet holes in the resulting fabric, with assorted decreases is key to creating knitted lace, a very open fabric resembling needle or bobbin lace.
+
+changing the order of stitches from one row to the next, usually with the help of a cable needle or stitch holder, is key to cable knitting, producing an endless variety of cables, honeycombs, ropes, and aran sweater patterning.
+
+a piece of hand knitting begins with the process of casting on, which involves the initial creation of the stitches on the needle.
+
+there are various methods employed to cast on, such as the "thumb method" (also known as "slingshot" or "long-tail" cast-ons), where the stitches are created by a series of loops that will, when knitted, give a very loose edge ideal for "picking up stitches" and knitting a border; the "double needle method" (also known as "knit-on" or "cable cast-on"), whereby each loop placed on the needle is then "knitted on", which produces a firmer edge ideal on its own as a border; and many more.
+
+there are also different ways to insert the needle into the stitch.
+
+casting (or "binding") off loops the stitches across each other so they can be removed from the needle without unravelling the item.
+
+smaller items, such as socks and hats, are usually knit in one piece on double-pointed needles or circular needles.
+
+hats in particular can be started "top down" on double pointed needles with the increases added until the preferred size is achieved, switching to an appropriate circular needle when enough stitches have been added.
+
+skeins and balls are generally sold with a yarn-band, a label that describes the yarn's weight, length, dye lot, fiber content, washing instructions, suggested needle size, likely gauge/tension, etc.
+
+thicker yarns generally require thicker knitting needles, whereas thinner yarns may be knit with thick or thin needles.
+
+in very simple cases, knitting can be done without tools, using only the fingers to do these tasks; however, knitting is usually carried out using tools such as knitting needles, knitting machines or rigid frames.
+
+needles[edit] main article: knitting needle knitting needles in a variety of sizes and materials.
+
+there are three basic types of knitting needles (also called "knitting pins").
+
+such needles are usually 10–16 inches (250–410 mm) long but, due to the compressibility of knitted fabrics, may be used to knit pieces significantly wider.
+
+the most important property of needles is their diameter, which ranges from below 2 to 25 mm (roughly 1 inch).
+
+thus, a simple way to change gauge/tension is to use different needles, which is the basis of uneven knitting.
+
+although the diameter of the knitting needle is often measured in millimeters, there are several measurement systems, particularly those specific to the united states, the united kingdom and japan; a conversion table is given at knitting needle.
+
+such knitting needles may be made out of any materials, but the most common materials are metals, wood, bamboo, and plastic.
+
+different materials have different frictions and grip the yarn differently; slick needles such as metallic needles are useful for swift knitting, whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches.
+
+needles with lighted tips have been sold to allow knitters to knit in the dark.
+
+double-pointed knitting needles in various materials and sizes.
+
+the second type of knitting needles are straight, double-pointed knitting needles (also called "dpns").
+
+double-pointed needles are tapered at both ends, which allows them to be knit from either end.
+
+dpns are typically used for circular knitting, especially smaller tube-shaped pieces such as sleeves, collars, and socks; usually one needle is active while the others hold the remaining active stitches.
+
+the third needle type consists of circular needles, which are long, flexible double-pointed needles.
+
+circular needles are typically 24-60 inches long, and are usually used singly or in pairs; again, the width of the knitted piece may be significantly longer than the length of the circular needle.
+
+interchangeable needles are a subset of circular needles.
+
+they are kits consist of pairs of needles with usually nylon cables or cords.
+
+the cables/cords are screwed into the needles, allowing the knitter to have both flexible straight needles or circular needles.
+
+this also allows the knitter to change the diameter and length of the needles as needed.
+
+the needles must be screwed on tightly, otherwise yarn can snag and become damaged.
+
+circular knitting needles in different lengths, materials and sizes, including plastic, aluminum, steel and nickel-plated brassthe ability to work from either end of one needle is convenient in several types of knitting, such as slip-stitch versions of double knitting.
+
+circular needles may be used for flat or circular knitting.
+
+cable needles are a special case of dpns, although they are usually not straight, but dimpled in the middle.
+
+cable needles are typically very short (a few inches), and are used to hold stitches temporarily while others are being knitted.
+
+when in use, the cable needle is used at the same time as two regular needles.
+
+at specific points indicated by the knitting pattern, the cable needle is moved, the stitches on it are worked by the other needles, then the cable needle is turned around to a different position to create the cable twist.
+
+cable needles cable needles are a specific design, and are used to create the twisting motif of a knitted cable.
+
+largest circular knitting needles[edit] the largest aluminum circular knitting needles on record are size us 150 and are nearly 7 feet tall.
+
+record[edit] julia hopson with world-record 3.5 meter (11'6") long knitting needles the current holder of the guinness world record for knitting with the largest knitting needles is julia hopson[24] of penzance in cornwall.
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6.5 centimeters (2½") in diameter and 3.5 meters (11'6") long.
+
+starting from the bottom right are two crochet hooks, two stitch holders (like big blunt safety pins), and two cable needles in pink and green.
+
+on the left are a pair of scissors, a yarn needle, green and blue stitch markers, and two orange point protectors.
+
+at the top left are two blue point protectors, one on a red needle.
+
+tools for measuring needle diameter and yarn properties have been discussed above, as well as the yarn swift, ballwinder and "yarntainers".
+
+crochet hooks and a darning needle are often useful in binding/casting off or in joining two knitted pieces edge-to-edge.
+
+the darning needle is used in duplicate stitch (also known as swiss darning).
+
+a second potential difficulty is that the knitted piece will slide off the tapered end of the needles when unattended; this is prevented by "point protectors" that cap the tapered ends.
+
+in traditional shetland knitting a special belt is often used to support the end of one needle allowing the knitting greater speed.
+
+finally, there are sundry bags and containers for holding knitting, yarns and needles.
+
+norwegian style[edit] main article: norwegian knitting while knit stitches are worked as in the classic continental style, the purl is worked by leaving the yarn at back and moving the needle.
+
+[25] russian style[edit] another variation on continental knitting, this style is achieved by "picking" up the yarn by moving the needle head into it.
+
+you will wind up with your index finger very close to the back of your left-hand needle.
+
+mega knitting[edit] mega knitting is a term recently coined and relates to the use of knitting needles greater than or equal to half an inch in diameter.
+
+mega knitting uses the same stitches and techniques as conventional knitting, except that hooks are carved into the ends of the needles.
+
+the hooked needles greatly enhance control of the work, catching the stitches and preventing them from slipping off.
+
+it was the development of the knitting machine that introduced hooked needles and enabled faultless, automated knitting.
+
+the hook catches the loop of yarn as each stitch is knitted, meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle.
+
+[26] micro knitting[edit] micro knitting or miniature knitting uses extremely fine threads and needles.
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch, making her own needles from fine surgical steel wire.
+
+annelies de kort has knitted on an even smaller scale and has used needles of 0.4mm.
+
+german short row[edit] in german short rows, the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle.
+
+finally, the working yarn is pulled over the top of the needle to the back, which rotates the stitch on the needle so that it tips backwards, forming what appears to be a double-stitch, sometimes referred to as a “german double stitch”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted, or rotated below the right needle and pulled to the front, if it is to be purled, both of which maintain the proper (“tipped back”) orientation of the german double stitch.
+
+[46] health benefits[edit] the earliest image of circular knitting, from the 15th century ad buxtehude altarpiece studies have shown that hand knitting, along with other forms of needlework, provide several significant health benefits.
+
+^ a b c a wale, according to knitting technology: a comprehensive handbook and practical guide, is "a predominantly vertical column of needle loops generally produced by the same needles at successive (not necessarily all) knitting cycles.
+
+a wale starts as soon as an empty needle starts to knit" (spencer 1989:17).
+
+^ "it's official: julia gains guinness world record for knitting with the largest knitting needles in the world".
+
+retrieved 22 september 2007. us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts, relationship to needle size and typical usage.
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette/stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding/casting off bobble brioche knitting buttonhole cables casting on double knitting drop-stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip-stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee (inventor) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl-mcphee alice starmore debbie stoller meg swansen barbara g. walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch 'n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from "https://en.wikipedia.org/w/index.php?title=knitting&oldid=1149831060" categories: knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories: webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+1needles 6 .
+
+1largest circular knitting needles 6 .
+
+there are usually many active stitches on the knitting needle at one time .
+
+as each row is formed , each newly created loop is pulled through one or more loops from the prior row and placed on the gaining needle so that the loops from the prior row can be pulled off the other needle without unraveling .
+
+differences in yarn ( varying in fibre type , weight , uniformity and twist ), needle size , and stitch type allow for a variety of knitted fabrics with different properties , including color , texture , thickness , heat retention , water resistance , and integrity .
+
+during knitting , the active stitches are secured mechanically , either from individual hooks ( in knitting machines ) or from a knitting needle or frame in hand - knitting .
+
+not every stitch in a row need be knitted ; some may be ' missed ' ( unknitted and passed to the active needle ) and knitted on a subsequent row .
+
+when knitting , a pair of long needles is needed to be able to form the loops from one set of loop to another through the needles .
+
+e ., passing the needle through the initial stitch in an unusual way , but wrapping the yarn as usual .
+
+by contrast , the left - plaited stitch is generally formed by hand - knitters by wrapping the yarn in the opposite way , rather than by any change in the needle .
+
+[ 14 ] nålebinding ( danish : literally " binding with a needle " or " needle - binding ") is a fabric creation technique predating both knitting and crochet .
+
+similar to quilting , spinning , and needlepoint , hand knitting became a leisure activity for the wealthy .
+
+adding a " slip stitch " ( where a loop is passed from one needle to the other ) allows for a wide range of textures , including heel and linen stitches as well as a number of more complicated patterns .
+
+combining certain increases , which can create small eyelet holes in the resulting fabric , with assorted decreases is key to creating knitted lace , a very open fabric resembling needle or bobbin lace .
+
+changing the order of stitches from one row to the next , usually with the help of a cable needle or stitch holder , is key to cable knitting , producing an endless variety of cables , honeycombs , ropes , and aran sweater patterning .
+
+a piece of hand knitting begins with the process of casting on , which involves the initial creation of the stitches on the needle .
+
+there are various methods employed to cast on , such as the " thumb method " ( also known as " slingshot " or " long - tail " cast - ons ), where the stitches are created by a series of loops that will , when knitted , give a very loose edge ideal for " picking up stitches " and knitting a border ; the " double needle method " ( also known as " knit - on " or " cable cast - on "), whereby each loop placed on the needle is then " knitted on ", which produces a firmer edge ideal on its own as a border ; and many more .
+
+there are also different ways to insert the needle into the stitch .
+
+casting ( or " binding ") off loops the stitches across each other so they can be removed from the needle without unravelling the item .
+
+smaller items , such as socks and hats , are usually knit in one piece on double - pointed needles or circular needles .
+
+hats in particular can be started " top down " on double pointed needles with the increases added until the preferred size is achieved , switching to an appropriate circular needle when enough stitches have been added .
+
+skeins and balls are generally sold with a yarn - band , a label that describes the yarn ' s weight , length , dye lot , fiber content , washing instructions , suggested needle size , likely gauge / tension , etc .
+
+thicker yarns generally require thicker knitting needles , whereas thinner yarns may be knit with thick or thin needles .
+
+in very simple cases , knitting can be done without tools , using only the fingers to do these tasks ; however , knitting is usually carried out using tools such as knitting needles , knitting machines or rigid frames .
+
+needles [ edit ] main article : knitting needle knitting needles in a variety of sizes and materials .
+
+there are three basic types of knitting needles ( also called " knitting pins ").
+
+such needles are usually 10 – 16 inches ( 250 – 410 mm ) long but , due to the compressibility of knitted fabrics , may be used to knit pieces significantly wider .
+
+the most important property of needles is their diameter , which ranges from below 2 to 25 mm ( roughly 1 inch ).
+
+thus , a simple way to change gauge / tension is to use different needles , which is the basis of uneven knitting .
+
+although the diameter of the knitting needle is often measured in millimeters , there are several measurement systems , particularly those specific to the united states , the united kingdom and japan ; a conversion table is given at knitting needle .
+
+such knitting needles may be made out of any materials , but the most common materials are metals , wood , bamboo , and plastic .
+
+different materials have different frictions and grip the yarn differently ; slick needles such as metallic needles are useful for swift knitting , whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches .
+
+needles with lighted tips have been sold to allow knitters to knit in the dark .
+
+double - pointed knitting needles in various materials and sizes .
+
+the second type of knitting needles are straight , double - pointed knitting needles ( also called " dpns ").
+
+double - pointed needles are tapered at both ends , which allows them to be knit from either end .
+
+dpns are typically used for circular knitting , especially smaller tube - shaped pieces such as sleeves , collars , and socks ; usually one needle is active while the others hold the remaining active stitches .
+
+the third needle type consists of circular needles , which are long , flexible double - pointed needles .
+
+circular needles are typically 24 - 60 inches long , and are usually used singly or in pairs ; again , the width of the knitted piece may be significantly longer than the length of the circular needle .
+
+interchangeable needles are a subset of circular needles .
+
+they are kits consist of pairs of needles with usually nylon cables or cords .
+
+the cables / cords are screwed into the needles , allowing the knitter to have both flexible straight needles or circular needles .
+
+this also allows the knitter to change the diameter and length of the needles as needed .
+
+the needles must be screwed on tightly , otherwise yarn can snag and become damaged .
+
+circular knitting needles in different lengths , materials and sizes , including plastic , aluminum , steel and nickel - plated brassthe ability to work from either end of one needle is convenient in several types of knitting , such as slip - stitch versions of double knitting .
+
+circular needles may be used for flat or circular knitting .
+
+cable needles are a special case of dpns , although they are usually not straight , but dimpled in the middle .
+
+cable needles are typically very short ( a few inches ), and are used to hold stitches temporarily while others are being knitted .
+
+when in use , the cable needle is used at the same time as two regular needles .
+
+at specific points indicated by the knitting pattern , the cable needle is moved , the stitches on it are worked by the other needles , then the cable needle is turned around to a different position to create the cable twist .
+
+cable needles cable needles are a specific design , and are used to create the twisting motif of a knitted cable .
+
+largest circular knitting needles [ edit ] the largest aluminum circular knitting needles on record are size us 150 and are nearly 7 feet tall .
+
+5 meter ( 11 ' 6 ") long knitting needles the current holder of the guinness world record for knitting with the largest knitting needles is julia hopson [ 24 ] of penzance in cornwall .
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6 .
+
+starting from the bottom right are two crochet hooks , two stitch holders ( like big blunt safety pins ), and two cable needles in pink and green .
+
+on the left are a pair of scissors , a yarn needle , green and blue stitch markers , and two orange point protectors .
+
+at the top left are two blue point protectors , one on a red needle .
+
+tools for measuring needle diameter and yarn properties have been discussed above , as well as the yarn swift , ballwinder and " yarntainers ".
+
+crochet hooks and a darning needle are often useful in binding / casting off or in joining two knitted pieces edge - to - edge .
+
+the darning needle is used in duplicate stitch ( also known as swiss darning ).
+
+a second potential difficulty is that the knitted piece will slide off the tapered end of the needles when unattended ; this is prevented by " point protectors " that cap the tapered ends .
+
+in traditional shetland knitting a special belt is often used to support the end of one needle allowing the knitting greater speed .
+
+finally , there are sundry bags and containers for holding knitting , yarns and needles .
+
+norwegian style [ edit ] main article : norwegian knitting while knit stitches are worked as in the classic continental style , the purl is worked by leaving the yarn at back and moving the needle .
+
+[ 25 ] russian style [ edit ] another variation on continental knitting , this style is achieved by " picking " up the yarn by moving the needle head into it .
+
+you will wind up with your index finger very close to the back of your left - hand needle .
+
+mega knitting [ edit ] mega knitting is a term recently coined and relates to the use of knitting needles greater than or equal to half an inch in diameter .
+
+mega knitting uses the same stitches and techniques as conventional knitting , except that hooks are carved into the ends of the needles .
+
+the hooked needles greatly enhance control of the work , catching the stitches and preventing them from slipping off .
+
+it was the development of the knitting machine that introduced hooked needles and enabled faultless , automated knitting .
+
+the hook catches the loop of yarn as each stitch is knitted , meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle .
+
+[ 26 ] micro knitting [ edit ] micro knitting or miniature knitting uses extremely fine threads and needles .
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch , making her own needles from fine surgical steel wire .
+
+annelies de kort has knitted on an even smaller scale and has used needles of 0 .
+
+german short row [ edit ] in german short rows , the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle .
+
+finally , the working yarn is pulled over the top of the needle to the back , which rotates the stitch on the needle so that it tips backwards , forming what appears to be a double - stitch , sometimes referred to as a “ german double stitch ”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted , or rotated below the right needle and pulled to the front , if it is to be purled , both of which maintain the proper (“ tipped back ”) orientation of the german double stitch .
+
+[ 46 ] health benefits [ edit ] the earliest image of circular knitting , from the 15th century ad buxtehude altarpiece studies have shown that hand knitting , along with other forms of needlework , provide several significant health benefits .
+
+^ a b c a wale , according to knitting technology : a comprehensive handbook and practical guide , is " a predominantly vertical column of needle loops generally produced by the same needles at successive ( not necessarily all ) knitting cycles .
+
+a wale starts as soon as an empty needle starts to knit " ( spencer 1989 : 17 ).
+
+^ " it ' s official : julia gains guinness world record for knitting with the largest knitting needles in the world ".
+
+us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts , relationship to needle size and typical usage .
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette / stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding / casting off bobble brioche knitting buttonhole cables casting on double knitting drop - stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip - stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee ( inventor ) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl - mcphee alice starmore debbie stoller meg swansen barbara g .
+
+walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch ' n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from " https :// en .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1structure toggle structure subsection 1.1courses and wales 1.2weft and warp knitting[3] 1.3knit and purl stitches 1.4differences between knitting and crocheting 1.5right- and left-plaited stitches 1.6edges and joins between fabrics 1.7cables, increases, and lace 1.8ornamentations and additions 2history and culture 3properties of fabrics toggle properties of fabrics subsection 3.1texture 3.2color 4hand knitting process 5materials toggle materials subsection 5.1yarn 5.2metal wire 5.3glass and wax 6tools toggle tools subsection 6.1needles 6.1.1largest circular knitting needles 6.1.2record 6.2ancillary tools 7knitting styles/holds toggle knitting styles/holds subsection 7.1continental/german style 7.1.1norwegian style 7.1.2russian style 7.2english style 7.3portuguese/greek/incan/turkish style 8knitting techniques toggle knitting techniques subsection 8.1armenian 8.2double knitting 8.3fair isle 8.4mega knitting 8.5micro knitting 8.6short row 8.6.1wrap and turn 8.6.2german short row 8.6.3japanese short row 8.7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةবাংলাбашҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ್ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia method of forming fabric from yarn "knit" redirects here.
+
+there are usually many active stitches on the knitting needle at one time.
+
+as each row is formed, each newly created loop is pulled through one or more loops from the prior row and placed on the gaining needle so that the loops from the prior row can be pulled off the other needle without unraveling.
+
+differences in yarn (varying in fibre type, weight, uniformity and twist), needle size, and stitch type allow for a variety of knitted fabrics with different properties, including color, texture, thickness, heat retention, water resistance, and integrity.
+
+during knitting, the active stitches are secured mechanically, either from individual hooks (in knitting machines) or from a knitting needle or frame in hand-knitting.
+
+not every stitch in a row need be knitted; some may be 'missed' (unknitted and passed to the active needle) and knitted on a subsequent row.
+
+when knitting, a pair of long needles is needed to be able to form the loops from one set of loop to another through the needles.
+
+hand-knitters generally produce right-plaited stitches by knitting or purling through the back loops, i.e., passing the needle through the initial stitch in an unusual way, but wrapping the yarn as usual.
+
+by contrast, the left-plaited stitch is generally formed by hand-knitters by wrapping the yarn in the opposite way, rather than by any change in the needle.
+
+[14] nålebinding (danish: literally "binding with a needle" or "needle-binding") is a fabric creation technique predating both knitting and crochet.
+
+similar to quilting, spinning, and needlepoint, hand knitting became a leisure activity for the wealthy.
+
+adding a "slip stitch" (where a loop is passed from one needle to the other) allows for a wide range of textures, including heel and linen stitches as well as a number of more complicated patterns.
+
+combining certain increases, which can create small eyelet holes in the resulting fabric, with assorted decreases is key to creating knitted lace, a very open fabric resembling needle or bobbin lace.
+
+changing the order of stitches from one row to the next, usually with the help of a cable needle or stitch holder, is key to cable knitting, producing an endless variety of cables, honeycombs, ropes, and aran sweater patterning.
+
+a piece of hand knitting begins with the process of casting on, which involves the initial creation of the stitches on the needle.
+
+there are various methods employed to cast on, such as the "thumb method" (also known as "slingshot" or "long-tail" cast-ons), where the stitches are created by a series of loops that will, when knitted, give a very loose edge ideal for "picking up stitches" and knitting a border; the "double needle method" (also known as "knit-on" or "cable cast-on"), whereby each loop placed on the needle is then "knitted on", which produces a firmer edge ideal on its own as a border; and many more.
+
+there are also different ways to insert the needle into the stitch.
+
+casting (or "binding") off loops the stitches across each other so they can be removed from the needle without unravelling the item.
+
+smaller items, such as socks and hats, are usually knit in one piece on double-pointed needles or circular needles.
+
+hats in particular can be started "top down" on double pointed needles with the increases added until the preferred size is achieved, switching to an appropriate circular needle when enough stitches have been added.
+
+skeins and balls are generally sold with a yarn-band, a label that describes the yarn's weight, length, dye lot, fiber content, washing instructions, suggested needle size, likely gauge/tension, etc.
+
+thicker yarns generally require thicker knitting needles, whereas thinner yarns may be knit with thick or thin needles.
+
+in very simple cases, knitting can be done without tools, using only the fingers to do these tasks; however, knitting is usually carried out using tools such as knitting needles, knitting machines or rigid frames.
+
+needles[edit] main article: knitting needle knitting needles in a variety of sizes and materials.
+
+there are three basic types of knitting needles (also called "knitting pins").
+
+such needles are usually 10–16 inches (250–410 mm) long but, due to the compressibility of knitted fabrics, may be used to knit pieces significantly wider.
+
+the most important property of needles is their diameter, which ranges from below 2 to 25 mm (roughly 1 inch).
+
+thus, a simple way to change gauge/tension is to use different needles, which is the basis of uneven knitting.
+
+although the diameter of the knitting needle is often measured in millimeters, there are several measurement systems, particularly those specific to the united states, the united kingdom and japan; a conversion table is given at knitting needle.
+
+such knitting needles may be made out of any materials, but the most common materials are metals, wood, bamboo, and plastic.
+
+different materials have different frictions and grip the yarn differently; slick needles such as metallic needles are useful for swift knitting, whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches.
+
+needles with lighted tips have been sold to allow knitters to knit in the dark.
+
+double-pointed knitting needles in various materials and sizes.
+
+the second type of knitting needles are straight, double-pointed knitting needles (also called "dpns").
+
+double-pointed needles are tapered at both ends, which allows them to be knit from either end.
+
+dpns are typically used for circular knitting, especially smaller tube-shaped pieces such as sleeves, collars, and socks; usually one needle is active while the others hold the remaining active stitches.
+
+the third needle type consists of circular needles, which are long, flexible double-pointed needles.
+
+circular needles are typically 24-60 inches long, and are usually used singly or in pairs; again, the width of the knitted piece may be significantly longer than the length of the circular needle.
+
+interchangeable needles are a subset of circular needles.
+
+they are kits consist of pairs of needles with usually nylon cables or cords.
+
+the cables/cords are screwed into the needles, allowing the knitter to have both flexible straight needles or circular needles.
+
+this also allows the knitter to change the diameter and length of the needles as needed.
+
+the needles must be screwed on tightly, otherwise yarn can snag and become damaged.
+
+circular knitting needles in different lengths, materials and sizes, including plastic, aluminum, steel and nickel-plated brassthe ability to work from either end of one needle is convenient in several types of knitting, such as slip-stitch versions of double knitting.
+
+circular needles may be used for flat or circular knitting.
+
+cable needles are a special case of dpns, although they are usually not straight, but dimpled in the middle.
+
+cable needles are typically very short (a few inches), and are used to hold stitches temporarily while others are being knitted.
+
+when in use, the cable needle is used at the same time as two regular needles.
+
+at specific points indicated by the knitting pattern, the cable needle is moved, the stitches on it are worked by the other needles, then the cable needle is turned around to a different position to create the cable twist.
+
+cable needles cable needles are a specific design, and are used to create the twisting motif of a knitted cable.
+
+largest circular knitting needles[edit] the largest aluminum circular knitting needles on record are size us 150 and are nearly 7 feet tall.
+
+record[edit] julia hopson with world-record 3.5 meter (11'6") long knitting needles the current holder of the guinness world record for knitting with the largest knitting needles is julia hopson[24] of penzance in cornwall.
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6.5 centimeters (2½") in diameter and 3.5 meters (11'6") long.
+
+starting from the bottom right are two crochet hooks, two stitch holders (like big blunt safety pins), and two cable needles in pink and green.
+
+on the left are a pair of scissors, a yarn needle, green and blue stitch markers, and two orange point protectors.
+
+at the top left are two blue point protectors, one on a red needle.
+
+tools for measuring needle diameter and yarn properties have been discussed above, as well as the yarn swift, ballwinder and "yarntainers".
+
+crochet hooks and a darning needle are often useful in binding/casting off or in joining two knitted pieces edge-to-edge.
+
+the darning needle is used in duplicate stitch (also known as swiss darning).
+
+a second potential difficulty is that the knitted piece will slide off the tapered end of the needles when unattended; this is prevented by "point protectors" that cap the tapered ends.
+
+in traditional shetland knitting a special belt is often used to support the end of one needle allowing the knitting greater speed.
+
+finally, there are sundry bags and containers for holding knitting, yarns and needles.
+
+norwegian style[edit] main article: norwegian knitting while knit stitches are worked as in the classic continental style, the purl is worked by leaving the yarn at back and moving the needle.
+
+[25] russian style[edit] another variation on continental knitting, this style is achieved by "picking" up the yarn by moving the needle head into it.
+
+you will wind up with your index finger very close to the back of your left-hand needle.
+
+mega knitting[edit] mega knitting is a term recently coined and relates to the use of knitting needles greater than or equal to half an inch in diameter.
+
+mega knitting uses the same stitches and techniques as conventional knitting, except that hooks are carved into the ends of the needles.
+
+the hooked needles greatly enhance control of the work, catching the stitches and preventing them from slipping off.
+
+it was the development of the knitting machine that introduced hooked needles and enabled faultless, automated knitting.
+
+the hook catches the loop of yarn as each stitch is knitted, meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle.
+
+[26] micro knitting[edit] micro knitting or miniature knitting uses extremely fine threads and needles.
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch, making her own needles from fine surgical steel wire.
+
+annelies de kort has knitted on an even smaller scale and has used needles of 0.4mm.
+
+german short row[edit] in german short rows, the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle.
+
+finally, the working yarn is pulled over the top of the needle to the back, which rotates the stitch on the needle so that it tips backwards, forming what appears to be a double-stitch, sometimes referred to as a “german double stitch”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted, or rotated below the right needle and pulled to the front, if it is to be purled, both of which maintain the proper (“tipped back”) orientation of the german double stitch.
+
+[46] health benefits[edit] the earliest image of circular knitting, from the 15th century ad buxtehude altarpiece studies have shown that hand knitting, along with other forms of needlework, provide several significant health benefits.
+
+^ a b c a wale, according to knitting technology: a comprehensive handbook and practical guide, is "a predominantly vertical column of needle loops generally produced by the same needles at successive (not necessarily all) knitting cycles.
+
+a wale starts as soon as an empty needle starts to knit" (spencer 1989:17).
+
+^ "it's official: julia gains guinness world record for knitting with the largest knitting needles in the world".
+
+retrieved 22 september 2007. us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts, relationship to needle size and typical usage.
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette/stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding/casting off bobble brioche knitting buttonhole cables casting on double knitting drop-stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip-stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee (inventor) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl-mcphee alice starmore debbie stoller meg swansen barbara g. walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch 'n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from "https://en.wikipedia.org/w/index.php?title=knitting&oldid=1149831060" categories: knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories: webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+1needles 6 .
+
+1largest circular knitting needles 6 .
+
+there are usually many active stitches on the knitting needle at one time .
+
+as each row is formed , each newly created loop is pulled through one or more loops from the prior row and placed on the gaining needle so that the loops from the prior row can be pulled off the other needle without unraveling .
+
+differences in yarn ( varying in fibre type , weight , uniformity and twist ), needle size , and stitch type allow for a variety of knitted fabrics with different properties , including color , texture , thickness , heat retention , water resistance , and integrity .
+
+during knitting , the active stitches are secured mechanically , either from individual hooks ( in knitting machines ) or from a knitting needle or frame in hand - knitting .
+
+not every stitch in a row need be knitted ; some may be ' missed ' ( unknitted and passed to the active needle ) and knitted on a subsequent row .
+
+when knitting , a pair of long needles is needed to be able to form the loops from one set of loop to another through the needles .
+
+e ., passing the needle through the initial stitch in an unusual way , but wrapping the yarn as usual .
+
+by contrast , the left - plaited stitch is generally formed by hand - knitters by wrapping the yarn in the opposite way , rather than by any change in the needle .
+
+[ 14 ] nålebinding ( danish : literally " binding with a needle " or " needle - binding ") is a fabric creation technique predating both knitting and crochet .
+
+similar to quilting , spinning , and needlepoint , hand knitting became a leisure activity for the wealthy .
+
+adding a " slip stitch " ( where a loop is passed from one needle to the other ) allows for a wide range of textures , including heel and linen stitches as well as a number of more complicated patterns .
+
+combining certain increases , which can create small eyelet holes in the resulting fabric , with assorted decreases is key to creating knitted lace , a very open fabric resembling needle or bobbin lace .
+
+changing the order of stitches from one row to the next , usually with the help of a cable needle or stitch holder , is key to cable knitting , producing an endless variety of cables , honeycombs , ropes , and aran sweater patterning .
+
+a piece of hand knitting begins with the process of casting on , which involves the initial creation of the stitches on the needle .
+
+there are various methods employed to cast on , such as the " thumb method " ( also known as " slingshot " or " long - tail " cast - ons ), where the stitches are created by a series of loops that will , when knitted , give a very loose edge ideal for " picking up stitches " and knitting a border ; the " double needle method " ( also known as " knit - on " or " cable cast - on "), whereby each loop placed on the needle is then " knitted on ", which produces a firmer edge ideal on its own as a border ; and many more .
+
+there are also different ways to insert the needle into the stitch .
+
+casting ( or " binding ") off loops the stitches across each other so they can be removed from the needle without unravelling the item .
+
+smaller items , such as socks and hats , are usually knit in one piece on double - pointed needles or circular needles .
+
+hats in particular can be started " top down " on double pointed needles with the increases added until the preferred size is achieved , switching to an appropriate circular needle when enough stitches have been added .
+
+skeins and balls are generally sold with a yarn - band , a label that describes the yarn ' s weight , length , dye lot , fiber content , washing instructions , suggested needle size , likely gauge / tension , etc .
+
+thicker yarns generally require thicker knitting needles , whereas thinner yarns may be knit with thick or thin needles .
+
+in very simple cases , knitting can be done without tools , using only the fingers to do these tasks ; however , knitting is usually carried out using tools such as knitting needles , knitting machines or rigid frames .
+
+needles [ edit ] main article : knitting needle knitting needles in a variety of sizes and materials .
+
+there are three basic types of knitting needles ( also called " knitting pins ").
+
+such needles are usually 10 – 16 inches ( 250 – 410 mm ) long but , due to the compressibility of knitted fabrics , may be used to knit pieces significantly wider .
+
+the most important property of needles is their diameter , which ranges from below 2 to 25 mm ( roughly 1 inch ).
+
+thus , a simple way to change gauge / tension is to use different needles , which is the basis of uneven knitting .
+
+although the diameter of the knitting needle is often measured in millimeters , there are several measurement systems , particularly those specific to the united states , the united kingdom and japan ; a conversion table is given at knitting needle .
+
+such knitting needles may be made out of any materials , but the most common materials are metals , wood , bamboo , and plastic .
+
+different materials have different frictions and grip the yarn differently ; slick needles such as metallic needles are useful for swift knitting , whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches .
+
+needles with lighted tips have been sold to allow knitters to knit in the dark .
+
+double - pointed knitting needles in various materials and sizes .
+
+the second type of knitting needles are straight , double - pointed knitting needles ( also called " dpns ").
+
+double - pointed needles are tapered at both ends , which allows them to be knit from either end .
+
+dpns are typically used for circular knitting , especially smaller tube - shaped pieces such as sleeves , collars , and socks ; usually one needle is active while the others hold the remaining active stitches .
+
+the third needle type consists of circular needles , which are long , flexible double - pointed needles .
+
+circular needles are typically 24 - 60 inches long , and are usually used singly or in pairs ; again , the width of the knitted piece may be significantly longer than the length of the circular needle .
+
+interchangeable needles are a subset of circular needles .
+
+they are kits consist of pairs of needles with usually nylon cables or cords .
+
+the cables / cords are screwed into the needles , allowing the knitter to have both flexible straight needles or circular needles .
+
+this also allows the knitter to change the diameter and length of the needles as needed .
+
+the needles must be screwed on tightly , otherwise yarn can snag and become damaged .
+
+circular knitting needles in different lengths , materials and sizes , including plastic , aluminum , steel and nickel - plated brassthe ability to work from either end of one needle is convenient in several types of knitting , such as slip - stitch versions of double knitting .
+
+circular needles may be used for flat or circular knitting .
+
+cable needles are a special case of dpns , although they are usually not straight , but dimpled in the middle .
+
+cable needles are typically very short ( a few inches ), and are used to hold stitches temporarily while others are being knitted .
+
+when in use , the cable needle is used at the same time as two regular needles .
+
+at specific points indicated by the knitting pattern , the cable needle is moved , the stitches on it are worked by the other needles , then the cable needle is turned around to a different position to create the cable twist .
+
+cable needles cable needles are a specific design , and are used to create the twisting motif of a knitted cable .
+
+largest circular knitting needles [ edit ] the largest aluminum circular knitting needles on record are size us 150 and are nearly 7 feet tall .
+
+5 meter ( 11 ' 6 ") long knitting needles the current holder of the guinness world record for knitting with the largest knitting needles is julia hopson [ 24 ] of penzance in cornwall .
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6 .
+
+starting from the bottom right are two crochet hooks , two stitch holders ( like big blunt safety pins ), and two cable needles in pink and green .
+
+on the left are a pair of scissors , a yarn needle , green and blue stitch markers , and two orange point protectors .
+
+at the top left are two blue point protectors , one on a red needle .
+
+tools for measuring needle diameter and yarn properties have been discussed above , as well as the yarn swift , ballwinder and " yarntainers ".
+
+crochet hooks and a darning needle are often useful in binding / casting off or in joining two knitted pieces edge - to - edge .
+
+the darning needle is used in duplicate stitch ( also known as swiss darning ).
+
+a second potential difficulty is that the knitted piece will slide off the tapered end of the needles when unattended ; this is prevented by " point protectors " that cap the tapered ends .
+
+in traditional shetland knitting a special belt is often used to support the end of one needle allowing the knitting greater speed .
+
+finally , there are sundry bags and containers for holding knitting , yarns and needles .
+
+norwegian style [ edit ] main article : norwegian knitting while knit stitches are worked as in the classic continental style , the purl is worked by leaving the yarn at back and moving the needle .
+
+[ 25 ] russian style [ edit ] another variation on continental knitting , this style is achieved by " picking " up the yarn by moving the needle head into it .
+
+you will wind up with your index finger very close to the back of your left - hand needle .
+
+mega knitting [ edit ] mega knitting is a term recently coined and relates to the use of knitting needles greater than or equal to half an inch in diameter .
+
+mega knitting uses the same stitches and techniques as conventional knitting , except that hooks are carved into the ends of the needles .
+
+the hooked needles greatly enhance control of the work , catching the stitches and preventing them from slipping off .
+
+it was the development of the knitting machine that introduced hooked needles and enabled faultless , automated knitting .
+
+the hook catches the loop of yarn as each stitch is knitted , meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle .
+
+[ 26 ] micro knitting [ edit ] micro knitting or miniature knitting uses extremely fine threads and needles .
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch , making her own needles from fine surgical steel wire .
+
+annelies de kort has knitted on an even smaller scale and has used needles of 0 .
+
+german short row [ edit ] in german short rows , the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle .
+
+finally , the working yarn is pulled over the top of the needle to the back , which rotates the stitch on the needle so that it tips backwards , forming what appears to be a double - stitch , sometimes referred to as a “ german double stitch ”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted , or rotated below the right needle and pulled to the front , if it is to be purled , both of which maintain the proper (“ tipped back ”) orientation of the german double stitch .
+
+[ 46 ] health benefits [ edit ] the earliest image of circular knitting , from the 15th century ad buxtehude altarpiece studies have shown that hand knitting , along with other forms of needlework , provide several significant health benefits .
+
+^ a b c a wale , according to knitting technology : a comprehensive handbook and practical guide , is " a predominantly vertical column of needle loops generally produced by the same needles at successive ( not necessarily all ) knitting cycles .
+
+a wale starts as soon as an empty needle starts to knit " ( spencer 1989 : 17 ).
+
+^ " it ' s official : julia gains guinness world record for knitting with the largest knitting needles in the world ".
+
+us and uk conversion chart archived 28 may 2010 at the wayback machine shows us and uk conversion charts , relationship to needle size and typical usage .
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette / stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding / casting off bobble brioche knitting buttonhole cables casting on double knitting drop - stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip - stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee ( inventor ) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl - mcphee alice starmore debbie stoller meg swansen barbara g .
+
+walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch ' n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from " https :// en .
+
+happy knooking posted by ronda at 11:05 am 9 comments: email thisblogthis!share to twittershare to facebookshare to pinterest sunday, september 4, 2011 another knook hook so i made my own knook hook that has a pointy end like a knitting needle.
+
+share to twittershare to facebookshare to pinterest sunday , september 4 , 2011 another knook hook so i made my own knook hook that has a pointy end like a knitting needle .
+
+other (7) jumbo knitting needle size select as many as you like (optional) 1 or 2.25 mm 2 or 2.75 mm 3 or 3.25 mm 4 or 3.5 mm 5 or 3.75 mm 6 or 4 mm 7 or 4.5 mm 8 or 5 mm 9 or 5.5 mm 10 or 6 mm 10.5 or 6.5 mm 11 or 8 mm 13 or 9 mm 15 or 10 mm 17 or 12.75 mm 19 or 15 mm 35 or 19 mm 50 or 25 mm circular knitting needles double-pointed knitting needles (dpns) advanced pattern search register now my knitting patterns subscribe sign in menu subscribefree ebooksgiveawayshow toscollectionssubmit your projectproject of the daywrite for us popular free knitting patterns knitting for beginnersknit cowl patternseasy knitting patternsknitting for babies categories learn to knit tips and tricks video tutorials accessories boot cuffs headbands knit belts knit jewelry baby knits baby blankets baby sets baby sweater knitting patterns booties free baby hat knitting patterns bags tote children's knits children's knit gloves and mittens children's knit scarves children's knitted sweater patterns knit children's hats cowls neck warmers felted knits felted bags fingerless gloves knitting patterns gloves wrist warmers free afghan knitting patterns cable afghans knit throws gifts hats cable hats earflap hats knit berets ribbed hats home decor baskets bath knits dishcloths and washcloths kitchen and dining pillows potholders rugs knitting charities knitting companies knitting designers loom patterns loom hats loom scarves loom socks loom wraps men's knits gloves and mittens hats scarves sweaters and vests miscellaneous collections mittens motifs patterns for the holidays 4th of july knits christmas knits easter knits halloween knits st. patrick's day knits thanksgiving knits valentine's day knits pet knits dog sweaters reviews book reviews product reviews scarves infinity scarves shawls knit ponchos socks cable socks knit leg warmers slippers sweaters cardigans shrugs and boleros tops tanks toys amigurumi vests latest comments lisa "actually it could easily be modified and done in one piece.
+
+i did make this project about 10 or so years ago and i remember that it did not really look like the picture until it was completed, while it was on the needles it looked like it wasn't lining up.
+
+there are five basic knitting styles based on the way the yarn is held and wrapped around the working needle.
+
+english knitting is a knitting style that involves holding the yarn in the dominant hand, alongside the working needle.
+
+because this style holds the yarn in the non-dominant hand, there is no need to move the yarn in front or behind the needles in order to switch between knitting and purling.
+
+instead, the yarn is either placed above or below the needle in the non-dominant hand.
+
+this makes russian style a very tight hold that allows you to flick the yarn over the tip of the needle instead of picking it with the needle itself.
+
+lever knitting a knitting style in which the knitter holds the working yarn in the dominant hand and loops the yarn around the working needle without removing the dominant hand from the needle completely, creating a sort of back-and-forth levering motion.
+
+many knitters who use this style hold their working needle like a pencil, which frees up their pointer finger to hold the tension of their yarn and "flick" it around the end of the needle.
+
+in every other knitting style, the tension is held in the hands; this gives your hands two jobs to do at the same time -- holding the yarn and working the stitches with the needles.
+
+shetland knitting other names: pit knitting, scottish, shetland, from the hip, old way what is shetland knitting if you're picturing a woman standing in the scottish highlands with a knitting needle attached to a belt around her waist and knitting, you're probably not far off.
+
+the shetland style of knitting goes by many names, but it's recognizable because of the way the working needle is held against the body.
+
+because the dominant hand doesn't have to worry about holding the tension of the yarn and the working needle at the same time, this style of knitting is much faster.
+
+knitting style is a synonym for a knitting hold -- the way you hold your needles and yarn.
+
+combination knitting is popular because you can easily switch between knitting and purling without moving the yarn from one side of the needles to the other.
+
+register now for free to: save all your favorite patternsadd personal notesquickly reference your patterns log in join us todayforgot password connect with us our newest patterns & articles mangrove knit stitch woven-look throw knitting pattern loose ends easy to knit slipper pattern knit flat with bulky yarn on straight needles waffle stitch pattern stylish cardigan with colorful stripes unisex winter hat spider fingerless gloves waffle stitch kitchen towel see more see more of our newest patterns & articles free ebooks 15 free cute knitting patterns for every season 24 quick and easy knitting patterns 9 free knitting patterns perfect for spring a knitters gift guide: 8 homemade gift ideas a yarn hoarders guide to organization: knitting storage solutions, simple knitting patterns and more easy lace knitting patterns how to knit for beginners: 9 free tutorials the best light & lacy knit scarf patterns: 7 free scarf patterns for you see more see more free ebooks about us advertise contact us faq keyword index do not sell my personal information privacy policy share your project subscribe terms of service unsubscribe prime publishing craft group © copyright 2023 prime publishing, llc.
+
+other ( 7 ) jumbo knitting needle size select as many as you like ( optional ) 1 or 2 .
+
+75 mm 19 or 15 mm 35 or 19 mm 50 or 25 mm circular knitting needles double - pointed knitting needles ( dpns ) advanced pattern search register now my knitting patterns subscribe sign in menu subscribefree ebooksgiveawayshow toscollectionssubmit your projectproject of the daywrite for us popular free knitting patterns knitting for beginnersknit cowl patternseasy knitting patternsknitting for babies categories learn to knit tips and tricks video tutorials accessories boot cuffs headbands knit belts knit jewelry baby knits baby blankets baby sets baby sweater knitting patterns booties free baby hat knitting patterns bags tote children ' s knits children ' s knit gloves and mittens children ' s knit scarves children ' s knitted sweater patterns knit children ' s hats cowls neck warmers felted knits felted bags fingerless gloves knitting patterns gloves wrist warmers free afghan knitting patterns cable afghans knit throws gifts hats cable hats earflap hats knit berets ribbed hats home decor baskets bath knits dishcloths and washcloths kitchen and dining pillows potholders rugs knitting charities knitting companies knitting designers loom patterns loom hats loom scarves loom socks loom wraps men ' s knits gloves and mittens hats scarves sweaters and vests miscellaneous collections mittens motifs patterns for the holidays 4th of july knits christmas knits easter knits halloween knits st .
+
+i did make this project about 10 or so years ago and i remember that it did not really look like the picture until it was completed , while it was on the needles it looked like it wasn ' t lining up .
+
+there are five basic knitting styles based on the way the yarn is held and wrapped around the working needle .
+
+english knitting is a knitting style that involves holding the yarn in the dominant hand , alongside the working needle .
+
+because this style holds the yarn in the non - dominant hand , there is no need to move the yarn in front or behind the needles in order to switch between knitting and purling .
+
+instead , the yarn is either placed above or below the needle in the non - dominant hand .
+
+this makes russian style a very tight hold that allows you to flick the yarn over the tip of the needle instead of picking it with the needle itself .
+
+lever knitting a knitting style in which the knitter holds the working yarn in the dominant hand and loops the yarn around the working needle without removing the dominant hand from the needle completely , creating a sort of back - and - forth levering motion .
+
+many knitters who use this style hold their working needle like a pencil , which frees up their pointer finger to hold the tension of their yarn and " flick " it around the end of the needle .
+
+in every other knitting style , the tension is held in the hands ; this gives your hands two jobs to do at the same time -- holding the yarn and working the stitches with the needles .
+
+shetland knitting other names : pit knitting , scottish , shetland , from the hip , old way what is shetland knitting if you ' re picturing a woman standing in the scottish highlands with a knitting needle attached to a belt around her waist and knitting , you ' re probably not far off .
+
+the shetland style of knitting goes by many names , but it ' s recognizable because of the way the working needle is held against the body .
+
+because the dominant hand doesn ' t have to worry about holding the tension of the yarn and the working needle at the same time , this style of knitting is much faster .
+
+knitting style is a synonym for a knitting hold -- the way you hold your needles and yarn .
+
+combination knitting is popular because you can easily switch between knitting and purling without moving the yarn from one side of the needles to the other .
+
+register now for free to : save all your favorite patternsadd personal notesquickly reference your patterns log in join us todayforgot password connect with us our newest patterns & articles mangrove knit stitch woven - look throw knitting pattern loose ends easy to knit slipper pattern knit flat with bulky yarn on straight needles waffle stitch pattern stylish cardigan with colorful stripes unisex winter hat spider fingerless gloves waffle stitch kitchen towel see more see more of our newest patterns & articles free ebooks 15 free cute knitting patterns for every season 24 quick and easy knitting patterns 9 free knitting patterns perfect for spring a knitters gift guide : 8 homemade gift ideas a yarn hoarders guide to organization : knitting storage solutions , simple knitting patterns and more easy lace knitting patterns how to knit for beginners : 9 free tutorials the best light & lacy knit scarf patterns : 7 free scarf patterns for you see more see more free ebooks about us advertise contact us faq keyword index do not sell my personal information privacy policy share your project subscribe terms of service unsubscribe prime publishing craft group © copyright 2023 prime publishing , llc .
+

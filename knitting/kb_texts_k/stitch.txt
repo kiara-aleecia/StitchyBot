@@ -1,0 +1,1856 @@
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1structure toggle structure subsection 1.1courses and wales 1.2weft and warp knitting[3] 1.3knit and purl stitches 1.4differences between knitting and crocheting 1.5right- and left-plaited stitches 1.6edges and joins between fabrics 1.7cables, increases, and lace 1.8ornamentations and additions 2history and culture 3properties of fabrics toggle properties of fabrics subsection 3.1texture 3.2color 4hand knitting process 5materials toggle materials subsection 5.1yarn 5.2metal wire 5.3glass and wax 6tools toggle tools subsection 6.1needles 6.1.1largest circular knitting needles 6.1.2record 6.2ancillary tools 7knitting styles/holds toggle knitting styles/holds subsection 7.1continental/german style 7.1.1norwegian style 7.1.2russian style 7.2english style 7.3portuguese/greek/incan/turkish style 8knitting techniques toggle knitting techniques subsection 8.1armenian 8.2double knitting 8.3fair isle 8.4mega knitting 8.5micro knitting 8.6short row 8.6.1wrap and turn 8.6.2german short row 8.6.3japanese short row 8.7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةবাংলাбашҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ್ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia method of forming fabric from yarn "knit" redirects here.
+
+unsourced material may be challenged and removed.find sources: "knitting" – news · newspapers · books · scholar · jstor (december 2021) (learn how and when to remove this template message) woman knitting video description of knitting a sock and the two basic stitches: knit and purl knitting is a method for production of textile fabrics by interlacing yarn loops with loops of the same or other yarns.
+
+knitting creates stitches: loops of yarn in a row, either flat or in the round (tubular).
+
+there are usually many active stitches on the knitting needle at one time.
+
+differences in yarn (varying in fibre type, weight, uniformity and twist), needle size, and stitch type allow for a variety of knitted fabrics with different properties, including color, texture, thickness, heat retention, water resistance, and integrity.
+
+structure[edit] courses and wales[edit] structure of stockinette stitch, a common weave in knitted fabric.
+
+alternating wales of red and yellow knit stitches.
+
+each stitch in a wale is suspended from the one above it.
+
+can be obtained with short rows or by increasing or decreasing the number of stitches.
+
+[1] to secure a stitch, at least one new loop is passed through it.
+
+although the new stitch is itself unsecured ("active" or "live"), it secures the stitch(es) suspended from it.
+
+a sequence of stitches in which each stitch is suspended from the next is called a wale.
+
+[2] to secure the initial stitches of a knitted fabric, a method for casting on is used; to secure the final stitches in a wale, one uses a method of binding/casting off.
+
+during knitting, the active stitches are secured mechanically, either from individual hooks (in knitting machines) or from a knitting needle or frame in hand-knitting.
+
+in weft knitting, the entire fabric may be produced from a single yarn, by adding stitches to each wale in turn, moving across the fabric as in a raster scan.
+
+in the knit stitch on the left, the next (red) loop passes through the previous (yellow) loop from below, whereas in the purl stitch (right), the next stitch enters from above.
+
+thus, a knit stitch on one side of the fabric appears as a purl stitch on the other, and vice versa.
+
+knit and purl stitches[edit] see also: list of knitting stitches two courses of red yarn illustrating two basic fabric types.
+
+the lower red course is knit into the white row below it and is itself knit on the next row; this produces 'stockinette' stitch.
+
+the upper red course is purled into the row below and then is knit, consistent with 'garter' stitch.
+
+a dropped stitch, or missed stitch, is a common error that creates an extra loop to be fixed.
+
+in securing the previous stitch in a wale, the next stitch can pass through the previous loop from either below or above.
+
+if the former, the stitch is denoted as a 'knit stitch' or a 'plain stitch;' if the latter, as a 'purl stitch'.
+
+the two stitches are related in that a knit stitch seen from one side of the fabric appears as a purl stitch on the other side.
+
+the two types of stitches have a different visual effect; the knit stitches look like 'v's stacked vertically, whereas the purl stitches look like a wavy horizontal line across the fabric.
+
+patterns and pictures can be created in knitted fabrics by using knit and purl stitches as "pixels"; however, such pixels are usually rectangular, rather than square, depending on the gauge/tension of the knitting.
+
+individual stitches, or rows of stitches, may be made taller by drawing more yarn into the new loop (an elongated stitch), which is the basis for uneven knitting: a row of tall stitches may alternate with one or more rows of short stitches for an interesting visual effect.
+
+short and tall stitches may also alternate within a row, forming a fish-like oval pattern.
+
+in the simplest of hand-knitted fabrics, every row of stitches are all knit (or all purl); this creates a garter stitch fabric.
+
+alternating rows of all knit stitches and all purl stitches creates a stockinette pattern/stocking stitch.
+
+vertical stripes (ribbing) are possible by having alternating wales of knit and purl stitches.
+
+for example, a common choice is 2x2 ribbing, in which two wales of knit stitches are followed by two wales of purl stitches, etc.
+
+horizontal striping (welting) is also possible, by alternating rows of knit and purl stitches.
+
+checkerboard patterns (basketweave) are also possible, the smallest of which is known as seed/moss stitch: the stitches alternate between knit and purl in every wale and along every row.
+
+fabrics in which each knitted row is followed by a purled row, such as in stockinette/stocking stitch, have a tendency to curl—top and bottom curl toward the front (or knitted side) while the sides curl toward the back (or purled side); by contrast, those in which knit and purl stitches are arranged symmetrically (such as ribbing, garter stitch or seed/moss stitch) have more texture and tend to lie flat.
+
+wales of purl stitches have a tendency to recede, whereas those of knit stitches tend to come forward, giving the fabric more stretchability.
+
+conversely, rows of purl stitches tend to form an embossed ridge relative to a row of knit stitches.
+
+[7] typically, a new stitch is passed through a single unsecured ('active') loop, thus lengthening that wale by one stitch.
+
+however, this need not be so; the new loop may be passed through an already secured stitch lower down on the fabric, or even between secured stitches (a dip stitch).
+
+depending on the distance between where the loop is drawn through the fabric and where it is knitted, dip stitches can produce a subtle stippling or long lines across the surface of the fabric, e.g., the lower leaves of a flower.
+
+the new loop may also be passed between two stitches in the 'present' row, thus clustering the intervening stitches; this approach is often used to produce a smocking effect in the fabric.
+
+the new loop may also be passed through 'two or more' previous stitches, producing a decrease and merging wales together.
+
+the merged stitches need not be from the same row; for example, a tuck can be formed by knitting stitches together from two different rows, producing a raised horizontal welt on the fabric.
+
+not every stitch in a row need be knitted; some may be 'missed' (unknitted and passed to the active needle) and knitted on a subsequent row.
+
+this is known as slip-stitch knitting.
+
+[8] the slipped stitches are naturally longer than the knitted ones.
+
+for example, a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts.
+
+this can produce interesting visual effects, although the resulting fabric is more rigid because the slipped stitch 'pulls' on its neighbours and is less deformable.
+
+mosaic knitting is a form of slip-stitch knitting that knits alternate colored rows and uses slip stitches to form patterns; mosaic-knit fabrics tend to be stiffer than patterned fabrics produced by other methods such as fair-isle knitting.
+
+[9] in some cases, a stitch may be deliberately left unsecured by a new stitch and its wale allowed to disassemble.
+
+this is known as drop-stitch knitting, and produces a vertical ladder of see-through holes in the fabric, corresponding to where the wale had been.
+
+both have the same methods of stitching yarn together, but their methods are fairly different.
+
+[clarification needed] when knitting, the stitches form a shape that is similar to a "v", while in crochet the stitches are knotted together.
+
+right- and left-plaited stitches[edit] see also: plaited stitch (knitting) the stitches on the right are right-plaited, whereas the stitches on the left are left-plaited.
+
+within limits, an arbitrary number of twists may be added to new stitches, whether they be knit or purl.
+
+here, a single twist is illustrated, with left-plaited and right-plaited stitches on the left and right, respectively.
+
+both knit and purl stitches may be twisted: usually once if at all, but sometimes twice and (very rarely) thrice.
+
+when seen from above, the twist can be clockwise (right yarn over left) or counterclockwise (left yarn over right); these are denoted as right- and left-plaited stitches, respectively.
+
+hand-knitters generally produce right-plaited stitches by knitting or purling through the back loops, i.e., passing the needle through the initial stitch in an unusual way, but wrapping the yarn as usual.
+
+by contrast, the left-plaited stitch is generally formed by hand-knitters by wrapping the yarn in the opposite way, rather than by any change in the needle.
+
+although they are mirror images in form, right- and left-plaited stitches are functionally equivalent.
+
+both types of plaited stitches give a subtle but interesting visual texture, and tend to draw the fabric inwards, making it stiffer.
+
+plaited stitches are a common method for knitting jewelry from fine metal wire.
+
+the side edges are known as the selvages; the word derives from "self-edges", meaning that the stitches do not need to be secured by anything else.
+
+two knitted fabrics can be joined by embroidery-based grafting methods, most commonly the kitchener stitch.
+
+new wales can be begun from any of the edges of a knitted fabric; this is known as picking up stitches and is the basis for entrelac, in which the wales run perpendicular to one another in a checkerboard pattern.
+
+the central braid is formed from 2x2 ribbing in which the background is formed of purl stitches and the cables are each two wales of knit stitches.
+
+by changing the order in which the stitches are knit, the wales can be made to cross.
+
+cables, increases, and lace[edit] see also: list of knitting stitches ordinarily, stitches are knitted in the same order in every row, and the wales of the fabric run parallel and vertically along the fabric.
+
+however, this need not be so, since the order in which stitches are knitted may be permuted so that wales cross over one another, forming a cable pattern.
+
+this is used to great effect in lace knitting, which consists of making patterns and pictures using such holes, rather than with the stitches themselves.
+
+properties of fabrics[edit] main article: knitted fabric schematic of stockinette stitch, the most basic weft-knit fabric the topology of a knitted fabric is relatively complex.
+
+close-up of front of stockinette stitch close-up of back of stockinette stitch, also same appearance as reverse stockinette stitch the basic knitted fabric (as in the diagram, and usually called a stocking or stockinette pattern) has a definite "right side" and "wrong side".
+
+because the yarn holding rows together is all on the front, and the yarn holding side-by-side stitches together is all on the back, stockinette fabric has a strong tendency to curl toward the front on the top and bottom, and toward the back on the left and right side.
+
+stitches can be worked from either side, and various patterns are created by mixing regular knit stitches with the "wrong side" stitches, known as purl stitches, either in columns (ribbing), rows (garter, welting), or more complex patterns.
+
+each fabric has different properties: a garter stitch has much more vertical stretch, while ribbing stretches much more horizontally.
+
+different combinations of knit and purl stitches, along with more advanced techniques, generate fabrics of considerably variable consistency, from gauzy to very dense, from highly stretchy to relatively stiff, from flat to tightly curled, and so on.
+
+close-up of knitting texture[edit] the most common texture for a knitted garment is that generated by the flat stockinette stitch—as seen, though very small, in machine-made stockings and t-shirts—which is worked in the round as nothing but knit stitches, and worked flat as alternating rows of knit and purl.
+
+other simple textures can be made with nothing but knit and purl stitches, including garter stitch, ribbing, and moss and seed stitches.
+
+adding a "slip stitch" (where a loop is passed from one needle to the other) allows for a wide range of textures, including heel and linen stitches as well as a number of more complicated patterns.
+
+open vertical stripes can be created using the drop-stitch knitting technique.
+
+changing the order of stitches from one row to the next, usually with the help of a cable needle or stitch holder, is key to cable knitting, producing an endless variety of cables, honeycombs, ropes, and aran sweater patterning.
+
+the thicker the yarn, the more visible and apparent stitches will be; the thinner the yarn, the finer the texture.
+
+some yarns are dyed to be either variegated (changing color every few stitches in a random fashion) or self-striping (changing every few rows).
+
+more complicated techniques permit large fields of color (intarsia, for example), busy small-scale patterns of color (such as fair isle), or both (double knitting and slip-stitch color, for example).
+
+hand knitting process[edit] a woman in the process of hand knitting (1904) there are many hundreds of different knitting stitches used by hand knitters.
+
+a piece of hand knitting begins with the process of casting on, which involves the initial creation of the stitches on the needle.
+
+there are various methods employed to cast on, such as the "thumb method" (also known as "slingshot" or "long-tail" cast-ons), where the stitches are created by a series of loops that will, when knitted, give a very loose edge ideal for "picking up stitches" and knitting a border; the "double needle method" (also known as "knit-on" or "cable cast-on"), whereby each loop placed on the needle is then "knitted on", which produces a firmer edge ideal on its own as a border; and many more.
+
+the number of active stitches remains the same as when cast on unless stitches are added (an increase) or removed (a decrease).
+
+there are also different ways to insert the needle into the stitch.
+
+knitting through the front of a stitch is called western knitting.
+
+going through the back of a stitch is called eastern knitting.
+
+a third method, called combination knitting, goes through the front of a knit stitch and the back of a purl stitch.
+
+[18] once the hand knitted piece is finished, the remaining live stitches are "cast off".
+
+casting (or "binding") off loops the stitches across each other so they can be removed from the needle without unravelling the item.
+
+hats in particular can be started "top down" on double pointed needles with the increases added until the preferred size is achieved, switching to an appropriate circular needle when enough stitches have been added.
+
+the thickness or weight of the yarn is a significant factor in determining the gauge/tension, i.e., how many stitches and rows are required to cover a given area for a given stitch pattern.
+
+hence, thicker yarns generally require fewer stitches, and therefore less time, to knit up a given garment.
+
+more resilient yarns are more forgiving of irregularities in tension; highly twisted yarns are sometimes difficult to knit, whereas untwisting yarns can lead to split stitches, in which not all the yarn is knitted into a stitch.
+
+a key factor in knitting is stitch definition, corresponding to how well complicated stitch patterns can be seen when made from a given yarn.
+
+smooth, highly spun yarns are best for showing off stitch patterns; at the other extreme, very fuzzy yarns or eyelash yarns have poor stitch definition, and any complicated stitch pattern would be invisible.
+
+[22] tools[edit] the process of knitting has three basic tasks: the active (unsecured) stitches must be held so they don't drop these stitches must be released sometime after they are secured new bights of yarn must be passed through the fabric, usually through active stitches, thus securing them.
+
+there is also a technique called knooking[23] of knitting with a crochet hook that has a cord attached to the end, to hold the stitches while they're being worked.
+
+the first and most common type consists of two slender, straight sticks tapered to a point at one end, and with a knob at the other end to prevent stitches from slipping off.
+
+the diameter affects the size of stitches, which affects the gauge/tension of the knitting and the elasticity of the fabric.
+
+different materials have different frictions and grip the yarn differently; slick needles such as metallic needles are useful for swift knitting, whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches.
+
+the knitting of new stitches occurs only at the tapered ends.
+
+dpns are typically used for circular knitting, especially smaller tube-shaped pieces such as sleeves, collars, and socks; usually one needle is active while the others hold the remaining active stitches.
+
+circular knitting needles in different lengths, materials and sizes, including plastic, aluminum, steel and nickel-plated brassthe ability to work from either end of one needle is convenient in several types of knitting, such as slip-stitch versions of double knitting.
+
+cable needles are typically very short (a few inches), and are used to hold stitches temporarily while others are being knitted.
+
+at specific points indicated by the knitting pattern, the cable needle is moved, the stitches on it are worked by the other needles, then the cable needle is turned around to a different position to create the cable twist.
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6.5 centimeters (2½") in diameter and 3.5 meters (11'6") long.
+
+starting from the bottom right are two crochet hooks, two stitch holders (like big blunt safety pins), and two cable needles in pink and green.
+
+on the left are a pair of scissors, a yarn needle, green and blue stitch markers, and two orange point protectors.
+
+the darning needle is used in duplicate stitch (also known as swiss darning).
+
+the crochet hook is also essential for repairing dropped stitches and some specialty stitches such as tufting.
+
+for large or complex knitting patterns, it is sometimes difficult to keep track of which stitch should be knit in a particular way; therefore, several tools have been developed to identify the number of a particular row or stitch, including circular stitch markers, hanging markers, extra yarn and row counters.
+
+norwegian style[edit] main article: norwegian knitting while knit stitches are worked as in the classic continental style, the purl is worked by leaving the yarn at back and moving the needle.
+
+in russian knitting, it is common to slip the first stitch of every row.
+
+you will tack your non-working yarn down approximately every 3 stitches.
+
+mega knitting uses the same stitches and techniques as conventional knitting, except that hooks are carved into the ends of the needles.
+
+the hooked needles greatly enhance control of the work, catching the stitches and preventing them from slipping off.
+
+the hook catches the loop of yarn as each stitch is knitted, meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle.
+
+turn the left (non-working) hook to face away at all times; turn the right (working) hook toward you up whilst knitting (plain stitch) and away whilst purling.
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch, making her own needles from fine surgical steel wire.
+
+wrap and turn[edit] just before the work is turned, the working yarn is passed around the next unknitted stitch, forming a “wrap.” later, this “wrap” is picked up and knitted into a stitch, concealing it from view.
+
+german short row[edit] in german short rows, the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle.
+
+finally, the working yarn is pulled over the top of the needle to the back, which rotates the stitch on the needle so that it tips backwards, forming what appears to be a double-stitch, sometimes referred to as a “german double stitch”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted, or rotated below the right needle and pulled to the front, if it is to be purled, both of which maintain the proper (“tipped back”) orientation of the german double stitch.
+
+eventually, this german double stitch is worked like a single stitch, which masks its appearance as viewed from the right side to look like a regular stitch.
+
+japanese short row[edit] in japanese short rows, a locking stitch marker is used to hold the loop of the working yarn at the turning point.
+
+eventually, the loop is picked up (and stitch marker removed) and worked together with the stitch on the other side of the gap.
+
+it refers to knitting where two strands of yarn are knitted into the fabric alternatively and twisted once and always in the same direction before every stitch.
+
+[50] a repository of research into the effect on health of hand knitting can be found at stitch links,[51] an organization founded in bath, england.
+
+slip-stitch knitting: color pattern the easy way.
+
+"how to do the knit stitch".
+
+stitch 'n bitch: the knitter's handbook.
+
+"seventy stitches to the inch: althea crome's tiny knits".
+
+^ "stitchlinks.com".
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette/stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding/casting off bobble brioche knitting buttonhole cables casting on double knitting drop-stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip-stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee (inventor) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl-mcphee alice starmore debbie stoller meg swansen barbara g. walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch 'n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from "https://en.wikipedia.org/w/index.php?title=knitting&oldid=1149831060" categories: knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories: webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+3knit and purl stitches 1 .
+
+5right - and left - plaited stitches 1 .
+
+find sources : " knitting " – news · newspapers · books · scholar · jstor ( december 2021 ) ( learn how and when to remove this template message ) woman knitting video description of knitting a sock and the two basic stitches : knit and purl knitting is a method for production of textile fabrics by interlacing yarn loops with loops of the same or other yarns .
+
+knitting creates stitches : loops of yarn in a row , either flat or in the round ( tubular ).
+
+there are usually many active stitches on the knitting needle at one time .
+
+differences in yarn ( varying in fibre type , weight , uniformity and twist ), needle size , and stitch type allow for a variety of knitted fabrics with different properties , including color , texture , thickness , heat retention , water resistance , and integrity .
+
+structure [ edit ] courses and wales [ edit ] structure of stockinette stitch , a common weave in knitted fabric .
+
+alternating wales of red and yellow knit stitches .
+
+each stitch in a wale is suspended from the one above it .
+
+can be obtained with short rows or by increasing or decreasing the number of stitches .
+
+[ 1 ] to secure a stitch , at least one new loop is passed through it .
+
+although the new stitch is itself unsecured (" active " or " live "), it secures the stitch ( es ) suspended from it .
+
+a sequence of stitches in which each stitch is suspended from the next is called a wale .
+
+[ 2 ] to secure the initial stitches of a knitted fabric , a method for casting on is used ; to secure the final stitches in a wale , one uses a method of binding / casting off .
+
+during knitting , the active stitches are secured mechanically , either from individual hooks ( in knitting machines ) or from a knitting needle or frame in hand - knitting .
+
+in weft knitting , the entire fabric may be produced from a single yarn , by adding stitches to each wale in turn , moving across the fabric as in a raster scan .
+
+in the knit stitch on the left , the next ( red ) loop passes through the previous ( yellow ) loop from below , whereas in the purl stitch ( right ), the next stitch enters from above .
+
+thus , a knit stitch on one side of the fabric appears as a purl stitch on the other , and vice versa .
+
+knit and purl stitches [ edit ] see also : list of knitting stitches two courses of red yarn illustrating two basic fabric types .
+
+the lower red course is knit into the white row below it and is itself knit on the next row ; this produces ' stockinette ' stitch .
+
+the upper red course is purled into the row below and then is knit , consistent with ' garter ' stitch .
+
+a dropped stitch , or missed stitch , is a common error that creates an extra loop to be fixed .
+
+in securing the previous stitch in a wale , the next stitch can pass through the previous loop from either below or above .
+
+if the former , the stitch is denoted as a ' knit stitch ' or a ' plain stitch ;' if the latter , as a ' purl stitch '.
+
+the two stitches are related in that a knit stitch seen from one side of the fabric appears as a purl stitch on the other side .
+
+the two types of stitches have a different visual effect ; the knit stitches look like ' v ' s stacked vertically , whereas the purl stitches look like a wavy horizontal line across the fabric .
+
+patterns and pictures can be created in knitted fabrics by using knit and purl stitches as " pixels "; however , such pixels are usually rectangular , rather than square , depending on the gauge / tension of the knitting .
+
+individual stitches , or rows of stitches , may be made taller by drawing more yarn into the new loop ( an elongated stitch ), which is the basis for uneven knitting : a row of tall stitches may alternate with one or more rows of short stitches for an interesting visual effect .
+
+short and tall stitches may also alternate within a row , forming a fish - like oval pattern .
+
+in the simplest of hand - knitted fabrics , every row of stitches are all knit ( or all purl ); this creates a garter stitch fabric .
+
+alternating rows of all knit stitches and all purl stitches creates a stockinette pattern / stocking stitch .
+
+vertical stripes ( ribbing ) are possible by having alternating wales of knit and purl stitches .
+
+for example , a common choice is 2x2 ribbing , in which two wales of knit stitches are followed by two wales of purl stitches , etc .
+
+horizontal striping ( welting ) is also possible , by alternating rows of knit and purl stitches .
+
+checkerboard patterns ( basketweave ) are also possible , the smallest of which is known as seed / moss stitch : the stitches alternate between knit and purl in every wale and along every row .
+
+fabrics in which each knitted row is followed by a purled row , such as in stockinette / stocking stitch , have a tendency to curl — top and bottom curl toward the front ( or knitted side ) while the sides curl toward the back ( or purled side ); by contrast , those in which knit and purl stitches are arranged symmetrically ( such as ribbing , garter stitch or seed / moss stitch ) have more texture and tend to lie flat .
+
+wales of purl stitches have a tendency to recede , whereas those of knit stitches tend to come forward , giving the fabric more stretchability .
+
+conversely , rows of purl stitches tend to form an embossed ridge relative to a row of knit stitches .
+
+[ 7 ] typically , a new stitch is passed through a single unsecured (' active ') loop , thus lengthening that wale by one stitch .
+
+however , this need not be so ; the new loop may be passed through an already secured stitch lower down on the fabric , or even between secured stitches ( a dip stitch ).
+
+depending on the distance between where the loop is drawn through the fabric and where it is knitted , dip stitches can produce a subtle stippling or long lines across the surface of the fabric , e .
+
+the new loop may also be passed between two stitches in the ' present ' row , thus clustering the intervening stitches ; this approach is often used to produce a smocking effect in the fabric .
+
+the new loop may also be passed through ' two or more ' previous stitches , producing a decrease and merging wales together .
+
+the merged stitches need not be from the same row ; for example , a tuck can be formed by knitting stitches together from two different rows , producing a raised horizontal welt on the fabric .
+
+not every stitch in a row need be knitted ; some may be ' missed ' ( unknitted and passed to the active needle ) and knitted on a subsequent row .
+
+this is known as slip - stitch knitting .
+
+[ 8 ] the slipped stitches are naturally longer than the knitted ones .
+
+for example , a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts .
+
+this can produce interesting visual effects , although the resulting fabric is more rigid because the slipped stitch ' pulls ' on its neighbours and is less deformable .
+
+mosaic knitting is a form of slip - stitch knitting that knits alternate colored rows and uses slip stitches to form patterns ; mosaic - knit fabrics tend to be stiffer than patterned fabrics produced by other methods such as fair - isle knitting .
+
+[ 9 ] in some cases , a stitch may be deliberately left unsecured by a new stitch and its wale allowed to disassemble .
+
+this is known as drop - stitch knitting , and produces a vertical ladder of see - through holes in the fabric , corresponding to where the wale had been .
+
+both have the same methods of stitching yarn together , but their methods are fairly different .
+
+[ clarification needed ] when knitting , the stitches form a shape that is similar to a " v ", while in crochet the stitches are knotted together .
+
+right - and left - plaited stitches [ edit ] see also : plaited stitch ( knitting ) the stitches on the right are right - plaited , whereas the stitches on the left are left - plaited .
+
+within limits , an arbitrary number of twists may be added to new stitches , whether they be knit or purl .
+
+here , a single twist is illustrated , with left - plaited and right - plaited stitches on the left and right , respectively .
+
+both knit and purl stitches may be twisted : usually once if at all , but sometimes twice and ( very rarely ) thrice .
+
+when seen from above , the twist can be clockwise ( right yarn over left ) or counterclockwise ( left yarn over right ); these are denoted as right - and left - plaited stitches , respectively .
+
+hand - knitters generally produce right - plaited stitches by knitting or purling through the back loops , i .
+
+e ., passing the needle through the initial stitch in an unusual way , but wrapping the yarn as usual .
+
+by contrast , the left - plaited stitch is generally formed by hand - knitters by wrapping the yarn in the opposite way , rather than by any change in the needle .
+
+although they are mirror images in form , right - and left - plaited stitches are functionally equivalent .
+
+both types of plaited stitches give a subtle but interesting visual texture , and tend to draw the fabric inwards , making it stiffer .
+
+plaited stitches are a common method for knitting jewelry from fine metal wire .
+
+the side edges are known as the selvages ; the word derives from " self - edges ", meaning that the stitches do not need to be secured by anything else .
+
+two knitted fabrics can be joined by embroidery - based grafting methods , most commonly the kitchener stitch .
+
+new wales can be begun from any of the edges of a knitted fabric ; this is known as picking up stitches and is the basis for entrelac , in which the wales run perpendicular to one another in a checkerboard pattern .
+
+the central braid is formed from 2x2 ribbing in which the background is formed of purl stitches and the cables are each two wales of knit stitches .
+
+by changing the order in which the stitches are knit , the wales can be made to cross .
+
+cables , increases , and lace [ edit ] see also : list of knitting stitches ordinarily , stitches are knitted in the same order in every row , and the wales of the fabric run parallel and vertically along the fabric .
+
+however , this need not be so , since the order in which stitches are knitted may be permuted so that wales cross over one another , forming a cable pattern .
+
+this is used to great effect in lace knitting , which consists of making patterns and pictures using such holes , rather than with the stitches themselves .
+
+properties of fabrics [ edit ] main article : knitted fabric schematic of stockinette stitch , the most basic weft - knit fabric the topology of a knitted fabric is relatively complex .
+
+close - up of front of stockinette stitch close - up of back of stockinette stitch , also same appearance as reverse stockinette stitch the basic knitted fabric ( as in the diagram , and usually called a stocking or stockinette pattern ) has a definite " right side " and " wrong side ".
+
+because the yarn holding rows together is all on the front , and the yarn holding side - by - side stitches together is all on the back , stockinette fabric has a strong tendency to curl toward the front on the top and bottom , and toward the back on the left and right side .
+
+stitches can be worked from either side , and various patterns are created by mixing regular knit stitches with the " wrong side " stitches , known as purl stitches , either in columns ( ribbing ), rows ( garter , welting ), or more complex patterns .
+
+each fabric has different properties : a garter stitch has much more vertical stretch , while ribbing stretches much more horizontally .
+
+different combinations of knit and purl stitches , along with more advanced techniques , generate fabrics of considerably variable consistency , from gauzy to very dense , from highly stretchy to relatively stiff , from flat to tightly curled , and so on .
+
+close - up of knitting texture [ edit ] the most common texture for a knitted garment is that generated by the flat stockinette stitch — as seen , though very small , in machine - made stockings and t - shirts — which is worked in the round as nothing but knit stitches , and worked flat as alternating rows of knit and purl .
+
+other simple textures can be made with nothing but knit and purl stitches , including garter stitch , ribbing , and moss and seed stitches .
+
+adding a " slip stitch " ( where a loop is passed from one needle to the other ) allows for a wide range of textures , including heel and linen stitches as well as a number of more complicated patterns .
+
+open vertical stripes can be created using the drop - stitch knitting technique .
+
+changing the order of stitches from one row to the next , usually with the help of a cable needle or stitch holder , is key to cable knitting , producing an endless variety of cables , honeycombs , ropes , and aran sweater patterning .
+
+the thicker the yarn , the more visible and apparent stitches will be ; the thinner the yarn , the finer the texture .
+
+some yarns are dyed to be either variegated ( changing color every few stitches in a random fashion ) or self - striping ( changing every few rows ).
+
+more complicated techniques permit large fields of color ( intarsia , for example ), busy small - scale patterns of color ( such as fair isle ), or both ( double knitting and slip - stitch color , for example ).
+
+hand knitting process [ edit ] a woman in the process of hand knitting ( 1904 ) there are many hundreds of different knitting stitches used by hand knitters .
+
+a piece of hand knitting begins with the process of casting on , which involves the initial creation of the stitches on the needle .
+
+there are various methods employed to cast on , such as the " thumb method " ( also known as " slingshot " or " long - tail " cast - ons ), where the stitches are created by a series of loops that will , when knitted , give a very loose edge ideal for " picking up stitches " and knitting a border ; the " double needle method " ( also known as " knit - on " or " cable cast - on "), whereby each loop placed on the needle is then " knitted on ", which produces a firmer edge ideal on its own as a border ; and many more .
+
+the number of active stitches remains the same as when cast on unless stitches are added ( an increase ) or removed ( a decrease ).
+
+there are also different ways to insert the needle into the stitch .
+
+knitting through the front of a stitch is called western knitting .
+
+going through the back of a stitch is called eastern knitting .
+
+a third method , called combination knitting , goes through the front of a knit stitch and the back of a purl stitch .
+
+[ 18 ] once the hand knitted piece is finished , the remaining live stitches are " cast off ".
+
+casting ( or " binding ") off loops the stitches across each other so they can be removed from the needle without unravelling the item .
+
+hats in particular can be started " top down " on double pointed needles with the increases added until the preferred size is achieved , switching to an appropriate circular needle when enough stitches have been added .
+
+e ., how many stitches and rows are required to cover a given area for a given stitch pattern .
+
+hence , thicker yarns generally require fewer stitches , and therefore less time , to knit up a given garment .
+
+more resilient yarns are more forgiving of irregularities in tension ; highly twisted yarns are sometimes difficult to knit , whereas untwisting yarns can lead to split stitches , in which not all the yarn is knitted into a stitch .
+
+a key factor in knitting is stitch definition , corresponding to how well complicated stitch patterns can be seen when made from a given yarn .
+
+smooth , highly spun yarns are best for showing off stitch patterns ; at the other extreme , very fuzzy yarns or eyelash yarns have poor stitch definition , and any complicated stitch pattern would be invisible .
+
+[ 22 ] tools [ edit ] the process of knitting has three basic tasks : the active ( unsecured ) stitches must be held so they don ' t drop these stitches must be released sometime after they are secured new bights of yarn must be passed through the fabric , usually through active stitches , thus securing them .
+
+there is also a technique called knooking [ 23 ] of knitting with a crochet hook that has a cord attached to the end , to hold the stitches while they ' re being worked .
+
+the first and most common type consists of two slender , straight sticks tapered to a point at one end , and with a knob at the other end to prevent stitches from slipping off .
+
+the diameter affects the size of stitches , which affects the gauge / tension of the knitting and the elasticity of the fabric .
+
+different materials have different frictions and grip the yarn differently ; slick needles such as metallic needles are useful for swift knitting , whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches .
+
+the knitting of new stitches occurs only at the tapered ends .
+
+dpns are typically used for circular knitting , especially smaller tube - shaped pieces such as sleeves , collars , and socks ; usually one needle is active while the others hold the remaining active stitches .
+
+circular knitting needles in different lengths , materials and sizes , including plastic , aluminum , steel and nickel - plated brassthe ability to work from either end of one needle is convenient in several types of knitting , such as slip - stitch versions of double knitting .
+
+cable needles are typically very short ( a few inches ), and are used to hold stitches temporarily while others are being knitted .
+
+at specific points indicated by the knitting pattern , the cable needle is moved , the stitches on it are worked by the other needles , then the cable needle is turned around to a different position to create the cable twist .
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6 .
+
+starting from the bottom right are two crochet hooks , two stitch holders ( like big blunt safety pins ), and two cable needles in pink and green .
+
+on the left are a pair of scissors , a yarn needle , green and blue stitch markers , and two orange point protectors .
+
+the darning needle is used in duplicate stitch ( also known as swiss darning ).
+
+the crochet hook is also essential for repairing dropped stitches and some specialty stitches such as tufting .
+
+for large or complex knitting patterns , it is sometimes difficult to keep track of which stitch should be knit in a particular way ; therefore , several tools have been developed to identify the number of a particular row or stitch , including circular stitch markers , hanging markers , extra yarn and row counters .
+
+norwegian style [ edit ] main article : norwegian knitting while knit stitches are worked as in the classic continental style , the purl is worked by leaving the yarn at back and moving the needle .
+
+in russian knitting , it is common to slip the first stitch of every row .
+
+you will tack your non - working yarn down approximately every 3 stitches .
+
+mega knitting uses the same stitches and techniques as conventional knitting , except that hooks are carved into the ends of the needles .
+
+the hooked needles greatly enhance control of the work , catching the stitches and preventing them from slipping off .
+
+the hook catches the loop of yarn as each stitch is knitted , meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle .
+
+turn the left ( non - working ) hook to face away at all times ; turn the right ( working ) hook toward you up whilst knitting ( plain stitch ) and away whilst purling .
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch , making her own needles from fine surgical steel wire .
+
+wrap and turn [ edit ] just before the work is turned , the working yarn is passed around the next unknitted stitch , forming a “ wrap .” later , this “ wrap ” is picked up and knitted into a stitch , concealing it from view .
+
+german short row [ edit ] in german short rows , the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle .
+
+finally , the working yarn is pulled over the top of the needle to the back , which rotates the stitch on the needle so that it tips backwards , forming what appears to be a double - stitch , sometimes referred to as a “ german double stitch ”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted , or rotated below the right needle and pulled to the front , if it is to be purled , both of which maintain the proper (“ tipped back ”) orientation of the german double stitch .
+
+eventually , this german double stitch is worked like a single stitch , which masks its appearance as viewed from the right side to look like a regular stitch .
+
+japanese short row [ edit ] in japanese short rows , a locking stitch marker is used to hold the loop of the working yarn at the turning point .
+
+eventually , the loop is picked up ( and stitch marker removed ) and worked together with the stitch on the other side of the gap .
+
+it refers to knitting where two strands of yarn are knitted into the fabric alternatively and twisted once and always in the same direction before every stitch .
+
+[ 50 ] a repository of research into the effect on health of hand knitting can be found at stitch links ,[ 51 ] an organization founded in bath , england .
+
+slip - stitch knitting : color pattern the easy way .
+
+how to do the knit stitch ".
+
+stitch ' n bitch : the knitter ' s handbook .
+
+seventy stitches to the inch : althea crome ' s tiny knits ".
+
+^ " stitchlinks .
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette / stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding / casting off bobble brioche knitting buttonhole cables casting on double knitting drop - stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip - stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee ( inventor ) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl - mcphee alice starmore debbie stoller meg swansen barbara g .
+
+walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch ' n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from " https :// en .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1structure toggle structure subsection 1.1courses and wales 1.2weft and warp knitting[3] 1.3knit and purl stitches 1.4differences between knitting and crocheting 1.5right- and left-plaited stitches 1.6edges and joins between fabrics 1.7cables, increases, and lace 1.8ornamentations and additions 2history and culture 3properties of fabrics toggle properties of fabrics subsection 3.1texture 3.2color 4hand knitting process 5materials toggle materials subsection 5.1yarn 5.2metal wire 5.3glass and wax 6tools toggle tools subsection 6.1needles 6.1.1largest circular knitting needles 6.1.2record 6.2ancillary tools 7knitting styles/holds toggle knitting styles/holds subsection 7.1continental/german style 7.1.1norwegian style 7.1.2russian style 7.2english style 7.3portuguese/greek/incan/turkish style 8knitting techniques toggle knitting techniques subsection 8.1armenian 8.2double knitting 8.3fair isle 8.4mega knitting 8.5micro knitting 8.6short row 8.6.1wrap and turn 8.6.2german short row 8.6.3japanese short row 8.7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةবাংলাбашҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ್ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia method of forming fabric from yarn "knit" redirects here.
+
+unsourced material may be challenged and removed.find sources: "knitting" – news · newspapers · books · scholar · jstor (december 2021) (learn how and when to remove this template message) woman knitting video description of knitting a sock and the two basic stitches: knit and purl knitting is a method for production of textile fabrics by interlacing yarn loops with loops of the same or other yarns.
+
+knitting creates stitches: loops of yarn in a row, either flat or in the round (tubular).
+
+there are usually many active stitches on the knitting needle at one time.
+
+differences in yarn (varying in fibre type, weight, uniformity and twist), needle size, and stitch type allow for a variety of knitted fabrics with different properties, including color, texture, thickness, heat retention, water resistance, and integrity.
+
+structure[edit] courses and wales[edit] structure of stockinette stitch, a common weave in knitted fabric.
+
+alternating wales of red and yellow knit stitches.
+
+each stitch in a wale is suspended from the one above it.
+
+can be obtained with short rows or by increasing or decreasing the number of stitches.
+
+[1] to secure a stitch, at least one new loop is passed through it.
+
+although the new stitch is itself unsecured ("active" or "live"), it secures the stitch(es) suspended from it.
+
+a sequence of stitches in which each stitch is suspended from the next is called a wale.
+
+[2] to secure the initial stitches of a knitted fabric, a method for casting on is used; to secure the final stitches in a wale, one uses a method of binding/casting off.
+
+during knitting, the active stitches are secured mechanically, either from individual hooks (in knitting machines) or from a knitting needle or frame in hand-knitting.
+
+in weft knitting, the entire fabric may be produced from a single yarn, by adding stitches to each wale in turn, moving across the fabric as in a raster scan.
+
+in the knit stitch on the left, the next (red) loop passes through the previous (yellow) loop from below, whereas in the purl stitch (right), the next stitch enters from above.
+
+thus, a knit stitch on one side of the fabric appears as a purl stitch on the other, and vice versa.
+
+knit and purl stitches[edit] see also: list of knitting stitches two courses of red yarn illustrating two basic fabric types.
+
+the lower red course is knit into the white row below it and is itself knit on the next row; this produces 'stockinette' stitch.
+
+the upper red course is purled into the row below and then is knit, consistent with 'garter' stitch.
+
+a dropped stitch, or missed stitch, is a common error that creates an extra loop to be fixed.
+
+in securing the previous stitch in a wale, the next stitch can pass through the previous loop from either below or above.
+
+if the former, the stitch is denoted as a 'knit stitch' or a 'plain stitch;' if the latter, as a 'purl stitch'.
+
+the two stitches are related in that a knit stitch seen from one side of the fabric appears as a purl stitch on the other side.
+
+the two types of stitches have a different visual effect; the knit stitches look like 'v's stacked vertically, whereas the purl stitches look like a wavy horizontal line across the fabric.
+
+patterns and pictures can be created in knitted fabrics by using knit and purl stitches as "pixels"; however, such pixels are usually rectangular, rather than square, depending on the gauge/tension of the knitting.
+
+individual stitches, or rows of stitches, may be made taller by drawing more yarn into the new loop (an elongated stitch), which is the basis for uneven knitting: a row of tall stitches may alternate with one or more rows of short stitches for an interesting visual effect.
+
+short and tall stitches may also alternate within a row, forming a fish-like oval pattern.
+
+in the simplest of hand-knitted fabrics, every row of stitches are all knit (or all purl); this creates a garter stitch fabric.
+
+alternating rows of all knit stitches and all purl stitches creates a stockinette pattern/stocking stitch.
+
+vertical stripes (ribbing) are possible by having alternating wales of knit and purl stitches.
+
+for example, a common choice is 2x2 ribbing, in which two wales of knit stitches are followed by two wales of purl stitches, etc.
+
+horizontal striping (welting) is also possible, by alternating rows of knit and purl stitches.
+
+checkerboard patterns (basketweave) are also possible, the smallest of which is known as seed/moss stitch: the stitches alternate between knit and purl in every wale and along every row.
+
+fabrics in which each knitted row is followed by a purled row, such as in stockinette/stocking stitch, have a tendency to curl—top and bottom curl toward the front (or knitted side) while the sides curl toward the back (or purled side); by contrast, those in which knit and purl stitches are arranged symmetrically (such as ribbing, garter stitch or seed/moss stitch) have more texture and tend to lie flat.
+
+wales of purl stitches have a tendency to recede, whereas those of knit stitches tend to come forward, giving the fabric more stretchability.
+
+conversely, rows of purl stitches tend to form an embossed ridge relative to a row of knit stitches.
+
+[7] typically, a new stitch is passed through a single unsecured ('active') loop, thus lengthening that wale by one stitch.
+
+however, this need not be so; the new loop may be passed through an already secured stitch lower down on the fabric, or even between secured stitches (a dip stitch).
+
+depending on the distance between where the loop is drawn through the fabric and where it is knitted, dip stitches can produce a subtle stippling or long lines across the surface of the fabric, e.g., the lower leaves of a flower.
+
+the new loop may also be passed between two stitches in the 'present' row, thus clustering the intervening stitches; this approach is often used to produce a smocking effect in the fabric.
+
+the new loop may also be passed through 'two or more' previous stitches, producing a decrease and merging wales together.
+
+the merged stitches need not be from the same row; for example, a tuck can be formed by knitting stitches together from two different rows, producing a raised horizontal welt on the fabric.
+
+not every stitch in a row need be knitted; some may be 'missed' (unknitted and passed to the active needle) and knitted on a subsequent row.
+
+this is known as slip-stitch knitting.
+
+[8] the slipped stitches are naturally longer than the knitted ones.
+
+for example, a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts.
+
+this can produce interesting visual effects, although the resulting fabric is more rigid because the slipped stitch 'pulls' on its neighbours and is less deformable.
+
+mosaic knitting is a form of slip-stitch knitting that knits alternate colored rows and uses slip stitches to form patterns; mosaic-knit fabrics tend to be stiffer than patterned fabrics produced by other methods such as fair-isle knitting.
+
+[9] in some cases, a stitch may be deliberately left unsecured by a new stitch and its wale allowed to disassemble.
+
+this is known as drop-stitch knitting, and produces a vertical ladder of see-through holes in the fabric, corresponding to where the wale had been.
+
+both have the same methods of stitching yarn together, but their methods are fairly different.
+
+[clarification needed] when knitting, the stitches form a shape that is similar to a "v", while in crochet the stitches are knotted together.
+
+right- and left-plaited stitches[edit] see also: plaited stitch (knitting) the stitches on the right are right-plaited, whereas the stitches on the left are left-plaited.
+
+within limits, an arbitrary number of twists may be added to new stitches, whether they be knit or purl.
+
+here, a single twist is illustrated, with left-plaited and right-plaited stitches on the left and right, respectively.
+
+both knit and purl stitches may be twisted: usually once if at all, but sometimes twice and (very rarely) thrice.
+
+when seen from above, the twist can be clockwise (right yarn over left) or counterclockwise (left yarn over right); these are denoted as right- and left-plaited stitches, respectively.
+
+hand-knitters generally produce right-plaited stitches by knitting or purling through the back loops, i.e., passing the needle through the initial stitch in an unusual way, but wrapping the yarn as usual.
+
+by contrast, the left-plaited stitch is generally formed by hand-knitters by wrapping the yarn in the opposite way, rather than by any change in the needle.
+
+although they are mirror images in form, right- and left-plaited stitches are functionally equivalent.
+
+both types of plaited stitches give a subtle but interesting visual texture, and tend to draw the fabric inwards, making it stiffer.
+
+plaited stitches are a common method for knitting jewelry from fine metal wire.
+
+the side edges are known as the selvages; the word derives from "self-edges", meaning that the stitches do not need to be secured by anything else.
+
+two knitted fabrics can be joined by embroidery-based grafting methods, most commonly the kitchener stitch.
+
+new wales can be begun from any of the edges of a knitted fabric; this is known as picking up stitches and is the basis for entrelac, in which the wales run perpendicular to one another in a checkerboard pattern.
+
+the central braid is formed from 2x2 ribbing in which the background is formed of purl stitches and the cables are each two wales of knit stitches.
+
+by changing the order in which the stitches are knit, the wales can be made to cross.
+
+cables, increases, and lace[edit] see also: list of knitting stitches ordinarily, stitches are knitted in the same order in every row, and the wales of the fabric run parallel and vertically along the fabric.
+
+however, this need not be so, since the order in which stitches are knitted may be permuted so that wales cross over one another, forming a cable pattern.
+
+this is used to great effect in lace knitting, which consists of making patterns and pictures using such holes, rather than with the stitches themselves.
+
+properties of fabrics[edit] main article: knitted fabric schematic of stockinette stitch, the most basic weft-knit fabric the topology of a knitted fabric is relatively complex.
+
+close-up of front of stockinette stitch close-up of back of stockinette stitch, also same appearance as reverse stockinette stitch the basic knitted fabric (as in the diagram, and usually called a stocking or stockinette pattern) has a definite "right side" and "wrong side".
+
+because the yarn holding rows together is all on the front, and the yarn holding side-by-side stitches together is all on the back, stockinette fabric has a strong tendency to curl toward the front on the top and bottom, and toward the back on the left and right side.
+
+stitches can be worked from either side, and various patterns are created by mixing regular knit stitches with the "wrong side" stitches, known as purl stitches, either in columns (ribbing), rows (garter, welting), or more complex patterns.
+
+each fabric has different properties: a garter stitch has much more vertical stretch, while ribbing stretches much more horizontally.
+
+different combinations of knit and purl stitches, along with more advanced techniques, generate fabrics of considerably variable consistency, from gauzy to very dense, from highly stretchy to relatively stiff, from flat to tightly curled, and so on.
+
+close-up of knitting texture[edit] the most common texture for a knitted garment is that generated by the flat stockinette stitch—as seen, though very small, in machine-made stockings and t-shirts—which is worked in the round as nothing but knit stitches, and worked flat as alternating rows of knit and purl.
+
+other simple textures can be made with nothing but knit and purl stitches, including garter stitch, ribbing, and moss and seed stitches.
+
+adding a "slip stitch" (where a loop is passed from one needle to the other) allows for a wide range of textures, including heel and linen stitches as well as a number of more complicated patterns.
+
+open vertical stripes can be created using the drop-stitch knitting technique.
+
+changing the order of stitches from one row to the next, usually with the help of a cable needle or stitch holder, is key to cable knitting, producing an endless variety of cables, honeycombs, ropes, and aran sweater patterning.
+
+the thicker the yarn, the more visible and apparent stitches will be; the thinner the yarn, the finer the texture.
+
+some yarns are dyed to be either variegated (changing color every few stitches in a random fashion) or self-striping (changing every few rows).
+
+more complicated techniques permit large fields of color (intarsia, for example), busy small-scale patterns of color (such as fair isle), or both (double knitting and slip-stitch color, for example).
+
+hand knitting process[edit] a woman in the process of hand knitting (1904) there are many hundreds of different knitting stitches used by hand knitters.
+
+a piece of hand knitting begins with the process of casting on, which involves the initial creation of the stitches on the needle.
+
+there are various methods employed to cast on, such as the "thumb method" (also known as "slingshot" or "long-tail" cast-ons), where the stitches are created by a series of loops that will, when knitted, give a very loose edge ideal for "picking up stitches" and knitting a border; the "double needle method" (also known as "knit-on" or "cable cast-on"), whereby each loop placed on the needle is then "knitted on", which produces a firmer edge ideal on its own as a border; and many more.
+
+the number of active stitches remains the same as when cast on unless stitches are added (an increase) or removed (a decrease).
+
+there are also different ways to insert the needle into the stitch.
+
+knitting through the front of a stitch is called western knitting.
+
+going through the back of a stitch is called eastern knitting.
+
+a third method, called combination knitting, goes through the front of a knit stitch and the back of a purl stitch.
+
+[18] once the hand knitted piece is finished, the remaining live stitches are "cast off".
+
+casting (or "binding") off loops the stitches across each other so they can be removed from the needle without unravelling the item.
+
+hats in particular can be started "top down" on double pointed needles with the increases added until the preferred size is achieved, switching to an appropriate circular needle when enough stitches have been added.
+
+the thickness or weight of the yarn is a significant factor in determining the gauge/tension, i.e., how many stitches and rows are required to cover a given area for a given stitch pattern.
+
+hence, thicker yarns generally require fewer stitches, and therefore less time, to knit up a given garment.
+
+more resilient yarns are more forgiving of irregularities in tension; highly twisted yarns are sometimes difficult to knit, whereas untwisting yarns can lead to split stitches, in which not all the yarn is knitted into a stitch.
+
+a key factor in knitting is stitch definition, corresponding to how well complicated stitch patterns can be seen when made from a given yarn.
+
+smooth, highly spun yarns are best for showing off stitch patterns; at the other extreme, very fuzzy yarns or eyelash yarns have poor stitch definition, and any complicated stitch pattern would be invisible.
+
+[22] tools[edit] the process of knitting has three basic tasks: the active (unsecured) stitches must be held so they don't drop these stitches must be released sometime after they are secured new bights of yarn must be passed through the fabric, usually through active stitches, thus securing them.
+
+there is also a technique called knooking[23] of knitting with a crochet hook that has a cord attached to the end, to hold the stitches while they're being worked.
+
+the first and most common type consists of two slender, straight sticks tapered to a point at one end, and with a knob at the other end to prevent stitches from slipping off.
+
+the diameter affects the size of stitches, which affects the gauge/tension of the knitting and the elasticity of the fabric.
+
+different materials have different frictions and grip the yarn differently; slick needles such as metallic needles are useful for swift knitting, whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches.
+
+the knitting of new stitches occurs only at the tapered ends.
+
+dpns are typically used for circular knitting, especially smaller tube-shaped pieces such as sleeves, collars, and socks; usually one needle is active while the others hold the remaining active stitches.
+
+circular knitting needles in different lengths, materials and sizes, including plastic, aluminum, steel and nickel-plated brassthe ability to work from either end of one needle is convenient in several types of knitting, such as slip-stitch versions of double knitting.
+
+cable needles are typically very short (a few inches), and are used to hold stitches temporarily while others are being knitted.
+
+at specific points indicated by the knitting pattern, the cable needle is moved, the stitches on it are worked by the other needles, then the cable needle is turned around to a different position to create the cable twist.
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6.5 centimeters (2½") in diameter and 3.5 meters (11'6") long.
+
+starting from the bottom right are two crochet hooks, two stitch holders (like big blunt safety pins), and two cable needles in pink and green.
+
+on the left are a pair of scissors, a yarn needle, green and blue stitch markers, and two orange point protectors.
+
+the darning needle is used in duplicate stitch (also known as swiss darning).
+
+the crochet hook is also essential for repairing dropped stitches and some specialty stitches such as tufting.
+
+for large or complex knitting patterns, it is sometimes difficult to keep track of which stitch should be knit in a particular way; therefore, several tools have been developed to identify the number of a particular row or stitch, including circular stitch markers, hanging markers, extra yarn and row counters.
+
+norwegian style[edit] main article: norwegian knitting while knit stitches are worked as in the classic continental style, the purl is worked by leaving the yarn at back and moving the needle.
+
+in russian knitting, it is common to slip the first stitch of every row.
+
+you will tack your non-working yarn down approximately every 3 stitches.
+
+mega knitting uses the same stitches and techniques as conventional knitting, except that hooks are carved into the ends of the needles.
+
+the hooked needles greatly enhance control of the work, catching the stitches and preventing them from slipping off.
+
+the hook catches the loop of yarn as each stitch is knitted, meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle.
+
+turn the left (non-working) hook to face away at all times; turn the right (working) hook toward you up whilst knitting (plain stitch) and away whilst purling.
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch, making her own needles from fine surgical steel wire.
+
+wrap and turn[edit] just before the work is turned, the working yarn is passed around the next unknitted stitch, forming a “wrap.” later, this “wrap” is picked up and knitted into a stitch, concealing it from view.
+
+german short row[edit] in german short rows, the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle.
+
+finally, the working yarn is pulled over the top of the needle to the back, which rotates the stitch on the needle so that it tips backwards, forming what appears to be a double-stitch, sometimes referred to as a “german double stitch”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted, or rotated below the right needle and pulled to the front, if it is to be purled, both of which maintain the proper (“tipped back”) orientation of the german double stitch.
+
+eventually, this german double stitch is worked like a single stitch, which masks its appearance as viewed from the right side to look like a regular stitch.
+
+japanese short row[edit] in japanese short rows, a locking stitch marker is used to hold the loop of the working yarn at the turning point.
+
+eventually, the loop is picked up (and stitch marker removed) and worked together with the stitch on the other side of the gap.
+
+it refers to knitting where two strands of yarn are knitted into the fabric alternatively and twisted once and always in the same direction before every stitch.
+
+[50] a repository of research into the effect on health of hand knitting can be found at stitch links,[51] an organization founded in bath, england.
+
+slip-stitch knitting: color pattern the easy way.
+
+"how to do the knit stitch".
+
+stitch 'n bitch: the knitter's handbook.
+
+"seventy stitches to the inch: althea crome's tiny knits".
+
+^ "stitchlinks.com".
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette/stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding/casting off bobble brioche knitting buttonhole cables casting on double knitting drop-stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip-stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee (inventor) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl-mcphee alice starmore debbie stoller meg swansen barbara g. walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch 'n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from "https://en.wikipedia.org/w/index.php?title=knitting&oldid=1149831060" categories: knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories: webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+3knit and purl stitches 1 .
+
+5right - and left - plaited stitches 1 .
+
+find sources : " knitting " – news · newspapers · books · scholar · jstor ( december 2021 ) ( learn how and when to remove this template message ) woman knitting video description of knitting a sock and the two basic stitches : knit and purl knitting is a method for production of textile fabrics by interlacing yarn loops with loops of the same or other yarns .
+
+knitting creates stitches : loops of yarn in a row , either flat or in the round ( tubular ).
+
+there are usually many active stitches on the knitting needle at one time .
+
+differences in yarn ( varying in fibre type , weight , uniformity and twist ), needle size , and stitch type allow for a variety of knitted fabrics with different properties , including color , texture , thickness , heat retention , water resistance , and integrity .
+
+structure [ edit ] courses and wales [ edit ] structure of stockinette stitch , a common weave in knitted fabric .
+
+alternating wales of red and yellow knit stitches .
+
+each stitch in a wale is suspended from the one above it .
+
+can be obtained with short rows or by increasing or decreasing the number of stitches .
+
+[ 1 ] to secure a stitch , at least one new loop is passed through it .
+
+although the new stitch is itself unsecured (" active " or " live "), it secures the stitch ( es ) suspended from it .
+
+a sequence of stitches in which each stitch is suspended from the next is called a wale .
+
+[ 2 ] to secure the initial stitches of a knitted fabric , a method for casting on is used ; to secure the final stitches in a wale , one uses a method of binding / casting off .
+
+during knitting , the active stitches are secured mechanically , either from individual hooks ( in knitting machines ) or from a knitting needle or frame in hand - knitting .
+
+in weft knitting , the entire fabric may be produced from a single yarn , by adding stitches to each wale in turn , moving across the fabric as in a raster scan .
+
+in the knit stitch on the left , the next ( red ) loop passes through the previous ( yellow ) loop from below , whereas in the purl stitch ( right ), the next stitch enters from above .
+
+thus , a knit stitch on one side of the fabric appears as a purl stitch on the other , and vice versa .
+
+knit and purl stitches [ edit ] see also : list of knitting stitches two courses of red yarn illustrating two basic fabric types .
+
+the lower red course is knit into the white row below it and is itself knit on the next row ; this produces ' stockinette ' stitch .
+
+the upper red course is purled into the row below and then is knit , consistent with ' garter ' stitch .
+
+a dropped stitch , or missed stitch , is a common error that creates an extra loop to be fixed .
+
+in securing the previous stitch in a wale , the next stitch can pass through the previous loop from either below or above .
+
+if the former , the stitch is denoted as a ' knit stitch ' or a ' plain stitch ;' if the latter , as a ' purl stitch '.
+
+the two stitches are related in that a knit stitch seen from one side of the fabric appears as a purl stitch on the other side .
+
+the two types of stitches have a different visual effect ; the knit stitches look like ' v ' s stacked vertically , whereas the purl stitches look like a wavy horizontal line across the fabric .
+
+patterns and pictures can be created in knitted fabrics by using knit and purl stitches as " pixels "; however , such pixels are usually rectangular , rather than square , depending on the gauge / tension of the knitting .
+
+individual stitches , or rows of stitches , may be made taller by drawing more yarn into the new loop ( an elongated stitch ), which is the basis for uneven knitting : a row of tall stitches may alternate with one or more rows of short stitches for an interesting visual effect .
+
+short and tall stitches may also alternate within a row , forming a fish - like oval pattern .
+
+in the simplest of hand - knitted fabrics , every row of stitches are all knit ( or all purl ); this creates a garter stitch fabric .
+
+alternating rows of all knit stitches and all purl stitches creates a stockinette pattern / stocking stitch .
+
+vertical stripes ( ribbing ) are possible by having alternating wales of knit and purl stitches .
+
+for example , a common choice is 2x2 ribbing , in which two wales of knit stitches are followed by two wales of purl stitches , etc .
+
+horizontal striping ( welting ) is also possible , by alternating rows of knit and purl stitches .
+
+checkerboard patterns ( basketweave ) are also possible , the smallest of which is known as seed / moss stitch : the stitches alternate between knit and purl in every wale and along every row .
+
+fabrics in which each knitted row is followed by a purled row , such as in stockinette / stocking stitch , have a tendency to curl — top and bottom curl toward the front ( or knitted side ) while the sides curl toward the back ( or purled side ); by contrast , those in which knit and purl stitches are arranged symmetrically ( such as ribbing , garter stitch or seed / moss stitch ) have more texture and tend to lie flat .
+
+wales of purl stitches have a tendency to recede , whereas those of knit stitches tend to come forward , giving the fabric more stretchability .
+
+conversely , rows of purl stitches tend to form an embossed ridge relative to a row of knit stitches .
+
+[ 7 ] typically , a new stitch is passed through a single unsecured (' active ') loop , thus lengthening that wale by one stitch .
+
+however , this need not be so ; the new loop may be passed through an already secured stitch lower down on the fabric , or even between secured stitches ( a dip stitch ).
+
+depending on the distance between where the loop is drawn through the fabric and where it is knitted , dip stitches can produce a subtle stippling or long lines across the surface of the fabric , e .
+
+the new loop may also be passed between two stitches in the ' present ' row , thus clustering the intervening stitches ; this approach is often used to produce a smocking effect in the fabric .
+
+the new loop may also be passed through ' two or more ' previous stitches , producing a decrease and merging wales together .
+
+the merged stitches need not be from the same row ; for example , a tuck can be formed by knitting stitches together from two different rows , producing a raised horizontal welt on the fabric .
+
+not every stitch in a row need be knitted ; some may be ' missed ' ( unknitted and passed to the active needle ) and knitted on a subsequent row .
+
+this is known as slip - stitch knitting .
+
+[ 8 ] the slipped stitches are naturally longer than the knitted ones .
+
+for example , a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts .
+
+this can produce interesting visual effects , although the resulting fabric is more rigid because the slipped stitch ' pulls ' on its neighbours and is less deformable .
+
+mosaic knitting is a form of slip - stitch knitting that knits alternate colored rows and uses slip stitches to form patterns ; mosaic - knit fabrics tend to be stiffer than patterned fabrics produced by other methods such as fair - isle knitting .
+
+[ 9 ] in some cases , a stitch may be deliberately left unsecured by a new stitch and its wale allowed to disassemble .
+
+this is known as drop - stitch knitting , and produces a vertical ladder of see - through holes in the fabric , corresponding to where the wale had been .
+
+both have the same methods of stitching yarn together , but their methods are fairly different .
+
+[ clarification needed ] when knitting , the stitches form a shape that is similar to a " v ", while in crochet the stitches are knotted together .
+
+right - and left - plaited stitches [ edit ] see also : plaited stitch ( knitting ) the stitches on the right are right - plaited , whereas the stitches on the left are left - plaited .
+
+within limits , an arbitrary number of twists may be added to new stitches , whether they be knit or purl .
+
+here , a single twist is illustrated , with left - plaited and right - plaited stitches on the left and right , respectively .
+
+both knit and purl stitches may be twisted : usually once if at all , but sometimes twice and ( very rarely ) thrice .
+
+when seen from above , the twist can be clockwise ( right yarn over left ) or counterclockwise ( left yarn over right ); these are denoted as right - and left - plaited stitches , respectively .
+
+hand - knitters generally produce right - plaited stitches by knitting or purling through the back loops , i .
+
+e ., passing the needle through the initial stitch in an unusual way , but wrapping the yarn as usual .
+
+by contrast , the left - plaited stitch is generally formed by hand - knitters by wrapping the yarn in the opposite way , rather than by any change in the needle .
+
+although they are mirror images in form , right - and left - plaited stitches are functionally equivalent .
+
+both types of plaited stitches give a subtle but interesting visual texture , and tend to draw the fabric inwards , making it stiffer .
+
+plaited stitches are a common method for knitting jewelry from fine metal wire .
+
+the side edges are known as the selvages ; the word derives from " self - edges ", meaning that the stitches do not need to be secured by anything else .
+
+two knitted fabrics can be joined by embroidery - based grafting methods , most commonly the kitchener stitch .
+
+new wales can be begun from any of the edges of a knitted fabric ; this is known as picking up stitches and is the basis for entrelac , in which the wales run perpendicular to one another in a checkerboard pattern .
+
+the central braid is formed from 2x2 ribbing in which the background is formed of purl stitches and the cables are each two wales of knit stitches .
+
+by changing the order in which the stitches are knit , the wales can be made to cross .
+
+cables , increases , and lace [ edit ] see also : list of knitting stitches ordinarily , stitches are knitted in the same order in every row , and the wales of the fabric run parallel and vertically along the fabric .
+
+however , this need not be so , since the order in which stitches are knitted may be permuted so that wales cross over one another , forming a cable pattern .
+
+this is used to great effect in lace knitting , which consists of making patterns and pictures using such holes , rather than with the stitches themselves .
+
+properties of fabrics [ edit ] main article : knitted fabric schematic of stockinette stitch , the most basic weft - knit fabric the topology of a knitted fabric is relatively complex .
+
+close - up of front of stockinette stitch close - up of back of stockinette stitch , also same appearance as reverse stockinette stitch the basic knitted fabric ( as in the diagram , and usually called a stocking or stockinette pattern ) has a definite " right side " and " wrong side ".
+
+because the yarn holding rows together is all on the front , and the yarn holding side - by - side stitches together is all on the back , stockinette fabric has a strong tendency to curl toward the front on the top and bottom , and toward the back on the left and right side .
+
+stitches can be worked from either side , and various patterns are created by mixing regular knit stitches with the " wrong side " stitches , known as purl stitches , either in columns ( ribbing ), rows ( garter , welting ), or more complex patterns .
+
+each fabric has different properties : a garter stitch has much more vertical stretch , while ribbing stretches much more horizontally .
+
+different combinations of knit and purl stitches , along with more advanced techniques , generate fabrics of considerably variable consistency , from gauzy to very dense , from highly stretchy to relatively stiff , from flat to tightly curled , and so on .
+
+close - up of knitting texture [ edit ] the most common texture for a knitted garment is that generated by the flat stockinette stitch — as seen , though very small , in machine - made stockings and t - shirts — which is worked in the round as nothing but knit stitches , and worked flat as alternating rows of knit and purl .
+
+other simple textures can be made with nothing but knit and purl stitches , including garter stitch , ribbing , and moss and seed stitches .
+
+adding a " slip stitch " ( where a loop is passed from one needle to the other ) allows for a wide range of textures , including heel and linen stitches as well as a number of more complicated patterns .
+
+open vertical stripes can be created using the drop - stitch knitting technique .
+
+changing the order of stitches from one row to the next , usually with the help of a cable needle or stitch holder , is key to cable knitting , producing an endless variety of cables , honeycombs , ropes , and aran sweater patterning .
+
+the thicker the yarn , the more visible and apparent stitches will be ; the thinner the yarn , the finer the texture .
+
+some yarns are dyed to be either variegated ( changing color every few stitches in a random fashion ) or self - striping ( changing every few rows ).
+
+more complicated techniques permit large fields of color ( intarsia , for example ), busy small - scale patterns of color ( such as fair isle ), or both ( double knitting and slip - stitch color , for example ).
+
+hand knitting process [ edit ] a woman in the process of hand knitting ( 1904 ) there are many hundreds of different knitting stitches used by hand knitters .
+
+a piece of hand knitting begins with the process of casting on , which involves the initial creation of the stitches on the needle .
+
+there are various methods employed to cast on , such as the " thumb method " ( also known as " slingshot " or " long - tail " cast - ons ), where the stitches are created by a series of loops that will , when knitted , give a very loose edge ideal for " picking up stitches " and knitting a border ; the " double needle method " ( also known as " knit - on " or " cable cast - on "), whereby each loop placed on the needle is then " knitted on ", which produces a firmer edge ideal on its own as a border ; and many more .
+
+the number of active stitches remains the same as when cast on unless stitches are added ( an increase ) or removed ( a decrease ).
+
+there are also different ways to insert the needle into the stitch .
+
+knitting through the front of a stitch is called western knitting .
+
+going through the back of a stitch is called eastern knitting .
+
+a third method , called combination knitting , goes through the front of a knit stitch and the back of a purl stitch .
+
+[ 18 ] once the hand knitted piece is finished , the remaining live stitches are " cast off ".
+
+casting ( or " binding ") off loops the stitches across each other so they can be removed from the needle without unravelling the item .
+
+hats in particular can be started " top down " on double pointed needles with the increases added until the preferred size is achieved , switching to an appropriate circular needle when enough stitches have been added .
+
+e ., how many stitches and rows are required to cover a given area for a given stitch pattern .
+
+hence , thicker yarns generally require fewer stitches , and therefore less time , to knit up a given garment .
+
+more resilient yarns are more forgiving of irregularities in tension ; highly twisted yarns are sometimes difficult to knit , whereas untwisting yarns can lead to split stitches , in which not all the yarn is knitted into a stitch .
+
+a key factor in knitting is stitch definition , corresponding to how well complicated stitch patterns can be seen when made from a given yarn .
+
+smooth , highly spun yarns are best for showing off stitch patterns ; at the other extreme , very fuzzy yarns or eyelash yarns have poor stitch definition , and any complicated stitch pattern would be invisible .
+
+[ 22 ] tools [ edit ] the process of knitting has three basic tasks : the active ( unsecured ) stitches must be held so they don ' t drop these stitches must be released sometime after they are secured new bights of yarn must be passed through the fabric , usually through active stitches , thus securing them .
+
+there is also a technique called knooking [ 23 ] of knitting with a crochet hook that has a cord attached to the end , to hold the stitches while they ' re being worked .
+
+the first and most common type consists of two slender , straight sticks tapered to a point at one end , and with a knob at the other end to prevent stitches from slipping off .
+
+the diameter affects the size of stitches , which affects the gauge / tension of the knitting and the elasticity of the fabric .
+
+different materials have different frictions and grip the yarn differently ; slick needles such as metallic needles are useful for swift knitting , whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches .
+
+the knitting of new stitches occurs only at the tapered ends .
+
+dpns are typically used for circular knitting , especially smaller tube - shaped pieces such as sleeves , collars , and socks ; usually one needle is active while the others hold the remaining active stitches .
+
+circular knitting needles in different lengths , materials and sizes , including plastic , aluminum , steel and nickel - plated brassthe ability to work from either end of one needle is convenient in several types of knitting , such as slip - stitch versions of double knitting .
+
+cable needles are typically very short ( a few inches ), and are used to hold stitches temporarily while others are being knitted .
+
+at specific points indicated by the knitting pattern , the cable needle is moved , the stitches on it are worked by the other needles , then the cable needle is turned around to a different position to create the cable twist .
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6 .
+
+starting from the bottom right are two crochet hooks , two stitch holders ( like big blunt safety pins ), and two cable needles in pink and green .
+
+on the left are a pair of scissors , a yarn needle , green and blue stitch markers , and two orange point protectors .
+
+the darning needle is used in duplicate stitch ( also known as swiss darning ).
+
+the crochet hook is also essential for repairing dropped stitches and some specialty stitches such as tufting .
+
+for large or complex knitting patterns , it is sometimes difficult to keep track of which stitch should be knit in a particular way ; therefore , several tools have been developed to identify the number of a particular row or stitch , including circular stitch markers , hanging markers , extra yarn and row counters .
+
+norwegian style [ edit ] main article : norwegian knitting while knit stitches are worked as in the classic continental style , the purl is worked by leaving the yarn at back and moving the needle .
+
+in russian knitting , it is common to slip the first stitch of every row .
+
+you will tack your non - working yarn down approximately every 3 stitches .
+
+mega knitting uses the same stitches and techniques as conventional knitting , except that hooks are carved into the ends of the needles .
+
+the hooked needles greatly enhance control of the work , catching the stitches and preventing them from slipping off .
+
+the hook catches the loop of yarn as each stitch is knitted , meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle .
+
+turn the left ( non - working ) hook to face away at all times ; turn the right ( working ) hook toward you up whilst knitting ( plain stitch ) and away whilst purling .
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch , making her own needles from fine surgical steel wire .
+
+wrap and turn [ edit ] just before the work is turned , the working yarn is passed around the next unknitted stitch , forming a “ wrap .” later , this “ wrap ” is picked up and knitted into a stitch , concealing it from view .
+
+german short row [ edit ] in german short rows , the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle .
+
+finally , the working yarn is pulled over the top of the needle to the back , which rotates the stitch on the needle so that it tips backwards , forming what appears to be a double - stitch , sometimes referred to as a “ german double stitch ”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted , or rotated below the right needle and pulled to the front , if it is to be purled , both of which maintain the proper (“ tipped back ”) orientation of the german double stitch .
+
+eventually , this german double stitch is worked like a single stitch , which masks its appearance as viewed from the right side to look like a regular stitch .
+
+japanese short row [ edit ] in japanese short rows , a locking stitch marker is used to hold the loop of the working yarn at the turning point .
+
+eventually , the loop is picked up ( and stitch marker removed ) and worked together with the stitch on the other side of the gap .
+
+it refers to knitting where two strands of yarn are knitted into the fabric alternatively and twisted once and always in the same direction before every stitch .
+
+[ 50 ] a repository of research into the effect on health of hand knitting can be found at stitch links ,[ 51 ] an organization founded in bath , england .
+
+slip - stitch knitting : color pattern the easy way .
+
+how to do the knit stitch ".
+
+stitch ' n bitch : the knitter ' s handbook .
+
+seventy stitches to the inch : althea crome ' s tiny knits ".
+
+^ " stitchlinks .
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette / stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding / casting off bobble brioche knitting buttonhole cables casting on double knitting drop - stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip - stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee ( inventor ) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl - mcphee alice starmore debbie stoller meg swansen barbara g .
+
+walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch ' n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from " https :// en .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1structure toggle structure subsection 1.1courses and wales 1.2weft and warp knitting[3] 1.3knit and purl stitches 1.4differences between knitting and crocheting 1.5right- and left-plaited stitches 1.6edges and joins between fabrics 1.7cables, increases, and lace 1.8ornamentations and additions 2history and culture 3properties of fabrics toggle properties of fabrics subsection 3.1texture 3.2color 4hand knitting process 5materials toggle materials subsection 5.1yarn 5.2metal wire 5.3glass and wax 6tools toggle tools subsection 6.1needles 6.1.1largest circular knitting needles 6.1.2record 6.2ancillary tools 7knitting styles/holds toggle knitting styles/holds subsection 7.1continental/german style 7.1.1norwegian style 7.1.2russian style 7.2english style 7.3portuguese/greek/incan/turkish style 8knitting techniques toggle knitting techniques subsection 8.1armenian 8.2double knitting 8.3fair isle 8.4mega knitting 8.5micro knitting 8.6short row 8.6.1wrap and turn 8.6.2german short row 8.6.3japanese short row 8.7twined knitting 9commercial applications 10graffiti 11yarn crawl 12charity 13health benefits 14notable knitters 15see also 16references 17further reading 18external links toggle the table of contents toggle the table of contents knitting 51 languages afrikaansالعربيةবাংলাбашҡортсабългарскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaíslenskaitalianoעבריתಕನ್ನಡқазақшаkurdîкыргызчаlatinalietuviųmagyarмакедонскиမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsimple englishsrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнська中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia method of forming fabric from yarn "knit" redirects here.
+
+unsourced material may be challenged and removed.find sources: "knitting" – news · newspapers · books · scholar · jstor (december 2021) (learn how and when to remove this template message) woman knitting video description of knitting a sock and the two basic stitches: knit and purl knitting is a method for production of textile fabrics by interlacing yarn loops with loops of the same or other yarns.
+
+knitting creates stitches: loops of yarn in a row, either flat or in the round (tubular).
+
+there are usually many active stitches on the knitting needle at one time.
+
+differences in yarn (varying in fibre type, weight, uniformity and twist), needle size, and stitch type allow for a variety of knitted fabrics with different properties, including color, texture, thickness, heat retention, water resistance, and integrity.
+
+structure[edit] courses and wales[edit] structure of stockinette stitch, a common weave in knitted fabric.
+
+alternating wales of red and yellow knit stitches.
+
+each stitch in a wale is suspended from the one above it.
+
+can be obtained with short rows or by increasing or decreasing the number of stitches.
+
+[1] to secure a stitch, at least one new loop is passed through it.
+
+although the new stitch is itself unsecured ("active" or "live"), it secures the stitch(es) suspended from it.
+
+a sequence of stitches in which each stitch is suspended from the next is called a wale.
+
+[2] to secure the initial stitches of a knitted fabric, a method for casting on is used; to secure the final stitches in a wale, one uses a method of binding/casting off.
+
+during knitting, the active stitches are secured mechanically, either from individual hooks (in knitting machines) or from a knitting needle or frame in hand-knitting.
+
+in weft knitting, the entire fabric may be produced from a single yarn, by adding stitches to each wale in turn, moving across the fabric as in a raster scan.
+
+in the knit stitch on the left, the next (red) loop passes through the previous (yellow) loop from below, whereas in the purl stitch (right), the next stitch enters from above.
+
+thus, a knit stitch on one side of the fabric appears as a purl stitch on the other, and vice versa.
+
+knit and purl stitches[edit] see also: list of knitting stitches two courses of red yarn illustrating two basic fabric types.
+
+the lower red course is knit into the white row below it and is itself knit on the next row; this produces 'stockinette' stitch.
+
+the upper red course is purled into the row below and then is knit, consistent with 'garter' stitch.
+
+a dropped stitch, or missed stitch, is a common error that creates an extra loop to be fixed.
+
+in securing the previous stitch in a wale, the next stitch can pass through the previous loop from either below or above.
+
+if the former, the stitch is denoted as a 'knit stitch' or a 'plain stitch;' if the latter, as a 'purl stitch'.
+
+the two stitches are related in that a knit stitch seen from one side of the fabric appears as a purl stitch on the other side.
+
+the two types of stitches have a different visual effect; the knit stitches look like 'v's stacked vertically, whereas the purl stitches look like a wavy horizontal line across the fabric.
+
+patterns and pictures can be created in knitted fabrics by using knit and purl stitches as "pixels"; however, such pixels are usually rectangular, rather than square, depending on the gauge/tension of the knitting.
+
+individual stitches, or rows of stitches, may be made taller by drawing more yarn into the new loop (an elongated stitch), which is the basis for uneven knitting: a row of tall stitches may alternate with one or more rows of short stitches for an interesting visual effect.
+
+short and tall stitches may also alternate within a row, forming a fish-like oval pattern.
+
+in the simplest of hand-knitted fabrics, every row of stitches are all knit (or all purl); this creates a garter stitch fabric.
+
+alternating rows of all knit stitches and all purl stitches creates a stockinette pattern/stocking stitch.
+
+vertical stripes (ribbing) are possible by having alternating wales of knit and purl stitches.
+
+for example, a common choice is 2x2 ribbing, in which two wales of knit stitches are followed by two wales of purl stitches, etc.
+
+horizontal striping (welting) is also possible, by alternating rows of knit and purl stitches.
+
+checkerboard patterns (basketweave) are also possible, the smallest of which is known as seed/moss stitch: the stitches alternate between knit and purl in every wale and along every row.
+
+fabrics in which each knitted row is followed by a purled row, such as in stockinette/stocking stitch, have a tendency to curl—top and bottom curl toward the front (or knitted side) while the sides curl toward the back (or purled side); by contrast, those in which knit and purl stitches are arranged symmetrically (such as ribbing, garter stitch or seed/moss stitch) have more texture and tend to lie flat.
+
+wales of purl stitches have a tendency to recede, whereas those of knit stitches tend to come forward, giving the fabric more stretchability.
+
+conversely, rows of purl stitches tend to form an embossed ridge relative to a row of knit stitches.
+
+[7] typically, a new stitch is passed through a single unsecured ('active') loop, thus lengthening that wale by one stitch.
+
+however, this need not be so; the new loop may be passed through an already secured stitch lower down on the fabric, or even between secured stitches (a dip stitch).
+
+depending on the distance between where the loop is drawn through the fabric and where it is knitted, dip stitches can produce a subtle stippling or long lines across the surface of the fabric, e.g., the lower leaves of a flower.
+
+the new loop may also be passed between two stitches in the 'present' row, thus clustering the intervening stitches; this approach is often used to produce a smocking effect in the fabric.
+
+the new loop may also be passed through 'two or more' previous stitches, producing a decrease and merging wales together.
+
+the merged stitches need not be from the same row; for example, a tuck can be formed by knitting stitches together from two different rows, producing a raised horizontal welt on the fabric.
+
+not every stitch in a row need be knitted; some may be 'missed' (unknitted and passed to the active needle) and knitted on a subsequent row.
+
+this is known as slip-stitch knitting.
+
+[8] the slipped stitches are naturally longer than the knitted ones.
+
+for example, a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts.
+
+this can produce interesting visual effects, although the resulting fabric is more rigid because the slipped stitch 'pulls' on its neighbours and is less deformable.
+
+mosaic knitting is a form of slip-stitch knitting that knits alternate colored rows and uses slip stitches to form patterns; mosaic-knit fabrics tend to be stiffer than patterned fabrics produced by other methods such as fair-isle knitting.
+
+[9] in some cases, a stitch may be deliberately left unsecured by a new stitch and its wale allowed to disassemble.
+
+this is known as drop-stitch knitting, and produces a vertical ladder of see-through holes in the fabric, corresponding to where the wale had been.
+
+both have the same methods of stitching yarn together, but their methods are fairly different.
+
+[clarification needed] when knitting, the stitches form a shape that is similar to a "v", while in crochet the stitches are knotted together.
+
+right- and left-plaited stitches[edit] see also: plaited stitch (knitting) the stitches on the right are right-plaited, whereas the stitches on the left are left-plaited.
+
+within limits, an arbitrary number of twists may be added to new stitches, whether they be knit or purl.
+
+here, a single twist is illustrated, with left-plaited and right-plaited stitches on the left and right, respectively.
+
+both knit and purl stitches may be twisted: usually once if at all, but sometimes twice and (very rarely) thrice.
+
+when seen from above, the twist can be clockwise (right yarn over left) or counterclockwise (left yarn over right); these are denoted as right- and left-plaited stitches, respectively.
+
+hand-knitters generally produce right-plaited stitches by knitting or purling through the back loops, i.e., passing the needle through the initial stitch in an unusual way, but wrapping the yarn as usual.
+
+by contrast, the left-plaited stitch is generally formed by hand-knitters by wrapping the yarn in the opposite way, rather than by any change in the needle.
+
+although they are mirror images in form, right- and left-plaited stitches are functionally equivalent.
+
+both types of plaited stitches give a subtle but interesting visual texture, and tend to draw the fabric inwards, making it stiffer.
+
+plaited stitches are a common method for knitting jewelry from fine metal wire.
+
+the side edges are known as the selvages; the word derives from "self-edges", meaning that the stitches do not need to be secured by anything else.
+
+two knitted fabrics can be joined by embroidery-based grafting methods, most commonly the kitchener stitch.
+
+new wales can be begun from any of the edges of a knitted fabric; this is known as picking up stitches and is the basis for entrelac, in which the wales run perpendicular to one another in a checkerboard pattern.
+
+the central braid is formed from 2x2 ribbing in which the background is formed of purl stitches and the cables are each two wales of knit stitches.
+
+by changing the order in which the stitches are knit, the wales can be made to cross.
+
+cables, increases, and lace[edit] see also: list of knitting stitches ordinarily, stitches are knitted in the same order in every row, and the wales of the fabric run parallel and vertically along the fabric.
+
+however, this need not be so, since the order in which stitches are knitted may be permuted so that wales cross over one another, forming a cable pattern.
+
+this is used to great effect in lace knitting, which consists of making patterns and pictures using such holes, rather than with the stitches themselves.
+
+properties of fabrics[edit] main article: knitted fabric schematic of stockinette stitch, the most basic weft-knit fabric the topology of a knitted fabric is relatively complex.
+
+close-up of front of stockinette stitch close-up of back of stockinette stitch, also same appearance as reverse stockinette stitch the basic knitted fabric (as in the diagram, and usually called a stocking or stockinette pattern) has a definite "right side" and "wrong side".
+
+because the yarn holding rows together is all on the front, and the yarn holding side-by-side stitches together is all on the back, stockinette fabric has a strong tendency to curl toward the front on the top and bottom, and toward the back on the left and right side.
+
+stitches can be worked from either side, and various patterns are created by mixing regular knit stitches with the "wrong side" stitches, known as purl stitches, either in columns (ribbing), rows (garter, welting), or more complex patterns.
+
+each fabric has different properties: a garter stitch has much more vertical stretch, while ribbing stretches much more horizontally.
+
+different combinations of knit and purl stitches, along with more advanced techniques, generate fabrics of considerably variable consistency, from gauzy to very dense, from highly stretchy to relatively stiff, from flat to tightly curled, and so on.
+
+close-up of knitting texture[edit] the most common texture for a knitted garment is that generated by the flat stockinette stitch—as seen, though very small, in machine-made stockings and t-shirts—which is worked in the round as nothing but knit stitches, and worked flat as alternating rows of knit and purl.
+
+other simple textures can be made with nothing but knit and purl stitches, including garter stitch, ribbing, and moss and seed stitches.
+
+adding a "slip stitch" (where a loop is passed from one needle to the other) allows for a wide range of textures, including heel and linen stitches as well as a number of more complicated patterns.
+
+open vertical stripes can be created using the drop-stitch knitting technique.
+
+changing the order of stitches from one row to the next, usually with the help of a cable needle or stitch holder, is key to cable knitting, producing an endless variety of cables, honeycombs, ropes, and aran sweater patterning.
+
+the thicker the yarn, the more visible and apparent stitches will be; the thinner the yarn, the finer the texture.
+
+some yarns are dyed to be either variegated (changing color every few stitches in a random fashion) or self-striping (changing every few rows).
+
+more complicated techniques permit large fields of color (intarsia, for example), busy small-scale patterns of color (such as fair isle), or both (double knitting and slip-stitch color, for example).
+
+hand knitting process[edit] a woman in the process of hand knitting (1904) there are many hundreds of different knitting stitches used by hand knitters.
+
+a piece of hand knitting begins with the process of casting on, which involves the initial creation of the stitches on the needle.
+
+there are various methods employed to cast on, such as the "thumb method" (also known as "slingshot" or "long-tail" cast-ons), where the stitches are created by a series of loops that will, when knitted, give a very loose edge ideal for "picking up stitches" and knitting a border; the "double needle method" (also known as "knit-on" or "cable cast-on"), whereby each loop placed on the needle is then "knitted on", which produces a firmer edge ideal on its own as a border; and many more.
+
+the number of active stitches remains the same as when cast on unless stitches are added (an increase) or removed (a decrease).
+
+there are also different ways to insert the needle into the stitch.
+
+knitting through the front of a stitch is called western knitting.
+
+going through the back of a stitch is called eastern knitting.
+
+a third method, called combination knitting, goes through the front of a knit stitch and the back of a purl stitch.
+
+[18] once the hand knitted piece is finished, the remaining live stitches are "cast off".
+
+casting (or "binding") off loops the stitches across each other so they can be removed from the needle without unravelling the item.
+
+hats in particular can be started "top down" on double pointed needles with the increases added until the preferred size is achieved, switching to an appropriate circular needle when enough stitches have been added.
+
+the thickness or weight of the yarn is a significant factor in determining the gauge/tension, i.e., how many stitches and rows are required to cover a given area for a given stitch pattern.
+
+hence, thicker yarns generally require fewer stitches, and therefore less time, to knit up a given garment.
+
+more resilient yarns are more forgiving of irregularities in tension; highly twisted yarns are sometimes difficult to knit, whereas untwisting yarns can lead to split stitches, in which not all the yarn is knitted into a stitch.
+
+a key factor in knitting is stitch definition, corresponding to how well complicated stitch patterns can be seen when made from a given yarn.
+
+smooth, highly spun yarns are best for showing off stitch patterns; at the other extreme, very fuzzy yarns or eyelash yarns have poor stitch definition, and any complicated stitch pattern would be invisible.
+
+[22] tools[edit] the process of knitting has three basic tasks: the active (unsecured) stitches must be held so they don't drop these stitches must be released sometime after they are secured new bights of yarn must be passed through the fabric, usually through active stitches, thus securing them.
+
+there is also a technique called knooking[23] of knitting with a crochet hook that has a cord attached to the end, to hold the stitches while they're being worked.
+
+the first and most common type consists of two slender, straight sticks tapered to a point at one end, and with a knob at the other end to prevent stitches from slipping off.
+
+the diameter affects the size of stitches, which affects the gauge/tension of the knitting and the elasticity of the fabric.
+
+different materials have different frictions and grip the yarn differently; slick needles such as metallic needles are useful for swift knitting, whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches.
+
+the knitting of new stitches occurs only at the tapered ends.
+
+dpns are typically used for circular knitting, especially smaller tube-shaped pieces such as sleeves, collars, and socks; usually one needle is active while the others hold the remaining active stitches.
+
+circular knitting needles in different lengths, materials and sizes, including plastic, aluminum, steel and nickel-plated brassthe ability to work from either end of one needle is convenient in several types of knitting, such as slip-stitch versions of double knitting.
+
+cable needles are typically very short (a few inches), and are used to hold stitches temporarily while others are being knitted.
+
+at specific points indicated by the knitting pattern, the cable needle is moved, the stitches on it are worked by the other needles, then the cable needle is turned around to a different position to create the cable twist.
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6.5 centimeters (2½") in diameter and 3.5 meters (11'6") long.
+
+starting from the bottom right are two crochet hooks, two stitch holders (like big blunt safety pins), and two cable needles in pink and green.
+
+on the left are a pair of scissors, a yarn needle, green and blue stitch markers, and two orange point protectors.
+
+the darning needle is used in duplicate stitch (also known as swiss darning).
+
+the crochet hook is also essential for repairing dropped stitches and some specialty stitches such as tufting.
+
+for large or complex knitting patterns, it is sometimes difficult to keep track of which stitch should be knit in a particular way; therefore, several tools have been developed to identify the number of a particular row or stitch, including circular stitch markers, hanging markers, extra yarn and row counters.
+
+norwegian style[edit] main article: norwegian knitting while knit stitches are worked as in the classic continental style, the purl is worked by leaving the yarn at back and moving the needle.
+
+in russian knitting, it is common to slip the first stitch of every row.
+
+you will tack your non-working yarn down approximately every 3 stitches.
+
+mega knitting uses the same stitches and techniques as conventional knitting, except that hooks are carved into the ends of the needles.
+
+the hooked needles greatly enhance control of the work, catching the stitches and preventing them from slipping off.
+
+the hook catches the loop of yarn as each stitch is knitted, meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle.
+
+turn the left (non-working) hook to face away at all times; turn the right (working) hook toward you up whilst knitting (plain stitch) and away whilst purling.
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch, making her own needles from fine surgical steel wire.
+
+wrap and turn[edit] just before the work is turned, the working yarn is passed around the next unknitted stitch, forming a “wrap.” later, this “wrap” is picked up and knitted into a stitch, concealing it from view.
+
+german short row[edit] in german short rows, the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle.
+
+finally, the working yarn is pulled over the top of the needle to the back, which rotates the stitch on the needle so that it tips backwards, forming what appears to be a double-stitch, sometimes referred to as a “german double stitch”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted, or rotated below the right needle and pulled to the front, if it is to be purled, both of which maintain the proper (“tipped back”) orientation of the german double stitch.
+
+eventually, this german double stitch is worked like a single stitch, which masks its appearance as viewed from the right side to look like a regular stitch.
+
+japanese short row[edit] in japanese short rows, a locking stitch marker is used to hold the loop of the working yarn at the turning point.
+
+eventually, the loop is picked up (and stitch marker removed) and worked together with the stitch on the other side of the gap.
+
+it refers to knitting where two strands of yarn are knitted into the fabric alternatively and twisted once and always in the same direction before every stitch.
+
+[50] a repository of research into the effect on health of hand knitting can be found at stitch links,[51] an organization founded in bath, england.
+
+slip-stitch knitting: color pattern the easy way.
+
+"how to do the knit stitch".
+
+stitch 'n bitch: the knitter's handbook.
+
+"seventy stitches to the inch: althea crome's tiny knits".
+
+^ "stitchlinks.com".
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette/stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding/casting off bobble brioche knitting buttonhole cables casting on double knitting drop-stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip-stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee (inventor) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl-mcphee alice starmore debbie stoller meg swansen barbara g. walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch 'n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from "https://en.wikipedia.org/w/index.php?title=knitting&oldid=1149831060" categories: knittinghandicraftscraftssheep woolwoolen clothingfibershidden categories: webarchive template wayback linksall articles with dead external linksarticles with dead external links from february 2020articles with permanently dead external linksarticles with short descriptionshort description is different from wikidataarticles needing additional references from december 2021all articles needing additional referencesuse dmy dates from october 2017wikipedia articles needing clarification from march 2023articles with dead external links from january 2023articles containing potentially dated statements from may 2020all articles containing potentially dated statementspages using div col with small parametercommons category link from wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with ndl identifiersarticles with nkc identifiersarticles with emu identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+3knit and purl stitches 1 .
+
+5right - and left - plaited stitches 1 .
+
+find sources : " knitting " – news · newspapers · books · scholar · jstor ( december 2021 ) ( learn how and when to remove this template message ) woman knitting video description of knitting a sock and the two basic stitches : knit and purl knitting is a method for production of textile fabrics by interlacing yarn loops with loops of the same or other yarns .
+
+knitting creates stitches : loops of yarn in a row , either flat or in the round ( tubular ).
+
+there are usually many active stitches on the knitting needle at one time .
+
+differences in yarn ( varying in fibre type , weight , uniformity and twist ), needle size , and stitch type allow for a variety of knitted fabrics with different properties , including color , texture , thickness , heat retention , water resistance , and integrity .
+
+structure [ edit ] courses and wales [ edit ] structure of stockinette stitch , a common weave in knitted fabric .
+
+alternating wales of red and yellow knit stitches .
+
+each stitch in a wale is suspended from the one above it .
+
+can be obtained with short rows or by increasing or decreasing the number of stitches .
+
+[ 1 ] to secure a stitch , at least one new loop is passed through it .
+
+although the new stitch is itself unsecured (" active " or " live "), it secures the stitch ( es ) suspended from it .
+
+a sequence of stitches in which each stitch is suspended from the next is called a wale .
+
+[ 2 ] to secure the initial stitches of a knitted fabric , a method for casting on is used ; to secure the final stitches in a wale , one uses a method of binding / casting off .
+
+during knitting , the active stitches are secured mechanically , either from individual hooks ( in knitting machines ) or from a knitting needle or frame in hand - knitting .
+
+in weft knitting , the entire fabric may be produced from a single yarn , by adding stitches to each wale in turn , moving across the fabric as in a raster scan .
+
+in the knit stitch on the left , the next ( red ) loop passes through the previous ( yellow ) loop from below , whereas in the purl stitch ( right ), the next stitch enters from above .
+
+thus , a knit stitch on one side of the fabric appears as a purl stitch on the other , and vice versa .
+
+knit and purl stitches [ edit ] see also : list of knitting stitches two courses of red yarn illustrating two basic fabric types .
+
+the lower red course is knit into the white row below it and is itself knit on the next row ; this produces ' stockinette ' stitch .
+
+the upper red course is purled into the row below and then is knit , consistent with ' garter ' stitch .
+
+a dropped stitch , or missed stitch , is a common error that creates an extra loop to be fixed .
+
+in securing the previous stitch in a wale , the next stitch can pass through the previous loop from either below or above .
+
+if the former , the stitch is denoted as a ' knit stitch ' or a ' plain stitch ;' if the latter , as a ' purl stitch '.
+
+the two stitches are related in that a knit stitch seen from one side of the fabric appears as a purl stitch on the other side .
+
+the two types of stitches have a different visual effect ; the knit stitches look like ' v ' s stacked vertically , whereas the purl stitches look like a wavy horizontal line across the fabric .
+
+patterns and pictures can be created in knitted fabrics by using knit and purl stitches as " pixels "; however , such pixels are usually rectangular , rather than square , depending on the gauge / tension of the knitting .
+
+individual stitches , or rows of stitches , may be made taller by drawing more yarn into the new loop ( an elongated stitch ), which is the basis for uneven knitting : a row of tall stitches may alternate with one or more rows of short stitches for an interesting visual effect .
+
+short and tall stitches may also alternate within a row , forming a fish - like oval pattern .
+
+in the simplest of hand - knitted fabrics , every row of stitches are all knit ( or all purl ); this creates a garter stitch fabric .
+
+alternating rows of all knit stitches and all purl stitches creates a stockinette pattern / stocking stitch .
+
+vertical stripes ( ribbing ) are possible by having alternating wales of knit and purl stitches .
+
+for example , a common choice is 2x2 ribbing , in which two wales of knit stitches are followed by two wales of purl stitches , etc .
+
+horizontal striping ( welting ) is also possible , by alternating rows of knit and purl stitches .
+
+checkerboard patterns ( basketweave ) are also possible , the smallest of which is known as seed / moss stitch : the stitches alternate between knit and purl in every wale and along every row .
+
+fabrics in which each knitted row is followed by a purled row , such as in stockinette / stocking stitch , have a tendency to curl — top and bottom curl toward the front ( or knitted side ) while the sides curl toward the back ( or purled side ); by contrast , those in which knit and purl stitches are arranged symmetrically ( such as ribbing , garter stitch or seed / moss stitch ) have more texture and tend to lie flat .
+
+wales of purl stitches have a tendency to recede , whereas those of knit stitches tend to come forward , giving the fabric more stretchability .
+
+conversely , rows of purl stitches tend to form an embossed ridge relative to a row of knit stitches .
+
+[ 7 ] typically , a new stitch is passed through a single unsecured (' active ') loop , thus lengthening that wale by one stitch .
+
+however , this need not be so ; the new loop may be passed through an already secured stitch lower down on the fabric , or even between secured stitches ( a dip stitch ).
+
+depending on the distance between where the loop is drawn through the fabric and where it is knitted , dip stitches can produce a subtle stippling or long lines across the surface of the fabric , e .
+
+the new loop may also be passed between two stitches in the ' present ' row , thus clustering the intervening stitches ; this approach is often used to produce a smocking effect in the fabric .
+
+the new loop may also be passed through ' two or more ' previous stitches , producing a decrease and merging wales together .
+
+the merged stitches need not be from the same row ; for example , a tuck can be formed by knitting stitches together from two different rows , producing a raised horizontal welt on the fabric .
+
+not every stitch in a row need be knitted ; some may be ' missed ' ( unknitted and passed to the active needle ) and knitted on a subsequent row .
+
+this is known as slip - stitch knitting .
+
+[ 8 ] the slipped stitches are naturally longer than the knitted ones .
+
+for example , a stitch slipped for one row before knitting would be roughly twice as tall as its knitted counterparts .
+
+this can produce interesting visual effects , although the resulting fabric is more rigid because the slipped stitch ' pulls ' on its neighbours and is less deformable .
+
+mosaic knitting is a form of slip - stitch knitting that knits alternate colored rows and uses slip stitches to form patterns ; mosaic - knit fabrics tend to be stiffer than patterned fabrics produced by other methods such as fair - isle knitting .
+
+[ 9 ] in some cases , a stitch may be deliberately left unsecured by a new stitch and its wale allowed to disassemble .
+
+this is known as drop - stitch knitting , and produces a vertical ladder of see - through holes in the fabric , corresponding to where the wale had been .
+
+both have the same methods of stitching yarn together , but their methods are fairly different .
+
+[ clarification needed ] when knitting , the stitches form a shape that is similar to a " v ", while in crochet the stitches are knotted together .
+
+right - and left - plaited stitches [ edit ] see also : plaited stitch ( knitting ) the stitches on the right are right - plaited , whereas the stitches on the left are left - plaited .
+
+within limits , an arbitrary number of twists may be added to new stitches , whether they be knit or purl .
+
+here , a single twist is illustrated , with left - plaited and right - plaited stitches on the left and right , respectively .
+
+both knit and purl stitches may be twisted : usually once if at all , but sometimes twice and ( very rarely ) thrice .
+
+when seen from above , the twist can be clockwise ( right yarn over left ) or counterclockwise ( left yarn over right ); these are denoted as right - and left - plaited stitches , respectively .
+
+hand - knitters generally produce right - plaited stitches by knitting or purling through the back loops , i .
+
+e ., passing the needle through the initial stitch in an unusual way , but wrapping the yarn as usual .
+
+by contrast , the left - plaited stitch is generally formed by hand - knitters by wrapping the yarn in the opposite way , rather than by any change in the needle .
+
+although they are mirror images in form , right - and left - plaited stitches are functionally equivalent .
+
+both types of plaited stitches give a subtle but interesting visual texture , and tend to draw the fabric inwards , making it stiffer .
+
+plaited stitches are a common method for knitting jewelry from fine metal wire .
+
+the side edges are known as the selvages ; the word derives from " self - edges ", meaning that the stitches do not need to be secured by anything else .
+
+two knitted fabrics can be joined by embroidery - based grafting methods , most commonly the kitchener stitch .
+
+new wales can be begun from any of the edges of a knitted fabric ; this is known as picking up stitches and is the basis for entrelac , in which the wales run perpendicular to one another in a checkerboard pattern .
+
+the central braid is formed from 2x2 ribbing in which the background is formed of purl stitches and the cables are each two wales of knit stitches .
+
+by changing the order in which the stitches are knit , the wales can be made to cross .
+
+cables , increases , and lace [ edit ] see also : list of knitting stitches ordinarily , stitches are knitted in the same order in every row , and the wales of the fabric run parallel and vertically along the fabric .
+
+however , this need not be so , since the order in which stitches are knitted may be permuted so that wales cross over one another , forming a cable pattern .
+
+this is used to great effect in lace knitting , which consists of making patterns and pictures using such holes , rather than with the stitches themselves .
+
+properties of fabrics [ edit ] main article : knitted fabric schematic of stockinette stitch , the most basic weft - knit fabric the topology of a knitted fabric is relatively complex .
+
+close - up of front of stockinette stitch close - up of back of stockinette stitch , also same appearance as reverse stockinette stitch the basic knitted fabric ( as in the diagram , and usually called a stocking or stockinette pattern ) has a definite " right side " and " wrong side ".
+
+because the yarn holding rows together is all on the front , and the yarn holding side - by - side stitches together is all on the back , stockinette fabric has a strong tendency to curl toward the front on the top and bottom , and toward the back on the left and right side .
+
+stitches can be worked from either side , and various patterns are created by mixing regular knit stitches with the " wrong side " stitches , known as purl stitches , either in columns ( ribbing ), rows ( garter , welting ), or more complex patterns .
+
+each fabric has different properties : a garter stitch has much more vertical stretch , while ribbing stretches much more horizontally .
+
+different combinations of knit and purl stitches , along with more advanced techniques , generate fabrics of considerably variable consistency , from gauzy to very dense , from highly stretchy to relatively stiff , from flat to tightly curled , and so on .
+
+close - up of knitting texture [ edit ] the most common texture for a knitted garment is that generated by the flat stockinette stitch — as seen , though very small , in machine - made stockings and t - shirts — which is worked in the round as nothing but knit stitches , and worked flat as alternating rows of knit and purl .
+
+other simple textures can be made with nothing but knit and purl stitches , including garter stitch , ribbing , and moss and seed stitches .
+
+adding a " slip stitch " ( where a loop is passed from one needle to the other ) allows for a wide range of textures , including heel and linen stitches as well as a number of more complicated patterns .
+
+open vertical stripes can be created using the drop - stitch knitting technique .
+
+changing the order of stitches from one row to the next , usually with the help of a cable needle or stitch holder , is key to cable knitting , producing an endless variety of cables , honeycombs , ropes , and aran sweater patterning .
+
+the thicker the yarn , the more visible and apparent stitches will be ; the thinner the yarn , the finer the texture .
+
+some yarns are dyed to be either variegated ( changing color every few stitches in a random fashion ) or self - striping ( changing every few rows ).
+
+more complicated techniques permit large fields of color ( intarsia , for example ), busy small - scale patterns of color ( such as fair isle ), or both ( double knitting and slip - stitch color , for example ).
+
+hand knitting process [ edit ] a woman in the process of hand knitting ( 1904 ) there are many hundreds of different knitting stitches used by hand knitters .
+
+a piece of hand knitting begins with the process of casting on , which involves the initial creation of the stitches on the needle .
+
+there are various methods employed to cast on , such as the " thumb method " ( also known as " slingshot " or " long - tail " cast - ons ), where the stitches are created by a series of loops that will , when knitted , give a very loose edge ideal for " picking up stitches " and knitting a border ; the " double needle method " ( also known as " knit - on " or " cable cast - on "), whereby each loop placed on the needle is then " knitted on ", which produces a firmer edge ideal on its own as a border ; and many more .
+
+the number of active stitches remains the same as when cast on unless stitches are added ( an increase ) or removed ( a decrease ).
+
+there are also different ways to insert the needle into the stitch .
+
+knitting through the front of a stitch is called western knitting .
+
+going through the back of a stitch is called eastern knitting .
+
+a third method , called combination knitting , goes through the front of a knit stitch and the back of a purl stitch .
+
+[ 18 ] once the hand knitted piece is finished , the remaining live stitches are " cast off ".
+
+casting ( or " binding ") off loops the stitches across each other so they can be removed from the needle without unravelling the item .
+
+hats in particular can be started " top down " on double pointed needles with the increases added until the preferred size is achieved , switching to an appropriate circular needle when enough stitches have been added .
+
+e ., how many stitches and rows are required to cover a given area for a given stitch pattern .
+
+hence , thicker yarns generally require fewer stitches , and therefore less time , to knit up a given garment .
+
+more resilient yarns are more forgiving of irregularities in tension ; highly twisted yarns are sometimes difficult to knit , whereas untwisting yarns can lead to split stitches , in which not all the yarn is knitted into a stitch .
+
+a key factor in knitting is stitch definition , corresponding to how well complicated stitch patterns can be seen when made from a given yarn .
+
+smooth , highly spun yarns are best for showing off stitch patterns ; at the other extreme , very fuzzy yarns or eyelash yarns have poor stitch definition , and any complicated stitch pattern would be invisible .
+
+[ 22 ] tools [ edit ] the process of knitting has three basic tasks : the active ( unsecured ) stitches must be held so they don ' t drop these stitches must be released sometime after they are secured new bights of yarn must be passed through the fabric , usually through active stitches , thus securing them .
+
+there is also a technique called knooking [ 23 ] of knitting with a crochet hook that has a cord attached to the end , to hold the stitches while they ' re being worked .
+
+the first and most common type consists of two slender , straight sticks tapered to a point at one end , and with a knob at the other end to prevent stitches from slipping off .
+
+the diameter affects the size of stitches , which affects the gauge / tension of the knitting and the elasticity of the fabric .
+
+different materials have different frictions and grip the yarn differently ; slick needles such as metallic needles are useful for swift knitting , whereas rougher needles such as bamboo offer more friction and are therefore less prone to dropping stitches .
+
+the knitting of new stitches occurs only at the tapered ends .
+
+dpns are typically used for circular knitting , especially smaller tube - shaped pieces such as sleeves , collars , and socks ; usually one needle is active while the others hold the remaining active stitches .
+
+circular knitting needles in different lengths , materials and sizes , including plastic , aluminum , steel and nickel - plated brassthe ability to work from either end of one needle is convenient in several types of knitting , such as slip - stitch versions of double knitting .
+
+cable needles are typically very short ( a few inches ), and are used to hold stitches temporarily while others are being knitted .
+
+at specific points indicated by the knitting pattern , the cable needle is moved , the stitches on it are worked by the other needles , then the cable needle is turned around to a different position to create the cable twist .
+
+julia knitted a square of ten stitches and ten rows in stockinette stitch using knitting needles that were 6 .
+
+starting from the bottom right are two crochet hooks , two stitch holders ( like big blunt safety pins ), and two cable needles in pink and green .
+
+on the left are a pair of scissors , a yarn needle , green and blue stitch markers , and two orange point protectors .
+
+the darning needle is used in duplicate stitch ( also known as swiss darning ).
+
+the crochet hook is also essential for repairing dropped stitches and some specialty stitches such as tufting .
+
+for large or complex knitting patterns , it is sometimes difficult to keep track of which stitch should be knit in a particular way ; therefore , several tools have been developed to identify the number of a particular row or stitch , including circular stitch markers , hanging markers , extra yarn and row counters .
+
+norwegian style [ edit ] main article : norwegian knitting while knit stitches are worked as in the classic continental style , the purl is worked by leaving the yarn at back and moving the needle .
+
+in russian knitting , it is common to slip the first stitch of every row .
+
+you will tack your non - working yarn down approximately every 3 stitches .
+
+mega knitting uses the same stitches and techniques as conventional knitting , except that hooks are carved into the ends of the needles .
+
+the hooked needles greatly enhance control of the work , catching the stitches and preventing them from slipping off .
+
+the hook catches the loop of yarn as each stitch is knitted , meaning that wrists and fingers do not have to work so hard and there is less chance of stitches slipping off the needle .
+
+turn the left ( non - working ) hook to face away at all times ; turn the right ( working ) hook toward you up whilst knitting ( plain stitch ) and away whilst purling .
+
+anthea crome created 14 tiny sweaters used in the stop motion animated film coraline and has made objects at 60 or 80 stitches per inch , making her own needles from fine surgical steel wire .
+
+wrap and turn [ edit ] just before the work is turned , the working yarn is passed around the next unknitted stitch , forming a “ wrap .” later , this “ wrap ” is picked up and knitted into a stitch , concealing it from view .
+
+german short row [ edit ] in german short rows , the work is turned and the last stitch worked is slipped purlwise with yarn in front to the right needle .
+
+finally , the working yarn is pulled over the top of the needle to the back , which rotates the stitch on the needle so that it tips backwards , forming what appears to be a double - stitch , sometimes referred to as a “ german double stitch ”.
+
+the working yarn stays to the back for the next stitch if it is to be knitted , or rotated below the right needle and pulled to the front , if it is to be purled , both of which maintain the proper (“ tipped back ”) orientation of the german double stitch .
+
+eventually , this german double stitch is worked like a single stitch , which masks its appearance as viewed from the right side to look like a regular stitch .
+
+japanese short row [ edit ] in japanese short rows , a locking stitch marker is used to hold the loop of the working yarn at the turning point .
+
+eventually , the loop is picked up ( and stitch marker removed ) and worked together with the stitch on the other side of the gap .
+
+it refers to knitting where two strands of yarn are knitted into the fabric alternatively and twisted once and always in the same direction before every stitch .
+
+[ 50 ] a repository of research into the effect on health of hand knitting can be found at stitch links ,[ 51 ] an organization founded in bath , england .
+
+slip - stitch knitting : color pattern the easy way .
+
+how to do the knit stitch ".
+
+stitch ' n bitch : the knitter ' s handbook .
+
+seventy stitches to the inch : althea crome ' s tiny knits ".
+
+^ " stitchlinks .
+
+) vteknittingtools and materials knitting needle knitting needle cap needle gauge list of yarns for crochet and knitting row counter stitch holder yarn styles bouclé eyelash lopi novelty variegated yarn brands coats group eisaku noro company kraemer yarns lion brand yarns patons and baldwins styles circular combined knitting continental knitting english knitting flat warp knitting stitches stockinette / stocking stitch garter decrease dip stitch elongated stitch increase plaited stitch yarn over techniques arm knitting basketweave bead knitting bias knitting binding / casting off bobble brioche knitting buttonhole cables casting on double knitting drop - stitch knitting entrelac faggoting finger knitting gather gauge grafting hemming illusion knitting lace medallion knitting picking up stitches pleat ribbing short row slip - stitch knitting spool knitting steek three needle bindoff thrumming tuck weaving welting patterns aran argyle fair isle intarsia machine knitting complete garment knitting fully fashioned knitting knitting machine knitting nancy stocking frame william lee ( inventor ) knitters anddesigners sam barsky nicky epstein kaffe fassett marianne kinzel herbert niebling shannon okey stephanie pearl - mcphee alice starmore debbie stoller meg swansen barbara g .
+
+walker elizabeth zimmermann organizations i knit london knitta knitting clubs knitty ravelry revolutionary knitting circle stitch ' n bitch uk hand knitting association world wide knit in public day the knitting guild association related basic knitted fabrics blocking dye lot history knitted fabric knitting abbreviations list of knitting stitches selvage yarn bombing vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control national france bnf data germany israel united states japan czech republic other encyclopedia of modern ukraine retrieved from " https :// en .
+
+this is not tunisian, slip stitch, crochetnit, double crochet or any other knit look alike.
+
+you will be making actual knit and purl stitches.
+
+co/inc to.... chain 8 pull up knit stitch on each side of the chain = 16 stitches 8 on each side of the chain 8. increase would look like this k,inc,k,k,k,k,k,k,inc,k on one side k,inc,k,k,k,k,k,k,inc,k on the other.
+
+you will inc by 4 stitches every other row.
+
+infant inc to 24 toddler inc to 32 child inc to 40 women inc to 48 men inc to 56 foot length.... knit until you have the length you need infant 3 1/2 inches toddler 5 inches child 6.5 inches women 8-11 inches men 10-12 inches short rows divide stiches 1/2 on a stitch holder.
+
+slip stitch (ss) 1st stitch knit to last, but dont knit last put on holder, turn 2.)
+
+ss 1st stitch, purl to last, but dont purl last put on holder, turn continue steps 1 and 2 until you have 1/2 of what you started with (e.g.
+
+infant: inc to 24 your short rows side is 12 stitches so 1/2 of 12 is 6) add stitches back on....
+
+ss 1st stitch, knit to 2nd to last, knit last stitch and 1 held stitch together, pull up 1 increase, turn.
+
+ss 1st stitch, purl to 2nd to last, purl last stitch and 1 held stitch together, purl up 1 increase, turn.
+
+continue steps 1 and 2 until you have same number of stitches you had before short rowing and/or what is on your other stitch holder.
+
+hugs and kisses hybrid bagby ronda chapman aka offthehookart ﻿2012 supplies:5mm knook hooksmall amount of worst yarn (a skein or less)stitch markers and/or row counter crochet bottom of bag:(ch3 always counts as a dc stitch.)
+
+rnd 1: ch3, 11dc in ring, slipstitch into top of 3rd chain =12 stitches.
+
+rnd 2: ch3, 1dc in same 3rd chain as last slipstitch, 2dc in next and each stitch all around, slipstitch into top of 3rd chain = 24 stitches.
+
+rnd 3: ch3, 1dc in same 3rd chain as last slipstitch, *1dc in next stitch, 2 dc in next stitch, rep from * to last stitch, 1dc in next stitch, slipstitch into top of 3rd chain = 36 stitches.
+
+rnd 4: ch3, 1dc in same 3rd chain as last slipstitch, *1dc in each of next 2 stitches, 2 dc in next stitch, rep from * to last 2 stitches, 1dc in each of next 2 stitches, = 48 stitches.
+
+slipstitch into back loop of 3rd chain (counts as first knit stitch on next row.)
+
+knooked (knit):pull up one knit stitch from back loop of each crochet stitch all the way around = 48 stitches.knook (knit) in spiral (round) until you have 6 rnds.crochet (twisted dc’s):skip 1st knit stitch, ch3 in 2nd knit stitch (counts as a dc) then dc in 1st knit stitch (do not bind off stitches keep them live for entire rnd.)
+
+*skip next knit stitch, dc in next, then dc in skipped stitch* .
+
+=48 stitches.
+
+crochet:rnd 1: chain 3 in first knit stitch (counts as 1st dc), dc around, (ok to bind these dc’s off) slipstitch into top of 3rd chain.
+
+drawstring:where you joined bottom of bag and where 1st knit stitch happened is where you will attach crochet chain to hide joining.
+
+when your chain is long enough and weaved through dc’s clip the yarn, but leave a long enough tail so that you can slipstitch back down the crochet chain to your starting point at the bottom of the bag.fasten off, and weave your ends.
+
+this is not tunisian , slip stitch , crochetnit , double crochet or any other knit look alike .
+
+you will be making actual knit and purl stitches .
+
+co / inc to .... chain 8 pull up knit stitch on each side of the chain = 16 stitches 8 on each side of the chain 8 .
+
+you will inc by 4 stitches every other row .
+
+5 inches women 8 - 11 inches men 10 - 12 inches short rows divide stiches 1 / 2 on a stitch holder .
+
+slip stitch ( ss ) 1st stitch knit to last , but dont knit last put on holder , turn 2 .)
+
+ss 1st stitch , purl to last , but dont purl last put on holder , turn continue steps 1 and 2 until you have 1 / 2 of what you started with ( e .
+
+infant : inc to 24 your short rows side is 12 stitches so 1 / 2 of 12 is 6 ) add stitches back on .... 1 .)
+
+ss 1st stitch , knit to 2nd to last , knit last stitch and 1 held stitch together , pull up 1 increase , turn .
+
+ss 1st stitch , purl to 2nd to last , purl last stitch and 1 held stitch together , purl up 1 increase , turn .
+
+continue steps 1 and 2 until you have same number of stitches you had before short rowing and / or what is on your other stitch holder .
+
+hugs and kisses hybrid bagby ronda chapman aka offthehookart ﻿ 2012 supplies : 5mm knook hooksmall amount of worst yarn ( a skein or less ) stitch markers and / or row counter crochet bottom of bag :( ch3 always counts as a dc stitch .)
+
+rnd 1 : ch3 , 11dc in ring , slipstitch into top of 3rd chain = 12 stitches .
+
+rnd 2 : ch3 , 1dc in same 3rd chain as last slipstitch , 2dc in next and each stitch all around , slipstitch into top of 3rd chain = 24 stitches .
+
+rnd 3 : ch3 , 1dc in same 3rd chain as last slipstitch , * 1dc in next stitch , 2 dc in next stitch , rep from * to last stitch , 1dc in next stitch , slipstitch into top of 3rd chain = 36 stitches .
+
+rnd 4 : ch3 , 1dc in same 3rd chain as last slipstitch , * 1dc in each of next 2 stitches , 2 dc in next stitch , rep from * to last 2 stitches , 1dc in each of next 2 stitches , = 48 stitches .
+
+slipstitch into back loop of 3rd chain ( counts as first knit stitch on next row .)
+
+knooked ( knit ): pull up one knit stitch from back loop of each crochet stitch all the way around = 48 stitches .
+
+crochet ( twisted dc ’ s ): skip 1st knit stitch , ch3 in 2nd knit stitch ( counts as a dc ) then dc in 1st knit stitch ( do not bind off stitches keep them live for entire rnd .)
+
+* skip next knit stitch , dc in next , then dc in skipped stitch * .
+
+= 48 stitches .
+
+crochet : rnd 1 : chain 3 in first knit stitch ( counts as 1st dc ), dc around , ( ok to bind these dc ’ s off ) slipstitch into top of 3rd chain .
+
+drawstring : where you joined bottom of bag and where 1st knit stitch happened is where you will attach crochet chain to hide joining .
+
+when your chain is long enough and weaved through dc ’ s clip the yarn , but leave a long enough tail so that you can slipstitch back down the crochet chain to your starting point at the bottom of the bag .
+
+the 5 knitting styles (and how to knit them) | allfreeknitting.com close advanced pattern search search term enter a search term (optional) categories select one (optional) all learn to knit accessories baby knits bags children's knits cowls felted knits fingerless gloves knitting patterns free afghan knitting patterns gifts hats home decor knitting charities knitting companies knitting designers loom patterns men's knits miscellaneous mittens motifs patterns for the holidays pet knits reviews scarves shawls socks sweaters tops toys vests printable (optional) show only printer-friendly patterns difficulty level select one (optional) all beginner intermediate advanced easy kid friendly yarn weight select one (optional) all (6) super bulky/super chunky (4-11 stitches for 4 inches) (5) bulky/chunky (12-15 stitches for 4 inches) (4) medium weight/worsted weight and aran (16-20 stitches to 4 inches) (3) light/dk (21-24 stitches to 4 inches) (2) fine (23-26 stitches to 4 inches) (1) super fine (27-32 stitches to 4 inches) (0) lace (33-40 stitches to 4 inches).
+
+to do so, follow the directions for the back, when it says to bind off the piece-don't, figure out how many stitches are needed to create the head opening, it's 7" or 8" depending on the size you make, cast those stitches off and work the second side separately with another ball of yarn.
+
+on the flip side work to the bound off stitches and cast on as many as you cast off continue working the pattern in reverse.
+
+see all comments reply lisa "sorry, i don't know of a video for that stitch pattern.
+
+variations on continental style norwegian knitting the norwegian style of knitting is distinct because of the way purl stitches are worked.
+
+the norwegian purl is worked with the yarn in back; patterns that switch back and forth between knitting and purling, like rib stitches, are great for practicing the norwegian purl.
+
+this particular hold puts the working yarn in the non-dominant hand, which makes it a variant of continental; the knit stitches are worked just like the regular continental style.
+
+russian knitting russian knitting is very similar to regular continental, and the knit and purl stitches themselves are worked in the same way.
+
+in every other knitting style, the tension is held in the hands; this gives your hands two jobs to do at the same time -- holding the yarn and working the stitches with the needles.
+
+when the tension is held around the neck, there's one less thing you have to worry about when making your stitches.
+
+knitting method, on the other hand, has to do with the way you form the stitches themselves.
+
+combination knitting utilizes the benefits of both styles in one piece of fabric to make complicated stitches much easier to knit.
+
+western eastern combination knit stitches leading leg in front leading leg in back leading leg in front purl stitches leading leg in front leading leg in back leading leg in back yarn wrap counter-clockwise(for right-handed) clockwise(for right-handed) counter-clockwise for knit (right-handed)clockwise for purl (right-handed) stitches worked through front loop worked through back loop worked through back loop for knitsworked through front loop for purls twisted stitches worked through back loop worked through front loop worked through front loop for knitsworked through back loop for purls check out this great article that goes deeper into the english vs continental debate!
+
+project of the day gymir cowl "this simply huge cowl has been named after the giant gymir, who was in norse mythology the giant whose daughter, gerr, ultimately… see more continue reading: "gymir cowl" what's hot how to knit a hat how to knit intarsia how many stitches to cast on for a hat how much yarn do i need?
+
+the 5 knitting styles (and how to knit them) how many stitches to cast on for a blanket condo knitting how many stitches should i cast on for a scarf?
+
+register now for free to: save all your favorite patternsadd personal notesquickly reference your patterns log in join us todayforgot password connect with us our newest patterns & articles mangrove knit stitch woven-look throw knitting pattern loose ends easy to knit slipper pattern knit flat with bulky yarn on straight needles waffle stitch pattern stylish cardigan with colorful stripes unisex winter hat spider fingerless gloves waffle stitch kitchen towel see more see more of our newest patterns & articles free ebooks 15 free cute knitting patterns for every season 24 quick and easy knitting patterns 9 free knitting patterns perfect for spring a knitters gift guide: 8 homemade gift ideas a yarn hoarders guide to organization: knitting storage solutions, simple knitting patterns and more easy lace knitting patterns how to knit for beginners: 9 free tutorials the best light & lacy knit scarf patterns: 7 free scarf patterns for you see more see more free ebooks about us advertise contact us faq keyword index do not sell my personal information privacy policy share your project subscribe terms of service unsubscribe prime publishing craft group © copyright 2023 prime publishing, llc.
+
+com close advanced pattern search search term enter a search term ( optional ) categories select one ( optional ) all learn to knit accessories baby knits bags children ' s knits cowls felted knits fingerless gloves knitting patterns free afghan knitting patterns gifts hats home decor knitting charities knitting companies knitting designers loom patterns men ' s knits miscellaneous mittens motifs patterns for the holidays pet knits reviews scarves shawls socks sweaters tops toys vests printable ( optional ) show only printer - friendly patterns difficulty level select one ( optional ) all beginner intermediate advanced easy kid friendly yarn weight select one ( optional ) all ( 6 ) super bulky / super chunky ( 4 - 11 stitches for 4 inches ) ( 5 ) bulky / chunky ( 12 - 15 stitches for 4 inches ) ( 4 ) medium weight / worsted weight and aran ( 16 - 20 stitches to 4 inches ) ( 3 ) light / dk ( 21 - 24 stitches to 4 inches ) ( 2 ) fine ( 23 - 26 stitches to 4 inches ) ( 1 ) super fine ( 27 - 32 stitches to 4 inches ) ( 0 ) lace ( 33 - 40 stitches to 4 inches ).
+
+to do so , follow the directions for the back , when it says to bind off the piece - don ' t , figure out how many stitches are needed to create the head opening , it ' s 7 " or 8 " depending on the size you make , cast those stitches off and work the second side separately with another ball of yarn .
+
+on the flip side work to the bound off stitches and cast on as many as you cast off continue working the pattern in reverse .
+
+see all comments reply lisa " sorry , i don ' t know of a video for that stitch pattern .
+
+variations on continental style norwegian knitting the norwegian style of knitting is distinct because of the way purl stitches are worked .
+
+the norwegian purl is worked with the yarn in back ; patterns that switch back and forth between knitting and purling , like rib stitches , are great for practicing the norwegian purl .
+
+this particular hold puts the working yarn in the non - dominant hand , which makes it a variant of continental ; the knit stitches are worked just like the regular continental style .
+
+russian knitting russian knitting is very similar to regular continental , and the knit and purl stitches themselves are worked in the same way .
+
+in every other knitting style , the tension is held in the hands ; this gives your hands two jobs to do at the same time -- holding the yarn and working the stitches with the needles .
+
+when the tension is held around the neck , there ' s one less thing you have to worry about when making your stitches .
+
+knitting method , on the other hand , has to do with the way you form the stitches themselves .
+
+combination knitting utilizes the benefits of both styles in one piece of fabric to make complicated stitches much easier to knit .
+
+western eastern combination knit stitches leading leg in front leading leg in back leading leg in front purl stitches leading leg in front leading leg in back leading leg in back yarn wrap counter - clockwise ( for right - handed ) clockwise ( for right - handed ) counter - clockwise for knit ( right - handed ) clockwise for purl ( right - handed ) stitches worked through front loop worked through back loop worked through back loop for knitsworked through front loop for purls twisted stitches worked through back loop worked through front loop worked through front loop for knitsworked through back loop for purls check out this great article that goes deeper into the english vs continental debate !
+
+project of the day gymir cowl " this simply huge cowl has been named after the giant gymir , who was in norse mythology the giant whose daughter , gerr , ultimately … see more continue reading : " gymir cowl " what ' s hot how to knit a hat how to knit intarsia how many stitches to cast on for a hat how much yarn do i need ?
+
+the 5 knitting styles ( and how to knit them ) how many stitches to cast on for a blanket condo knitting how many stitches should i cast on for a scarf ?
+
+register now for free to : save all your favorite patternsadd personal notesquickly reference your patterns log in join us todayforgot password connect with us our newest patterns & articles mangrove knit stitch woven - look throw knitting pattern loose ends easy to knit slipper pattern knit flat with bulky yarn on straight needles waffle stitch pattern stylish cardigan with colorful stripes unisex winter hat spider fingerless gloves waffle stitch kitchen towel see more see more of our newest patterns & articles free ebooks 15 free cute knitting patterns for every season 24 quick and easy knitting patterns 9 free knitting patterns perfect for spring a knitters gift guide : 8 homemade gift ideas a yarn hoarders guide to organization : knitting storage solutions , simple knitting patterns and more easy lace knitting patterns how to knit for beginners : 9 free tutorials the best light & lacy knit scarf patterns : 7 free scarf patterns for you see more see more free ebooks about us advertise contact us faq keyword index do not sell my personal information privacy policy share your project subscribe terms of service unsubscribe prime publishing craft group © copyright 2023 prime publishing , llc .
+

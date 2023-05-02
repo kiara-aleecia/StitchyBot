@@ -1,0 +1,704 @@
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1etymology 2origins 3irish crochet 4modern practice and culture 5materials toggle materials subsection 5.1crochet hook 5.2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12.1yarn bombing 12.2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةবাংলাcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisहिन्दीhrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमराठीမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification.
+
+crochet (english: /kroʊˈʃeɪ/;[1] french: [kʁɔʃɛ][2]) is a process of creating textiles by using a crochet hook to interlock loops of yarn, thread, or strands of other materials.
+
+[3] the name is derived from the french term crochet, meaning 'hook'.
+
+hooks can be made from a variety of materials, such as metal, wood, bamboo, or plastic.
+
+demonstration of crochet technique etymology[edit] the word crochet is derived from the french crochet, a diminutive of croche, in turn from the germanic croc, both meaning "hook".
+
+the word crochet subsequently came to describe both the specific type of textile, and the hooked needle used to produce it.
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook—shepherd's knitting—is in the memoirs of a highland lady by elizabeth grant (1797–1830).
+
+[9] nonetheless, the 1833 volume of penélopé describes and illustrates a shepherd's hook, and recommends its use for crochet with coarser yarn.
+
+[10] in 1844, one of the numerous books discussing crochet that began to appear in the 1840s states: crochet needles, sometimes called shepherds' hooks, are made of steel, ivory, or box-wood.
+
+they have a hook at one end similar in shape to a fish-hook, by which the wool or silk is caught and drawn through the work.
+
+these instruments are to be procured of various sizes...[11] two years later, the same author writes: crochet, — a species of knitting originally practised by the peasants in scotland, with a small hooked needle called a shepherd's hook, — has, within the last seven years, aided by taste and fashion, obtained the preference over all other ornamental works of a similar nature.
+
+the tip of the needle shown there is indistinguishable from that of a present-day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique.
+
+[16] shepherd's hook, 19th-century tapered hook, modern inline hook the strong taper of the shepherd's hook eases the production of slip-stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time.
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops.
+
+both types gradually merged into the modern form that appeared toward the end of the 19th century, including both tapered and cylindrical segments, and the continuously tapered bone hook remained in industrial production until world war ii.
+
+[citation needed] the early instruction books make frequent reference to the alternative use of 'ivory, bone, or wooden hooks' and 'steel needles in a handle', as appropriate to the stitch being made.
+
+shepherd's hooks are still being made for local slip-stitch crochet traditions.
+
+a longer continuously tapering design intermediate between it and the 19th-century tapered hook was also in earlier production, commonly being made from the handles of forks and spoons.
+
+[21] filet crochet, tunisian crochet, tapestry crochet, broomstick lace, hairpin lace, cro-hooking, and irish crochet are all variants of the basic crochet method.
+
+materials[edit] basic materials required for crochet are a hook and some type of material that will be crocheted, most commonly yarn or thread.
+
+[citation needed] crochet hook[edit] aluminium crochet hooks main article: crochet hook the crochet hook comes in many sizes and materials, such as bone, bamboo, aluminium, plastic, and steel.
+
+[23] because sizing is categorized by the diameter of the hook's shaft, a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern.
+
+if gauge is not reached with one hook, another is used until the stitches made are the needed size.
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal, yarn glide, or hand disorders such as arthritis, where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use.
+
+hook grips and ergonomic hook handles are also available to assist crafters.
+
+steel crochet hooks range in size from 0.4 to 3.5 millimeters, or from 00 to 16 in american sizing.
+
+these hooks are used for fine crochet work such as doilies and lace.
+
+aluminium, bamboo, and plastic crochet hooks are available from 2.5 to 19 millimeters in size, or from b to s in american sizing.
+
+[citation needed] artisan-made hooks are often made of hand-turned woods, sometimes decorated with semi-precious stones or beads.
+
+crochet hooks used for tunisian crochet are elongated and have a stopper at the end of the handle, while double-ended crochet hooks have a hook on both ends of the handle.
+
+there is also a double hooked apparatus called a cro-hook that has become popular.
+
+while this is not in itself a hook, it is a device used in conjunction with a crochet hook to produce stitches.
+
+see : list of united states standard crochet hook and knitting needle sizes yarn[edit] main article: yarn a hank of wool yarn (center) is uncoiled into its basic loop.
+
+thicker yarns generally require large-diameter crochet hooks, whereas thinner yarns may be crocheted with thick or thin hooks.
+
+crochet tablecloth, kolkata, west bengal, india crocheted fabric is begun by placing a slip-knot loop on the hook (though other methods, such as a magic ring or simple folding over of the yarn may be used), pulling another loop through the first loop, and repeating this process to create a chain of a suitable length.
+
+at any one time at the end of a stitch, there is only one loop left on the hook.
+
+tunisian crochet, however, draws all of the loops for an entire row onto a long hook before working them off one at a time.
+
+[citation needed] the more advanced stitches are often combinations of these basic stitches, or are made by inserting the hook into the work in unusual locations.
+
+in the united states, crochet terminology and sizing guidelines, as well as standards for yarn and hook labeling, are primarily regulated by the craft yarn council.
+
+an individual crocheter begins work by producing a test swatch and compensating for any discrepancy by changing to a smaller or larger hook.
+
+[citation needed] differences from and similarities to knitting[edit] one of the more obvious differences is that crochet uses one hook while much knitting uses two needles.
+
+in most crochet, the artisan usually has only one live stitch on the hook (with the exception being tunisian crochet), while a knitter keeps an entire row of stitches active simultaneously.
+
+[citation needed] round or cylindrical patterns are simple to produce with a regular crochet hook, but cylindrical knitting requires either a set of circular needles or three to five special double-ended needles.
+
+[27] while most crochet is made with a hook, there is also a method of crocheting with a knitting loom.
+
+although this is true when comparing a single crochet swatch with a stockinette swatch, both made with the same size yarn and needle/hook, it is not necessarily true for crochet in general.
+
+most crochet uses far less than 1/3 more yarn than knitting for comparable pieces, and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn.
+
+any yarn can be either knitted or crocheted, provided needles or hooks of the correct size are used, but the cord's properties should be taken into account.
+
+[31] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time.
+
+two shows were sant ocean hall at the smithsonian in washington d.c. and sticks, hooks, and the mobius: knit and crochet go cerebral at lafayette college in pennsylvania.
+
+^ "right type and size of a crochet hook".
+
+^ "sticks, hooks, and the mobius: knit and crochet go cerebral.
+
+the antique pattern library vtecrochettools crochet hook cro-hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control: national france bnf data germany israel united states czech republic retrieved from "https://en.wikipedia.org/w/index.php?title=crochet&oldid=1149831025" categories: crochetcraftsfigured fabricsneedleworkhidden categories: webarchive template wayback linksarticles with short descriptionshort description matches wikidataarticles needing additional references from march 2023all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from march 2023articles with unsourced statements from october 2022wikipedia articles needing clarification from october 2022commons category link is on wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with nkc identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+1crochet hook 5 .
+
+2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةব াং ল া catalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisह ि न ् द ी hrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमर ा ठ ी မ ြ န ် မ ာ ဘ ာ သ ာ nederlands日本語norsk bokmålnorsk nynorskਪ ੰ ਜ ਾ ਬ ੀ polskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதம ி ழ ் türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print / export download as pdfprintable version in other projects wikimedia commons from wikipedia , the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification .
+
+crochet ( english : / kroʊˈʃeɪ /;[ 1 ] french : [ kʁɔʃɛ ][ 2 ]) is a process of creating textiles by using a crochet hook to interlock loops of yarn , thread , or strands of other materials .
+
+[ 3 ] the name is derived from the french term crochet , meaning ' hook '.
+
+hooks can be made from a variety of materials , such as metal , wood , bamboo , or plastic .
+
+demonstration of crochet technique etymology [ edit ] the word crochet is derived from the french crochet , a diminutive of croche , in turn from the germanic croc , both meaning " hook ".
+
+the word crochet subsequently came to describe both the specific type of textile , and the hooked needle used to produce it .
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook — shepherd ' s knitting — is in the memoirs of a highland lady by elizabeth grant ( 1797 – 1830 ).
+
+[ 9 ] nonetheless , the 1833 volume of penélopé describes and illustrates a shepherd ' s hook , and recommends its use for crochet with coarser yarn .
+
+[ 10 ] in 1844 , one of the numerous books discussing crochet that began to appear in the 1840s states : crochet needles , sometimes called shepherds ' hooks , are made of steel , ivory , or box - wood .
+
+they have a hook at one end similar in shape to a fish - hook , by which the wool or silk is caught and drawn through the work .
+
+these instruments are to be procured of various sizes ...[ 11 ] two years later , the same author writes : crochet , — a species of knitting originally practised by the peasants in scotland , with a small hooked needle called a shepherd ' s hook , — has , within the last seven years , aided by taste and fashion , obtained the preference over all other ornamental works of a similar nature .
+
+the tip of the needle shown there is indistinguishable from that of a present - day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique .
+
+[ 16 ] shepherd ' s hook , 19th - century tapered hook , modern inline hook the strong taper of the shepherd ' s hook eases the production of slip - stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time .
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops .
+
+both types gradually merged into the modern form that appeared toward the end of the 19th century , including both tapered and cylindrical segments , and the continuously tapered bone hook remained in industrial production until world war ii .
+
+[ citation needed ] the early instruction books make frequent reference to the alternative use of ' ivory , bone , or wooden hooks ' and ' steel needles in a handle ', as appropriate to the stitch being made .
+
+shepherd ' s hooks are still being made for local slip - stitch crochet traditions .
+
+a longer continuously tapering design intermediate between it and the 19th - century tapered hook was also in earlier production , commonly being made from the handles of forks and spoons .
+
+[ 21 ] filet crochet , tunisian crochet , tapestry crochet , broomstick lace , hairpin lace , cro - hooking , and irish crochet are all variants of the basic crochet method .
+
+materials [ edit ] basic materials required for crochet are a hook and some type of material that will be crocheted , most commonly yarn or thread .
+
+[ citation needed ] crochet hook [ edit ] aluminium crochet hooks main article : crochet hook the crochet hook comes in many sizes and materials , such as bone , bamboo , aluminium , plastic , and steel .
+
+[ 23 ] because sizing is categorized by the diameter of the hook ' s shaft , a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern .
+
+if gauge is not reached with one hook , another is used until the stitches made are the needed size .
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal , yarn glide , or hand disorders such as arthritis , where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use .
+
+hook grips and ergonomic hook handles are also available to assist crafters .
+
+steel crochet hooks range in size from 0 .
+
+these hooks are used for fine crochet work such as doilies and lace .
+
+aluminium , bamboo , and plastic crochet hooks are available from 2 .
+
+[ citation needed ] artisan - made hooks are often made of hand - turned woods , sometimes decorated with semi - precious stones or beads .
+
+crochet hooks used for tunisian crochet are elongated and have a stopper at the end of the handle , while double - ended crochet hooks have a hook on both ends of the handle .
+
+there is also a double hooked apparatus called a cro - hook that has become popular .
+
+while this is not in itself a hook , it is a device used in conjunction with a crochet hook to produce stitches .
+
+see : list of united states standard crochet hook and knitting needle sizes yarn [ edit ] main article : yarn a hank of wool yarn ( center ) is uncoiled into its basic loop .
+
+thicker yarns generally require large - diameter crochet hooks , whereas thinner yarns may be crocheted with thick or thin hooks .
+
+crochet tablecloth , kolkata , west bengal , india crocheted fabric is begun by placing a slip - knot loop on the hook ( though other methods , such as a magic ring or simple folding over of the yarn may be used ), pulling another loop through the first loop , and repeating this process to create a chain of a suitable length .
+
+at any one time at the end of a stitch , there is only one loop left on the hook .
+
+tunisian crochet , however , draws all of the loops for an entire row onto a long hook before working them off one at a time .
+
+[ citation needed ] the more advanced stitches are often combinations of these basic stitches , or are made by inserting the hook into the work in unusual locations .
+
+in the united states , crochet terminology and sizing guidelines , as well as standards for yarn and hook labeling , are primarily regulated by the craft yarn council .
+
+an individual crocheter begins work by producing a test swatch and compensating for any discrepancy by changing to a smaller or larger hook .
+
+[ citation needed ] differences from and similarities to knitting [ edit ] one of the more obvious differences is that crochet uses one hook while much knitting uses two needles .
+
+in most crochet , the artisan usually has only one live stitch on the hook ( with the exception being tunisian crochet ), while a knitter keeps an entire row of stitches active simultaneously .
+
+[ citation needed ] round or cylindrical patterns are simple to produce with a regular crochet hook , but cylindrical knitting requires either a set of circular needles or three to five special double - ended needles .
+
+[ 27 ] while most crochet is made with a hook , there is also a method of crocheting with a knitting loom .
+
+although this is true when comparing a single crochet swatch with a stockinette swatch , both made with the same size yarn and needle / hook , it is not necessarily true for crochet in general .
+
+most crochet uses far less than 1 / 3 more yarn than knitting for comparable pieces , and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn .
+
+any yarn can be either knitted or crocheted , provided needles or hooks of the correct size are used , but the cord ' s properties should be taken into account .
+
+[ 31 ] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time .
+
+and sticks , hooks , and the mobius : knit and crochet go cerebral at lafayette college in pennsylvania .
+
+^ " right type and size of a crochet hook ".
+
+^ " sticks , hooks , and the mobius : knit and crochet go cerebral .
+
+the antique pattern library vtecrochettools crochet hook cro - hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control : national france bnf data germany israel united states czech republic retrieved from " https :// en .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1etymology 2origins 3irish crochet 4modern practice and culture 5materials toggle materials subsection 5.1crochet hook 5.2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12.1yarn bombing 12.2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةবাংলাcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisहिन्दीhrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमराठीမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification.
+
+crochet (english: /kroʊˈʃeɪ/;[1] french: [kʁɔʃɛ][2]) is a process of creating textiles by using a crochet hook to interlock loops of yarn, thread, or strands of other materials.
+
+[3] the name is derived from the french term crochet, meaning 'hook'.
+
+hooks can be made from a variety of materials, such as metal, wood, bamboo, or plastic.
+
+demonstration of crochet technique etymology[edit] the word crochet is derived from the french crochet, a diminutive of croche, in turn from the germanic croc, both meaning "hook".
+
+the word crochet subsequently came to describe both the specific type of textile, and the hooked needle used to produce it.
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook—shepherd's knitting—is in the memoirs of a highland lady by elizabeth grant (1797–1830).
+
+[9] nonetheless, the 1833 volume of penélopé describes and illustrates a shepherd's hook, and recommends its use for crochet with coarser yarn.
+
+[10] in 1844, one of the numerous books discussing crochet that began to appear in the 1840s states: crochet needles, sometimes called shepherds' hooks, are made of steel, ivory, or box-wood.
+
+they have a hook at one end similar in shape to a fish-hook, by which the wool or silk is caught and drawn through the work.
+
+these instruments are to be procured of various sizes...[11] two years later, the same author writes: crochet, — a species of knitting originally practised by the peasants in scotland, with a small hooked needle called a shepherd's hook, — has, within the last seven years, aided by taste and fashion, obtained the preference over all other ornamental works of a similar nature.
+
+the tip of the needle shown there is indistinguishable from that of a present-day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique.
+
+[16] shepherd's hook, 19th-century tapered hook, modern inline hook the strong taper of the shepherd's hook eases the production of slip-stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time.
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops.
+
+both types gradually merged into the modern form that appeared toward the end of the 19th century, including both tapered and cylindrical segments, and the continuously tapered bone hook remained in industrial production until world war ii.
+
+[citation needed] the early instruction books make frequent reference to the alternative use of 'ivory, bone, or wooden hooks' and 'steel needles in a handle', as appropriate to the stitch being made.
+
+shepherd's hooks are still being made for local slip-stitch crochet traditions.
+
+a longer continuously tapering design intermediate between it and the 19th-century tapered hook was also in earlier production, commonly being made from the handles of forks and spoons.
+
+[21] filet crochet, tunisian crochet, tapestry crochet, broomstick lace, hairpin lace, cro-hooking, and irish crochet are all variants of the basic crochet method.
+
+materials[edit] basic materials required for crochet are a hook and some type of material that will be crocheted, most commonly yarn or thread.
+
+[citation needed] crochet hook[edit] aluminium crochet hooks main article: crochet hook the crochet hook comes in many sizes and materials, such as bone, bamboo, aluminium, plastic, and steel.
+
+[23] because sizing is categorized by the diameter of the hook's shaft, a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern.
+
+if gauge is not reached with one hook, another is used until the stitches made are the needed size.
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal, yarn glide, or hand disorders such as arthritis, where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use.
+
+hook grips and ergonomic hook handles are also available to assist crafters.
+
+steel crochet hooks range in size from 0.4 to 3.5 millimeters, or from 00 to 16 in american sizing.
+
+these hooks are used for fine crochet work such as doilies and lace.
+
+aluminium, bamboo, and plastic crochet hooks are available from 2.5 to 19 millimeters in size, or from b to s in american sizing.
+
+[citation needed] artisan-made hooks are often made of hand-turned woods, sometimes decorated with semi-precious stones or beads.
+
+crochet hooks used for tunisian crochet are elongated and have a stopper at the end of the handle, while double-ended crochet hooks have a hook on both ends of the handle.
+
+there is also a double hooked apparatus called a cro-hook that has become popular.
+
+while this is not in itself a hook, it is a device used in conjunction with a crochet hook to produce stitches.
+
+see : list of united states standard crochet hook and knitting needle sizes yarn[edit] main article: yarn a hank of wool yarn (center) is uncoiled into its basic loop.
+
+thicker yarns generally require large-diameter crochet hooks, whereas thinner yarns may be crocheted with thick or thin hooks.
+
+crochet tablecloth, kolkata, west bengal, india crocheted fabric is begun by placing a slip-knot loop on the hook (though other methods, such as a magic ring or simple folding over of the yarn may be used), pulling another loop through the first loop, and repeating this process to create a chain of a suitable length.
+
+at any one time at the end of a stitch, there is only one loop left on the hook.
+
+tunisian crochet, however, draws all of the loops for an entire row onto a long hook before working them off one at a time.
+
+[citation needed] the more advanced stitches are often combinations of these basic stitches, or are made by inserting the hook into the work in unusual locations.
+
+in the united states, crochet terminology and sizing guidelines, as well as standards for yarn and hook labeling, are primarily regulated by the craft yarn council.
+
+an individual crocheter begins work by producing a test swatch and compensating for any discrepancy by changing to a smaller or larger hook.
+
+[citation needed] differences from and similarities to knitting[edit] one of the more obvious differences is that crochet uses one hook while much knitting uses two needles.
+
+in most crochet, the artisan usually has only one live stitch on the hook (with the exception being tunisian crochet), while a knitter keeps an entire row of stitches active simultaneously.
+
+[citation needed] round or cylindrical patterns are simple to produce with a regular crochet hook, but cylindrical knitting requires either a set of circular needles or three to five special double-ended needles.
+
+[27] while most crochet is made with a hook, there is also a method of crocheting with a knitting loom.
+
+although this is true when comparing a single crochet swatch with a stockinette swatch, both made with the same size yarn and needle/hook, it is not necessarily true for crochet in general.
+
+most crochet uses far less than 1/3 more yarn than knitting for comparable pieces, and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn.
+
+any yarn can be either knitted or crocheted, provided needles or hooks of the correct size are used, but the cord's properties should be taken into account.
+
+[31] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time.
+
+two shows were sant ocean hall at the smithsonian in washington d.c. and sticks, hooks, and the mobius: knit and crochet go cerebral at lafayette college in pennsylvania.
+
+^ "right type and size of a crochet hook".
+
+^ "sticks, hooks, and the mobius: knit and crochet go cerebral.
+
+the antique pattern library vtecrochettools crochet hook cro-hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control: national france bnf data germany israel united states czech republic retrieved from "https://en.wikipedia.org/w/index.php?title=crochet&oldid=1149831025" categories: crochetcraftsfigured fabricsneedleworkhidden categories: webarchive template wayback linksarticles with short descriptionshort description matches wikidataarticles needing additional references from march 2023all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from march 2023articles with unsourced statements from october 2022wikipedia articles needing clarification from october 2022commons category link is on wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with nkc identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+1crochet hook 5 .
+
+2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةব াং ল া catalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisह ि न ् द ी hrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमर ा ठ ी မ ြ န ် မ ာ ဘ ာ သ ာ nederlands日本語norsk bokmålnorsk nynorskਪ ੰ ਜ ਾ ਬ ੀ polskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதம ி ழ ் türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print / export download as pdfprintable version in other projects wikimedia commons from wikipedia , the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification .
+
+crochet ( english : / kroʊˈʃeɪ /;[ 1 ] french : [ kʁɔʃɛ ][ 2 ]) is a process of creating textiles by using a crochet hook to interlock loops of yarn , thread , or strands of other materials .
+
+[ 3 ] the name is derived from the french term crochet , meaning ' hook '.
+
+hooks can be made from a variety of materials , such as metal , wood , bamboo , or plastic .
+
+demonstration of crochet technique etymology [ edit ] the word crochet is derived from the french crochet , a diminutive of croche , in turn from the germanic croc , both meaning " hook ".
+
+the word crochet subsequently came to describe both the specific type of textile , and the hooked needle used to produce it .
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook — shepherd ' s knitting — is in the memoirs of a highland lady by elizabeth grant ( 1797 – 1830 ).
+
+[ 9 ] nonetheless , the 1833 volume of penélopé describes and illustrates a shepherd ' s hook , and recommends its use for crochet with coarser yarn .
+
+[ 10 ] in 1844 , one of the numerous books discussing crochet that began to appear in the 1840s states : crochet needles , sometimes called shepherds ' hooks , are made of steel , ivory , or box - wood .
+
+they have a hook at one end similar in shape to a fish - hook , by which the wool or silk is caught and drawn through the work .
+
+these instruments are to be procured of various sizes ...[ 11 ] two years later , the same author writes : crochet , — a species of knitting originally practised by the peasants in scotland , with a small hooked needle called a shepherd ' s hook , — has , within the last seven years , aided by taste and fashion , obtained the preference over all other ornamental works of a similar nature .
+
+the tip of the needle shown there is indistinguishable from that of a present - day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique .
+
+[ 16 ] shepherd ' s hook , 19th - century tapered hook , modern inline hook the strong taper of the shepherd ' s hook eases the production of slip - stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time .
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops .
+
+both types gradually merged into the modern form that appeared toward the end of the 19th century , including both tapered and cylindrical segments , and the continuously tapered bone hook remained in industrial production until world war ii .
+
+[ citation needed ] the early instruction books make frequent reference to the alternative use of ' ivory , bone , or wooden hooks ' and ' steel needles in a handle ', as appropriate to the stitch being made .
+
+shepherd ' s hooks are still being made for local slip - stitch crochet traditions .
+
+a longer continuously tapering design intermediate between it and the 19th - century tapered hook was also in earlier production , commonly being made from the handles of forks and spoons .
+
+[ 21 ] filet crochet , tunisian crochet , tapestry crochet , broomstick lace , hairpin lace , cro - hooking , and irish crochet are all variants of the basic crochet method .
+
+materials [ edit ] basic materials required for crochet are a hook and some type of material that will be crocheted , most commonly yarn or thread .
+
+[ citation needed ] crochet hook [ edit ] aluminium crochet hooks main article : crochet hook the crochet hook comes in many sizes and materials , such as bone , bamboo , aluminium , plastic , and steel .
+
+[ 23 ] because sizing is categorized by the diameter of the hook ' s shaft , a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern .
+
+if gauge is not reached with one hook , another is used until the stitches made are the needed size .
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal , yarn glide , or hand disorders such as arthritis , where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use .
+
+hook grips and ergonomic hook handles are also available to assist crafters .
+
+steel crochet hooks range in size from 0 .
+
+these hooks are used for fine crochet work such as doilies and lace .
+
+aluminium , bamboo , and plastic crochet hooks are available from 2 .
+
+[ citation needed ] artisan - made hooks are often made of hand - turned woods , sometimes decorated with semi - precious stones or beads .
+
+crochet hooks used for tunisian crochet are elongated and have a stopper at the end of the handle , while double - ended crochet hooks have a hook on both ends of the handle .
+
+there is also a double hooked apparatus called a cro - hook that has become popular .
+
+while this is not in itself a hook , it is a device used in conjunction with a crochet hook to produce stitches .
+
+see : list of united states standard crochet hook and knitting needle sizes yarn [ edit ] main article : yarn a hank of wool yarn ( center ) is uncoiled into its basic loop .
+
+thicker yarns generally require large - diameter crochet hooks , whereas thinner yarns may be crocheted with thick or thin hooks .
+
+crochet tablecloth , kolkata , west bengal , india crocheted fabric is begun by placing a slip - knot loop on the hook ( though other methods , such as a magic ring or simple folding over of the yarn may be used ), pulling another loop through the first loop , and repeating this process to create a chain of a suitable length .
+
+at any one time at the end of a stitch , there is only one loop left on the hook .
+
+tunisian crochet , however , draws all of the loops for an entire row onto a long hook before working them off one at a time .
+
+[ citation needed ] the more advanced stitches are often combinations of these basic stitches , or are made by inserting the hook into the work in unusual locations .
+
+in the united states , crochet terminology and sizing guidelines , as well as standards for yarn and hook labeling , are primarily regulated by the craft yarn council .
+
+an individual crocheter begins work by producing a test swatch and compensating for any discrepancy by changing to a smaller or larger hook .
+
+[ citation needed ] differences from and similarities to knitting [ edit ] one of the more obvious differences is that crochet uses one hook while much knitting uses two needles .
+
+in most crochet , the artisan usually has only one live stitch on the hook ( with the exception being tunisian crochet ), while a knitter keeps an entire row of stitches active simultaneously .
+
+[ citation needed ] round or cylindrical patterns are simple to produce with a regular crochet hook , but cylindrical knitting requires either a set of circular needles or three to five special double - ended needles .
+
+[ 27 ] while most crochet is made with a hook , there is also a method of crocheting with a knitting loom .
+
+although this is true when comparing a single crochet swatch with a stockinette swatch , both made with the same size yarn and needle / hook , it is not necessarily true for crochet in general .
+
+most crochet uses far less than 1 / 3 more yarn than knitting for comparable pieces , and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn .
+
+any yarn can be either knitted or crocheted , provided needles or hooks of the correct size are used , but the cord ' s properties should be taken into account .
+
+[ 31 ] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time .
+
+and sticks , hooks , and the mobius : knit and crochet go cerebral at lafayette college in pennsylvania .
+
+^ " right type and size of a crochet hook ".
+
+^ " sticks , hooks , and the mobius : knit and crochet go cerebral .
+
+the antique pattern library vtecrochettools crochet hook cro - hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control : national france bnf data germany israel united states czech republic retrieved from " https :// en .
+
+to make a piece of needlework by looping thread with a hooked needle.v.tr.
+
+to make by looping thread with a hooked needle: crochet a sweater.n.
+
+needlework made by looping thread with a hooked needle.
+
+[french crocheter, from old french crochet, hook, diminutive of croche, feminine of croc, of germanic origin.
+
+all rights reserved.crochet (ˈkrəʊʃeɪ; -ʃɪ) vb, -chets (-ʃeɪz; -ʃɪz) , -cheting (-ʃeɪɪŋ; -ʃɪɪŋ) or -cheted (-ʃeɪd; -ʃɪd) (knitting & sewing) to make (a piece of needlework, a garment, etc) by looping and intertwining thread with a hooked needle (crochet hook)n1.
+
+(zoology) zoology a hooklike structure of insect larvae that aids locomotion[c19: from french crochet, diminutive of croc hook, probably of scandinavian origin] ˈcrocheter ncollins english dictionary – complete and unabridged, 12th edition 2014 © harpercollins publishers 1991, 1994, 1998, 2000, 2003, 2006, 2007, 2009, 2011, 2014cro•chet (kroʊˈʃeɪ) n., v. -cheted (-ˈʃeɪd) -chet•ing (-ˈʃeɪ ɪŋ) n. 1. needlework done with a hooked needle (crochet′ hook` or crochet′ nee`dle) for drawing the thread or yarn through intertwined loops.
+
+[1840–50; < french: knitting needle, literally, small hook, diminutive of croche, croc < middle english or scandinavian.
+
+see crook1, -et] cro•chet′er, n. random house kernerman webster's college dictionary, © 2010 k dictionaries ltd. copyright 2005, 1997, 1991 by random house, inc. all rights reserved.crochetpast participle: crochetedgerund: crochetingimperativepresentpreteritepresent continuouspresent perfectpast continuouspast perfectfuturefuture perfectfuture continuouspresent perfect continuousfuture perfect continuouspast perfect continuousconditionalpast conditionalimperativecrochetcrochetpresenti crochetyou crochethe/she/it crochetswe crochetyou crochetthey crochetpreteritei crochetedyou crochetedhe/she/it crochetedwe crochetedyou crochetedthey crochetedpresent continuousi am crochetingyou are crochetinghe/she/it is crochetingwe are crochetingyou are crochetingthey are crochetingpresent perfecti have crochetedyou have crochetedhe/she/it has crochetedwe have crochetedyou have crochetedthey have crochetedpast continuousi was crochetingyou were crochetinghe/she/it was crochetingwe were crochetingyou were crochetingthey were crochetingpast perfecti had crochetedyou had crochetedhe/she/it had crochetedwe had crochetedyou had crochetedthey had crochetedfuturei will crochetyou will crochethe/she/it will crochetwe will crochetyou will crochetthey will crochetfuture perfecti will have crochetedyou will have crochetedhe/she/it will have crochetedwe will have crochetedyou will have crochetedthey will have crochetedfuture continuousi will be crochetingyou will be crochetinghe/she/it will be crochetingwe will be crochetingyou will be crochetingthey will be crochetingpresent perfect continuousi have been crochetingyou have been crochetinghe/she/it has been crochetingwe have been crochetingyou have been crochetingthey have been crochetingfuture perfect continuousi will have been crochetingyou will have been crochetinghe/she/it will have been crochetingwe will have been crochetingyou will have been crochetingthey will have been crochetingpast perfect continuousi had been crochetingyou had been crochetinghe/she/it had been crochetingwe had been crochetingyou had been crochetingthey had been crochetingconditionali would crochetyou would crochethe/she/it would crochetwe would crochetyou would crochetthey would crochetpast conditionali would have crochetedyou would have crochetedhe/she/it would have crochetedwe would have crochetedyou would have crochetedthey would have crochetedcollins english verb tables © harpercollins publishers 2011 thesaurusantonymsrelated wordssynonymslegend:switch to new thesaurus noun1.crochet - needlework done by interlocking looped stitches with a hooked needlecrochetingneedlecraft, needlework - a creation created or assembled by needle and threadverb1.crochet - create by looping or crocheting; "crochet a bedspread"handicraft - a craft that requires skillful handscreate from raw material, create from raw stuff - make from scratchcrochet, hook - make a piece of needlework by interlocking and looping thread with a hooked needle; "she sat there crocheting all day"shell stitch - make by shell stitchingdouble crochet, double stitch - make by double stitchingsingle crochet, single stitch - make by single stitching2.crochet - make a piece of needlework by interlocking and looping thread with a hooked needle; "she sat there crocheting all day"hookhandicraft - a craft that requires skillful handscrochet - create by looping or crocheting; "crochet a bedspread"loop, intertwine - make a loop in; "loop a rope"based on wordnet 3.0, farlex clipart collection.
+
+cpd crochet hook n → aguja f de ganchillocollins spanish dictionary - complete and unabridged 8th edition 2005 © william collins sons & co. ltd. 1971, 1988 © harpercollins publishers 1992, 1993, 1996, 1997, 2000, 2003, 2005crochet [ˈkrəʊʃeɪ] n → travail m au crochet vi → faire du crochet vt [+ blanket, rug] → faire au crochetcollins english/french electronic resource.
+
+© harpercollins publishers 2005crochet n (also crochet work) → häkelei f; crochet hook → häkelnadel f; to do a lot of crochet → viel häkeln vti → häkelncollins german dictionary – complete and unabridged 7th edition 2005.
+
+vt & vi → lavorare all'uncinettocollins italian dictionary 1st edition © harpercollins publishers 1995crochet (ˈkrəuʃei) , ((american) krouˈʃei) – present participle ˈcrocheting: past tense past participle ˈcrocheted – verb to knit using a single small needle with a hooked end (a crochet hook).
+
+aertexafghanbaggingbasket weavebombazinebracketbracketsbroadclothby hook or by crookcamel's haircamocanton flannelcereclothchain stitchchallischambrayclothcotton flannelcreate from raw material references in classic literature ?
+
+she said, knitting her brows; and taking up the crochet work that was lying on the table, she began drawing the hook out of it, without looking at vronsky.she held the work in her hands, but did not crochet, and looked at him with strange, shining, and hostile eyes.
+
+▲crizzelcrmcrnacrna goracrocroagh patrickcroakcroakercroakingcroakycroatcroatiacroatiancroato-serbcroccrocanthemum canadensecrocecroce benedettocroceatecroceincroceouscrocethiacrocethia albacrocetincrochecrochetcrochet hookcrochet needlecrochet stitchcrochetedcrochetingcrochetingscrocicrociarycrocidolitecrocincrocinecrockcrock potcrock upcrockedcrockercrockerycrocketcrocketedcrocketingcrockettcrockett davidcrockfordcrockiecrockpot▼ full browser ?
+
+▲croc tear croc tear croc tear croc tear croc-monsieur crocamander crocamander crocamander crocanthemum canadense crocanthemum canadense crocco's equation croce croce croce benedetto croce bianca val vibrata croce rossa italiana croce, benedetto croce, benedetto croceate crocein crocels croceous crocethia crocethia crocethia alba crocethia alba crocetin crocetinate croche croche crochetcrochet (music) crochet file crochet guild of america crochet hook crochet hooks crochet needle crochet stitch crochet work crochet work crocheted crocheted crocheter crocheter crocheters crocheters crocheting crocheting crochetings crochets crochets croci croci croci croci crociary crocidolite crocidolite crocidolites crocidolites crocidura ▼ facebook share twitter cite site: follow: facebook twitter rss mail share: facebook twitter linkedin mail open / close more from dictionary, thesaurus, and translations mobile apps apple android kindle windows windows phone free tools for surfers: free toolbar & extensions word of the day help for webmasters: free content linking lookup box terms of use privacy policy feedback advertise with us copyright © 2003-2023 farlex, inc disclaimer all content on this website, including dictionary, thesaurus, literature, geography, and other reference data is for informational purposes only.
+
+to make a piece of needlework by looping thread with a hooked needle .
+
+to make by looping thread with a hooked needle : crochet a sweater .
+
+needlework made by looping thread with a hooked needle .
+
+[ french crocheter , from old french crochet , hook , diminutive of croche , feminine of croc , of germanic origin .]
+
+crochet ( ˈkrəʊʃeɪ ; - ʃɪ ) vb , - chets (- ʃeɪz ; - ʃɪz ) , - cheting (- ʃeɪɪŋ ; - ʃɪɪŋ ) or - cheted (- ʃeɪd ; - ʃɪd ) ( knitting & sewing ) to make ( a piece of needlework , a garment , etc ) by looping and intertwining thread with a hooked needle ( crochet hook ) n1 .
+
+( zoology ) zoology a hooklike structure of insect larvae that aids locomotion [ c19 : from french crochet , diminutive of croc hook , probably of scandinavian origin ] ˈcrocheter ncollins english dictionary – complete and unabridged , 12th edition 2014 © harpercollins publishers 1991 , 1994 , 1998 , 2000 , 2003 , 2006 , 2007 , 2009 , 2011 , 2014cro • chet ( kroʊˈʃeɪ ) n ., v .
+
+needlework done with a hooked needle ( crochet ′ hook ` or crochet ′ nee ` dle ) for drawing the thread or yarn through intertwined loops .
+
+[ 1840 – 50 ; < french : knitting needle , literally , small hook , diminutive of croche , croc < middle english or scandinavian .
+
+crochet - needlework done by interlocking looped stitches with a hooked needlecrochetingneedlecraft , needlework - a creation created or assembled by needle and threadverb1 .
+
+crochet - create by looping or crocheting ; " crochet a bedspread " handicraft - a craft that requires skillful handscreate from raw material , create from raw stuff - make from scratchcrochet , hook - make a piece of needlework by interlocking and looping thread with a hooked needle ; " she sat there crocheting all day " shell stitch - make by shell stitchingdouble crochet , double stitch - make by double stitchingsingle crochet , single stitch - make by single stitching2 .
+
+crochet - make a piece of needlework by interlocking and looping thread with a hooked needle ; " she sat there crocheting all day " hookhandicraft - a craft that requires skillful handscrochet - create by looping or crocheting ; " crochet a bedspread " loop , intertwine - make a loop in ; " loop a rope " based on wordnet 3 .
+
+cpd crochet hook n → aguja f de ganchillocollins spanish dictionary - complete and unabridged 8th edition 2005 © william collins sons & co .
+
+© harpercollins publishers 2005crochet n ( also crochet work ) → häkelei f ; crochet hook → häkelnadel f ; to do a lot of crochet → viel häkeln vti → häkelncollins german dictionary – complete and unabridged 7th edition 2005 .
+
+vt & vi → lavorare all ' uncinettocollins italian dictionary 1st edition © harpercollins publishers 1995crochet ( ˈkrəuʃei ) , (( american ) krouˈʃei ) – present participle ˈcrocheting : past tense past participle ˈcrocheted – verb to knit using a single small needle with a hooked end ( a crochet hook ).
+
+aertexafghanbaggingbasket weavebombazinebracketbracketsbroadclothby hook or by crookcamel ' s haircamocanton flannelcereclothchain stitchchallischambrayclothcotton flannelcreate from raw material references in classic literature ?
+
+she said , knitting her brows ; and taking up the crochet work that was lying on the table , she began drawing the hook out of it , without looking at vronsky .
+
+▲ crizzelcrmcrnacrna goracrocroagh patrickcroakcroakercroakingcroakycroatcroatiacroatiancroato - serbcroccrocanthemum canadensecrocecroce benedettocroceatecroceincroceouscrocethiacrocethia albacrocetincrochecrochetcrochet hookcrochet needlecrochet stitchcrochetedcrochetingcrochetingscrocicrociarycrocidolitecrocincrocinecrockcrock potcrock upcrockedcrockercrockerycrocketcrocketedcrocketingcrockettcrockett davidcrockfordcrockiecrockpot ▼ full browser ?
+
+▲ croc tear croc tear croc tear croc tear croc - monsieur crocamander crocamander crocamander crocanthemum canadense crocanthemum canadense crocco ' s equation croce croce croce benedetto croce bianca val vibrata croce rossa italiana croce , benedetto croce , benedetto croceate crocein crocels croceous crocethia crocethia crocethia alba crocethia alba crocetin crocetinate croche croche crochetcrochet ( music ) crochet file crochet guild of america crochet hook crochet hooks crochet needle crochet stitch crochet work crochet work crocheted crocheted crocheter crocheter crocheters crocheters crocheting crocheting crochetings crochets crochets croci croci croci croci crociary crocidolite crocidolite crocidolites crocidolites crocidura ▼ facebook share twitter cite site : follow : facebook twitter rss mail share : facebook twitter linkedin mail open / close more from dictionary , thesaurus , and translations mobile apps apple android kindle windows windows phone free tools for surfers : free toolbar & extensions word of the day help for webmasters : free content linking lookup box terms of use privacy policy feedback advertise with us copyright © 2003 - 2023 farlex , inc disclaimer all content on this website , including dictionary , thesaurus , literature , geography , and other reference data is for informational purposes only .
+
+they decided they had to take action — so they picked up their crochet hooks and asked others to join them, too.
+
+they decided they had to take action — so they picked up their crochet hooks and asked others to join them , too .
+
+they decided they had to take action — so they picked up their crochet hooks and asked others to join them, too.
+
+they decided they had to take action — so they picked up their crochet hooks and asked others to join them , too .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1etymology 2origins 3irish crochet 4modern practice and culture 5materials toggle materials subsection 5.1crochet hook 5.2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12.1yarn bombing 12.2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةবাংলাcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisहिन्दीhrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमराठीမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification.
+
+crochet (english: /kroʊˈʃeɪ/;[1] french: [kʁɔʃɛ][2]) is a process of creating textiles by using a crochet hook to interlock loops of yarn, thread, or strands of other materials.
+
+[3] the name is derived from the french term crochet, meaning 'hook'.
+
+hooks can be made from a variety of materials, such as metal, wood, bamboo, or plastic.
+
+demonstration of crochet technique etymology[edit] the word crochet is derived from the french crochet, a diminutive of croche, in turn from the germanic croc, both meaning "hook".
+
+the word crochet subsequently came to describe both the specific type of textile, and the hooked needle used to produce it.
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook—shepherd's knitting—is in the memoirs of a highland lady by elizabeth grant (1797–1830).
+
+[9] nonetheless, the 1833 volume of penélopé describes and illustrates a shepherd's hook, and recommends its use for crochet with coarser yarn.
+
+[10] in 1844, one of the numerous books discussing crochet that began to appear in the 1840s states: crochet needles, sometimes called shepherds' hooks, are made of steel, ivory, or box-wood.
+
+they have a hook at one end similar in shape to a fish-hook, by which the wool or silk is caught and drawn through the work.
+
+these instruments are to be procured of various sizes...[11] two years later, the same author writes: crochet, — a species of knitting originally practised by the peasants in scotland, with a small hooked needle called a shepherd's hook, — has, within the last seven years, aided by taste and fashion, obtained the preference over all other ornamental works of a similar nature.
+
+the tip of the needle shown there is indistinguishable from that of a present-day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique.
+
+[16] shepherd's hook, 19th-century tapered hook, modern inline hook the strong taper of the shepherd's hook eases the production of slip-stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time.
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops.
+
+both types gradually merged into the modern form that appeared toward the end of the 19th century, including both tapered and cylindrical segments, and the continuously tapered bone hook remained in industrial production until world war ii.
+
+[citation needed] the early instruction books make frequent reference to the alternative use of 'ivory, bone, or wooden hooks' and 'steel needles in a handle', as appropriate to the stitch being made.
+
+shepherd's hooks are still being made for local slip-stitch crochet traditions.
+
+a longer continuously tapering design intermediate between it and the 19th-century tapered hook was also in earlier production, commonly being made from the handles of forks and spoons.
+
+[21] filet crochet, tunisian crochet, tapestry crochet, broomstick lace, hairpin lace, cro-hooking, and irish crochet are all variants of the basic crochet method.
+
+materials[edit] basic materials required for crochet are a hook and some type of material that will be crocheted, most commonly yarn or thread.
+
+[citation needed] crochet hook[edit] aluminium crochet hooks main article: crochet hook the crochet hook comes in many sizes and materials, such as bone, bamboo, aluminium, plastic, and steel.
+
+[23] because sizing is categorized by the diameter of the hook's shaft, a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern.
+
+if gauge is not reached with one hook, another is used until the stitches made are the needed size.
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal, yarn glide, or hand disorders such as arthritis, where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use.
+
+hook grips and ergonomic hook handles are also available to assist crafters.
+
+steel crochet hooks range in size from 0.4 to 3.5 millimeters, or from 00 to 16 in american sizing.
+
+these hooks are used for fine crochet work such as doilies and lace.
+
+aluminium, bamboo, and plastic crochet hooks are available from 2.5 to 19 millimeters in size, or from b to s in american sizing.
+
+[citation needed] artisan-made hooks are often made of hand-turned woods, sometimes decorated with semi-precious stones or beads.
+
+crochet hooks used for tunisian crochet are elongated and have a stopper at the end of the handle, while double-ended crochet hooks have a hook on both ends of the handle.
+
+there is also a double hooked apparatus called a cro-hook that has become popular.
+
+while this is not in itself a hook, it is a device used in conjunction with a crochet hook to produce stitches.
+
+see : list of united states standard crochet hook and knitting needle sizes yarn[edit] main article: yarn a hank of wool yarn (center) is uncoiled into its basic loop.
+
+thicker yarns generally require large-diameter crochet hooks, whereas thinner yarns may be crocheted with thick or thin hooks.
+
+crochet tablecloth, kolkata, west bengal, india crocheted fabric is begun by placing a slip-knot loop on the hook (though other methods, such as a magic ring or simple folding over of the yarn may be used), pulling another loop through the first loop, and repeating this process to create a chain of a suitable length.
+
+at any one time at the end of a stitch, there is only one loop left on the hook.
+
+tunisian crochet, however, draws all of the loops for an entire row onto a long hook before working them off one at a time.
+
+[citation needed] the more advanced stitches are often combinations of these basic stitches, or are made by inserting the hook into the work in unusual locations.
+
+in the united states, crochet terminology and sizing guidelines, as well as standards for yarn and hook labeling, are primarily regulated by the craft yarn council.
+
+an individual crocheter begins work by producing a test swatch and compensating for any discrepancy by changing to a smaller or larger hook.
+
+[citation needed] differences from and similarities to knitting[edit] one of the more obvious differences is that crochet uses one hook while much knitting uses two needles.
+
+in most crochet, the artisan usually has only one live stitch on the hook (with the exception being tunisian crochet), while a knitter keeps an entire row of stitches active simultaneously.
+
+[citation needed] round or cylindrical patterns are simple to produce with a regular crochet hook, but cylindrical knitting requires either a set of circular needles or three to five special double-ended needles.
+
+[27] while most crochet is made with a hook, there is also a method of crocheting with a knitting loom.
+
+although this is true when comparing a single crochet swatch with a stockinette swatch, both made with the same size yarn and needle/hook, it is not necessarily true for crochet in general.
+
+most crochet uses far less than 1/3 more yarn than knitting for comparable pieces, and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn.
+
+any yarn can be either knitted or crocheted, provided needles or hooks of the correct size are used, but the cord's properties should be taken into account.
+
+[31] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time.
+
+two shows were sant ocean hall at the smithsonian in washington d.c. and sticks, hooks, and the mobius: knit and crochet go cerebral at lafayette college in pennsylvania.
+
+^ "right type and size of a crochet hook".
+
+^ "sticks, hooks, and the mobius: knit and crochet go cerebral.
+
+the antique pattern library vtecrochettools crochet hook cro-hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control: national france bnf data germany israel united states czech republic retrieved from "https://en.wikipedia.org/w/index.php?title=crochet&oldid=1149831025" categories: crochetcraftsfigured fabricsneedleworkhidden categories: webarchive template wayback linksarticles with short descriptionshort description matches wikidataarticles needing additional references from march 2023all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from march 2023articles with unsourced statements from october 2022wikipedia articles needing clarification from october 2022commons category link is on wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with nkc identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+1crochet hook 5 .
+
+2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةব াং ল া catalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisह ि न ् द ी hrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमर ा ठ ी မ ြ န ် မ ာ ဘ ာ သ ာ nederlands日本語norsk bokmålnorsk nynorskਪ ੰ ਜ ਾ ਬ ੀ polskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதம ி ழ ் türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print / export download as pdfprintable version in other projects wikimedia commons from wikipedia , the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification .
+
+crochet ( english : / kroʊˈʃeɪ /;[ 1 ] french : [ kʁɔʃɛ ][ 2 ]) is a process of creating textiles by using a crochet hook to interlock loops of yarn , thread , or strands of other materials .
+
+[ 3 ] the name is derived from the french term crochet , meaning ' hook '.
+
+hooks can be made from a variety of materials , such as metal , wood , bamboo , or plastic .
+
+demonstration of crochet technique etymology [ edit ] the word crochet is derived from the french crochet , a diminutive of croche , in turn from the germanic croc , both meaning " hook ".
+
+the word crochet subsequently came to describe both the specific type of textile , and the hooked needle used to produce it .
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook — shepherd ' s knitting — is in the memoirs of a highland lady by elizabeth grant ( 1797 – 1830 ).
+
+[ 9 ] nonetheless , the 1833 volume of penélopé describes and illustrates a shepherd ' s hook , and recommends its use for crochet with coarser yarn .
+
+[ 10 ] in 1844 , one of the numerous books discussing crochet that began to appear in the 1840s states : crochet needles , sometimes called shepherds ' hooks , are made of steel , ivory , or box - wood .
+
+they have a hook at one end similar in shape to a fish - hook , by which the wool or silk is caught and drawn through the work .
+
+these instruments are to be procured of various sizes ...[ 11 ] two years later , the same author writes : crochet , — a species of knitting originally practised by the peasants in scotland , with a small hooked needle called a shepherd ' s hook , — has , within the last seven years , aided by taste and fashion , obtained the preference over all other ornamental works of a similar nature .
+
+the tip of the needle shown there is indistinguishable from that of a present - day inline crochet hook and the chain stitch separated from a cloth support is a fundamental element of the latter technique .
+
+[ 16 ] shepherd ' s hook , 19th - century tapered hook , modern inline hook the strong taper of the shepherd ' s hook eases the production of slip - stitch crochet but is less amenable to stitches that require multiple loops on the hook at the same time .
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops .
+
+both types gradually merged into the modern form that appeared toward the end of the 19th century , including both tapered and cylindrical segments , and the continuously tapered bone hook remained in industrial production until world war ii .
+
+[ citation needed ] the early instruction books make frequent reference to the alternative use of ' ivory , bone , or wooden hooks ' and ' steel needles in a handle ', as appropriate to the stitch being made .
+
+shepherd ' s hooks are still being made for local slip - stitch crochet traditions .
+
+a longer continuously tapering design intermediate between it and the 19th - century tapered hook was also in earlier production , commonly being made from the handles of forks and spoons .
+
+[ 21 ] filet crochet , tunisian crochet , tapestry crochet , broomstick lace , hairpin lace , cro - hooking , and irish crochet are all variants of the basic crochet method .
+
+materials [ edit ] basic materials required for crochet are a hook and some type of material that will be crocheted , most commonly yarn or thread .
+
+[ citation needed ] crochet hook [ edit ] aluminium crochet hooks main article : crochet hook the crochet hook comes in many sizes and materials , such as bone , bamboo , aluminium , plastic , and steel .
+
+[ 23 ] because sizing is categorized by the diameter of the hook ' s shaft , a crafter aims to create stitches of a certain size in order to reach a particular gauge specified in a given pattern .
+
+if gauge is not reached with one hook , another is used until the stitches made are the needed size .
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal , yarn glide , or hand disorders such as arthritis , where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use .
+
+hook grips and ergonomic hook handles are also available to assist crafters .
+
+steel crochet hooks range in size from 0 .
+
+these hooks are used for fine crochet work such as doilies and lace .
+
+aluminium , bamboo , and plastic crochet hooks are available from 2 .
+
+[ citation needed ] artisan - made hooks are often made of hand - turned woods , sometimes decorated with semi - precious stones or beads .
+
+crochet hooks used for tunisian crochet are elongated and have a stopper at the end of the handle , while double - ended crochet hooks have a hook on both ends of the handle .
+
+there is also a double hooked apparatus called a cro - hook that has become popular .
+
+while this is not in itself a hook , it is a device used in conjunction with a crochet hook to produce stitches .
+
+see : list of united states standard crochet hook and knitting needle sizes yarn [ edit ] main article : yarn a hank of wool yarn ( center ) is uncoiled into its basic loop .
+
+thicker yarns generally require large - diameter crochet hooks , whereas thinner yarns may be crocheted with thick or thin hooks .
+
+crochet tablecloth , kolkata , west bengal , india crocheted fabric is begun by placing a slip - knot loop on the hook ( though other methods , such as a magic ring or simple folding over of the yarn may be used ), pulling another loop through the first loop , and repeating this process to create a chain of a suitable length .
+
+at any one time at the end of a stitch , there is only one loop left on the hook .
+
+tunisian crochet , however , draws all of the loops for an entire row onto a long hook before working them off one at a time .
+
+[ citation needed ] the more advanced stitches are often combinations of these basic stitches , or are made by inserting the hook into the work in unusual locations .
+
+in the united states , crochet terminology and sizing guidelines , as well as standards for yarn and hook labeling , are primarily regulated by the craft yarn council .
+
+an individual crocheter begins work by producing a test swatch and compensating for any discrepancy by changing to a smaller or larger hook .
+
+[ citation needed ] differences from and similarities to knitting [ edit ] one of the more obvious differences is that crochet uses one hook while much knitting uses two needles .
+
+in most crochet , the artisan usually has only one live stitch on the hook ( with the exception being tunisian crochet ), while a knitter keeps an entire row of stitches active simultaneously .
+
+[ citation needed ] round or cylindrical patterns are simple to produce with a regular crochet hook , but cylindrical knitting requires either a set of circular needles or three to five special double - ended needles .
+
+[ 27 ] while most crochet is made with a hook , there is also a method of crocheting with a knitting loom .
+
+although this is true when comparing a single crochet swatch with a stockinette swatch , both made with the same size yarn and needle / hook , it is not necessarily true for crochet in general .
+
+most crochet uses far less than 1 / 3 more yarn than knitting for comparable pieces , and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn .
+
+any yarn can be either knitted or crocheted , provided needles or hooks of the correct size are used , but the cord ' s properties should be taken into account .
+
+[ 31 ] differences between crochet and knitting most crochet uses one hook and works upon one stitch at a time .
+
+and sticks , hooks , and the mobius : knit and crochet go cerebral at lafayette college in pennsylvania .
+
+^ " right type and size of a crochet hook ".
+
+^ " sticks , hooks , and the mobius : knit and crochet go cerebral .
+
+the antique pattern library vtecrochettools crochet hook cro - hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control : national france bnf data germany israel united states czech republic retrieved from " https :// en .
+

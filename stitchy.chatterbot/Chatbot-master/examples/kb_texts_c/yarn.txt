@@ -1,0 +1,990 @@
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1etymology 2origins 3irish crochet 4modern practice and culture 5materials toggle materials subsection 5.1crochet hook 5.2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12.1yarn bombing 12.2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةবাংলাcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisहिन्दीhrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमराठीမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification.
+
+crochet (english: /kroʊˈʃeɪ/;[1] french: [kʁɔʃɛ][2]) is a process of creating textiles by using a crochet hook to interlock loops of yarn, thread, or strands of other materials.
+
+[6] earlier work identified as crochet was commonly made by nålebinding, a different looped yarn technique.
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook—shepherd's knitting—is in the memoirs of a highland lady by elizabeth grant (1797–1830).
+
+[9] nonetheless, the 1833 volume of penélopé describes and illustrates a shepherd's hook, and recommends its use for crochet with coarser yarn.
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops.
+
+[citation needed] taken with the synonymous labeling of shepherd's- and single crochet, and the similar equivalence of french- and double crochet, there is a strong suggestion that crochet is rooted both in tambour embroidery and shepherd's knitting, leading to thread and yarn crochet respectively; a distinction that is still made.
+
+these patterns called for thicker threads and yarns than in earlier patterns and included variegated colors.
+
+detail on gold thread crochet in a mid-20th century short jacket designed by sybil connolly although crochet underwent a subsequent decline in popularity, the early 21st century has seen a revival of interest in handcrafts and diy, as well as improvement of the quality and varieties of yarn.
+
+materials[edit] basic materials required for crochet are a hook and some type of material that will be crocheted, most commonly yarn or thread.
+
+yarn, one of the most commonly used materials for crocheting, has varying weights which need to be taken into consideration when following patterns.
+
+in recent years, yarn selections have moved beyond synthetic and plant and animal-based fibers to include bamboo, qiviut, hemp, and banana stalks, to name a few.
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal, yarn glide, or hand disorders such as arthritis, where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use.
+
+see : list of united states standard crochet hook and knitting needle sizes yarn[edit] main article: yarn a hank of wool yarn (center) is uncoiled into its basic loop.
+
+crocheting from a normal hank directly is likely to tangle the yarn, producing snarls.
+
+yarn for crochet is usually sold as balls, or skeins (hanks), although it may also be wound on spools or cones.
+
+skeins and balls are generally sold with a yarn band, a label that describes the yarn's weight, length, dye lot, fiber content, washing instructions, suggested needle size, likely gauge, etc.
+
+it is a common practice to save the yarn band for future reference, especially if additional skeins must be purchased.
+
+crocheters generally ensure that the yarn for a project comes from a single dye lot.
+
+if insufficient yarn of a single dye lot is bought to complete a project, additional skeins of the same dye lot can sometimes be obtained from other yarn stores or online.
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern.
+
+thicker yarns generally require large-diameter crochet hooks, whereas thinner yarns may be crocheted with thick or thin hooks.
+
+hence, thicker yarns generally require fewer stitches, and therefore less time, to work up a given project.
+
+the recommended gauge for a given ball of yarn can be found on the label that surrounds the skein when buying in stores.
+
+patterns and motifs are coarser with thicker yarns and produce bold visual effects, whereas thinner yarns are best for refined or delicate pattern-work.
+
+yarns are standardly grouped by thickness into six categories: superfine, fine, light, medium, bulky and superbulky.
+
+transformation of a hank of lavender silk yarn (top) into a ball in which the yarn emerges from the center (bottom).
+
+using the latter is better for needlework, since the yarn is much less likely to tangle.
+
+before use, hanks are wound into balls in which the yarn emerges from the center, making crocheting easier by preventing the yarn from becoming easily tangled.
+
+[citation needed] a yarn's usefulness is judged by several factors, such as its loft (its ability to trap air), its resilience (elasticity under tension), its washability and colorfastness, its hand (its feel, particularly softness vs. scratchiness), its durability against abrasion, its resistance to pilling, its hairiness (fuzziness), its tendency to twist or untwist, its overall weight and drape, its blocking and felting qualities, its comfort (breathability, moisture absorption, wicking properties) and its appearance, which includes its color, sheen, smoothness and ornamental features.
+
+desirable properties may vary for different projects, so there is no one "best" yarn.
+
+the two possible twists of yarn although crochet may be done with ribbons, metal wire or more exotic filaments, most yarns are made by spinning fibers.
+
+in spinning, the fibers are twisted so that the yarn resists breaking under tension; the twisting may be done in either direction, resulting in a z-twist or s-twist yarn.
+
+if the fibers are first aligned by combing them and the spinner uses a worsted type drafting method such as the short forward draw, the yarn is smoother and called a worsted; by contrast, if the fibers are carded but not combed and the spinner uses a woolen drafting method such as the long backward draw, the yarn is fuzzier and called woolen-spun.
+
+the fibers making up a yarn may be continuous filament fibers such as silk and many synthetics, or they may be staples (fibers of an average length, typically a few inches); naturally filament fibers are sometimes cut up into staples before spinning.
+
+the strength of the spun yarn against breaking is determined by the amount of twist, the length of the fibers and the thickness of the yarn.
+
+in general, yarns become stronger with more twist (also called worst), longer fibers and thicker yarns (more fibers); for example, thinner yarns require more twist than do thicker yarns to resist breaking under tension.
+
+the thickness of the yarn may vary along its length; a slub is a much thicker section in which a mass of fibers is incorporated into the yarn.
+
+it is also common to blend different fibers in the yarn, e.g., 85% alpaca and 15% silk.
+
+[citation needed] a single spun yarn may be crochet as is, or braided or plied with another.
+
+in plying, two or more yarns are spun together, almost always in the opposite sense from which they were spun individually; for example, two z-twist yarns are usually plied with an s-twist.
+
+the opposing twist relieves some of the yarns' tendency to curl up and produces a thicker, balanced yarn.
+
+plied yarns may themselves be plied together, producing cabled yarns or multi-stranded yarns.
+
+sometimes, the yarns being plied are fed at different rates, so that one yarn loops around the other, as in bouclé.
+
+the single yarns may be dyed separately before plying, or afterwards to give the yarn a uniform look.
+
+[citation needed] the dyeing of yarns is a complex art.
+
+yarns need not be dyed; or they may be dyed one color, or a great variety of colors.
+
+dyeing may be done industrially, by hand or even hand-painted onto the yarn.
+
+the color-scheme of a yarn is sometimes called its colorway.
+
+variegated yarns can produce interesting visual effects, such as diagonal stripes.
+
+[citation needed] process[edit] a close view of a crocheted scarf made with lace-weight mohair yarn.
+
+crochet tablecloth, kolkata, west bengal, india crocheted fabric is begun by placing a slip-knot loop on the hook (though other methods, such as a magic ring or simple folding over of the yarn may be used), pulling another loop through the first loop, and repeating this process to create a chain of a suitable length.
+
+single crochet stitch (called double crochet stitch in the uk) – easiest stitch to master half-double crochet stitch (called half treble stitch in the uk) – the 'in-between' stitch, sometimes called short double crochet in vintage publications double crochet stitch (called treble stitch in the uk) (yarn over once) – many uses for this unlimited use stitch treble (or triple) crochet stitch (called double treble stitch in the uk) (yarn over twice) while the horizontal distance covered by these basic stitches is the same, they differ in height and thickness.
+
+in the united states, crochet terminology and sizing guidelines, as well as standards for yarn and hook labeling, are primarily regulated by the craft yarn council.
+
+individual crocheters work yarn with a loose or a tight hold and, if unmeasured, these differences can lead to significant size changes in finished garments that have the same number of stitches.
+
+north americans call this gauge, referring to the result of these adjustments; british crocheters speak of tension, which refers to the crafter's grip on the yarn while producing stitches.
+
+the height of knitted and crocheted stitches is also different: a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools, and a double crochet stitch is about four times the height of a knit stitch.
+
+[29] it is a common perception that crochet produces a thicker fabric than knitting, tends to have less "give" than knitted fabric, and uses approximately a third more yarn for a comparable project than knitted items.
+
+although this is true when comparing a single crochet swatch with a stockinette swatch, both made with the same size yarn and needle/hook, it is not necessarily true for crochet in general.
+
+most crochet uses far less than 1/3 more yarn than knitting for comparable pieces, and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn.
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces.
+
+according to sources[30] claiming to have tested the 1/3 more yarn assertion, a single crochet stitch (sc) uses approximately the same amount of yarn as knit garter stitch, but more yarn than stockinette stitch.
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric.
+
+this is part of why they use more yarn.
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn.
+
+any yarn can be either knitted or crocheted, provided needles or hooks of the correct size are used, but the cord's properties should be taken into account.
+
+for example, lofty, thick woolen yarns tend to function better when knitted, which does not crush their airy structure, while thin and tightly spun yarn helps to achieve the firm texture required for amigurumi crochet.
+
+emergent explorations: analog and digital scripting - alexander worden research and design: the architecture of variation - lars spuybroek yurtalert - kate pokorny yarn bombing[edit] main article: yarn bombing in the past few years, a practice called yarn bombing, or the use of knitted or crocheted cloth to modify and beautify one's (usually outdoor) surroundings, emerged in the us and spread worldwide.
+
+[39] yarn bombers sometimes target existing pieces of graffiti for beautification.
+
+[40] in september 2015, grace brett was named "the world's oldest yarn bomber".
+
+she is part of a group of yarn graffiti-artists called the souter stormers, who beautify their local town in scotland.
+
+craft yarn council.
+
+craft yarn council.
+
+^ "slip stitch crochet « a yarnified life".
+
+ayarnifiedlife.wordpress.com.
+
+^ "crochet does not use 1/3 more yarn than knitting".
+
+"knitters turn to graffiti artists with 'yarnbombing'".
+
+^ "'midnight knitter' covers west cape may trees, lamp poles with yarn".
+
+"104-year-old 'yarn bomber' spreads her 'graffiti' all over town".
+
+the antique pattern library vtecrochettools crochet hook cro-hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control: national france bnf data germany israel united states czech republic retrieved from "https://en.wikipedia.org/w/index.php?title=crochet&oldid=1149831025" categories: crochetcraftsfigured fabricsneedleworkhidden categories: webarchive template wayback linksarticles with short descriptionshort description matches wikidataarticles needing additional references from march 2023all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from march 2023articles with unsourced statements from october 2022wikipedia articles needing clarification from october 2022commons category link is on wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with nkc identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12 .
+
+1yarn bombing 12 .
+
+crochet ( english : / kroʊˈʃeɪ /;[ 1 ] french : [ kʁɔʃɛ ][ 2 ]) is a process of creating textiles by using a crochet hook to interlock loops of yarn , thread , or strands of other materials .
+
+[ 6 ] earlier work identified as crochet was commonly made by nålebinding , a different looped yarn technique .
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook — shepherd ' s knitting — is in the memoirs of a highland lady by elizabeth grant ( 1797 – 1830 ).
+
+[ 9 ] nonetheless , the 1833 volume of penélopé describes and illustrates a shepherd ' s hook , and recommends its use for crochet with coarser yarn .
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops .
+
+[ citation needed ] taken with the synonymous labeling of shepherd ' s - and single crochet , and the similar equivalence of french - and double crochet , there is a strong suggestion that crochet is rooted both in tambour embroidery and shepherd ' s knitting , leading to thread and yarn crochet respectively ; a distinction that is still made .
+
+these patterns called for thicker threads and yarns than in earlier patterns and included variegated colors .
+
+detail on gold thread crochet in a mid - 20th century short jacket designed by sybil connolly although crochet underwent a subsequent decline in popularity , the early 21st century has seen a revival of interest in handcrafts and diy , as well as improvement of the quality and varieties of yarn .
+
+materials [ edit ] basic materials required for crochet are a hook and some type of material that will be crocheted , most commonly yarn or thread .
+
+yarn , one of the most commonly used materials for crocheting , has varying weights which need to be taken into consideration when following patterns .
+
+in recent years , yarn selections have moved beyond synthetic and plant and animal - based fibers to include bamboo , qiviut , hemp , and banana stalks , to name a few .
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal , yarn glide , or hand disorders such as arthritis , where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use .
+
+see : list of united states standard crochet hook and knitting needle sizes yarn [ edit ] main article : yarn a hank of wool yarn ( center ) is uncoiled into its basic loop .
+
+crocheting from a normal hank directly is likely to tangle the yarn , producing snarls .
+
+yarn for crochet is usually sold as balls , or skeins ( hanks ), although it may also be wound on spools or cones .
+
+skeins and balls are generally sold with a yarn band , a label that describes the yarn ' s weight , length , dye lot , fiber content , washing instructions , suggested needle size , likely gauge , etc .
+
+it is a common practice to save the yarn band for future reference , especially if additional skeins must be purchased .
+
+crocheters generally ensure that the yarn for a project comes from a single dye lot .
+
+if insufficient yarn of a single dye lot is bought to complete a project , additional skeins of the same dye lot can sometimes be obtained from other yarn stores or online .
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern .
+
+thicker yarns generally require large - diameter crochet hooks , whereas thinner yarns may be crocheted with thick or thin hooks .
+
+hence , thicker yarns generally require fewer stitches , and therefore less time , to work up a given project .
+
+the recommended gauge for a given ball of yarn can be found on the label that surrounds the skein when buying in stores .
+
+patterns and motifs are coarser with thicker yarns and produce bold visual effects , whereas thinner yarns are best for refined or delicate pattern - work .
+
+yarns are standardly grouped by thickness into six categories : superfine , fine , light , medium , bulky and superbulky .
+
+transformation of a hank of lavender silk yarn ( top ) into a ball in which the yarn emerges from the center ( bottom ).
+
+using the latter is better for needlework , since the yarn is much less likely to tangle .
+
+before use , hanks are wound into balls in which the yarn emerges from the center , making crocheting easier by preventing the yarn from becoming easily tangled .
+
+[ citation needed ] a yarn ' s usefulness is judged by several factors , such as its loft ( its ability to trap air ), its resilience ( elasticity under tension ), its washability and colorfastness , its hand ( its feel , particularly softness vs .
+
+desirable properties may vary for different projects , so there is no one " best " yarn .
+
+the two possible twists of yarn although crochet may be done with ribbons , metal wire or more exotic filaments , most yarns are made by spinning fibers .
+
+in spinning , the fibers are twisted so that the yarn resists breaking under tension ; the twisting may be done in either direction , resulting in a z - twist or s - twist yarn .
+
+if the fibers are first aligned by combing them and the spinner uses a worsted type drafting method such as the short forward draw , the yarn is smoother and called a worsted ; by contrast , if the fibers are carded but not combed and the spinner uses a woolen drafting method such as the long backward draw , the yarn is fuzzier and called woolen - spun .
+
+the fibers making up a yarn may be continuous filament fibers such as silk and many synthetics , or they may be staples ( fibers of an average length , typically a few inches ); naturally filament fibers are sometimes cut up into staples before spinning .
+
+the strength of the spun yarn against breaking is determined by the amount of twist , the length of the fibers and the thickness of the yarn .
+
+in general , yarns become stronger with more twist ( also called worst ), longer fibers and thicker yarns ( more fibers ); for example , thinner yarns require more twist than do thicker yarns to resist breaking under tension .
+
+the thickness of the yarn may vary along its length ; a slub is a much thicker section in which a mass of fibers is incorporated into the yarn .
+
+it is also common to blend different fibers in the yarn , e .
+
+[ citation needed ] a single spun yarn may be crochet as is , or braided or plied with another .
+
+in plying , two or more yarns are spun together , almost always in the opposite sense from which they were spun individually ; for example , two z - twist yarns are usually plied with an s - twist .
+
+the opposing twist relieves some of the yarns ' tendency to curl up and produces a thicker , balanced yarn .
+
+plied yarns may themselves be plied together , producing cabled yarns or multi - stranded yarns .
+
+sometimes , the yarns being plied are fed at different rates , so that one yarn loops around the other , as in bouclé .
+
+the single yarns may be dyed separately before plying , or afterwards to give the yarn a uniform look .
+
+[ citation needed ] the dyeing of yarns is a complex art .
+
+yarns need not be dyed ; or they may be dyed one color , or a great variety of colors .
+
+dyeing may be done industrially , by hand or even hand - painted onto the yarn .
+
+the color - scheme of a yarn is sometimes called its colorway .
+
+variegated yarns can produce interesting visual effects , such as diagonal stripes .
+
+[ citation needed ] process [ edit ] a close view of a crocheted scarf made with lace - weight mohair yarn .
+
+crochet tablecloth , kolkata , west bengal , india crocheted fabric is begun by placing a slip - knot loop on the hook ( though other methods , such as a magic ring or simple folding over of the yarn may be used ), pulling another loop through the first loop , and repeating this process to create a chain of a suitable length .
+
+single crochet stitch ( called double crochet stitch in the uk ) – easiest stitch to master half - double crochet stitch ( called half treble stitch in the uk ) – the ' in - between ' stitch , sometimes called short double crochet in vintage publications double crochet stitch ( called treble stitch in the uk ) ( yarn over once ) – many uses for this unlimited use stitch treble ( or triple ) crochet stitch ( called double treble stitch in the uk ) ( yarn over twice ) while the horizontal distance covered by these basic stitches is the same , they differ in height and thickness .
+
+in the united states , crochet terminology and sizing guidelines , as well as standards for yarn and hook labeling , are primarily regulated by the craft yarn council .
+
+individual crocheters work yarn with a loose or a tight hold and , if unmeasured , these differences can lead to significant size changes in finished garments that have the same number of stitches .
+
+north americans call this gauge , referring to the result of these adjustments ; british crocheters speak of tension , which refers to the crafter ' s grip on the yarn while producing stitches .
+
+the height of knitted and crocheted stitches is also different : a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools , and a double crochet stitch is about four times the height of a knit stitch .
+
+[ 29 ] it is a common perception that crochet produces a thicker fabric than knitting , tends to have less " give " than knitted fabric , and uses approximately a third more yarn for a comparable project than knitted items .
+
+although this is true when comparing a single crochet swatch with a stockinette swatch , both made with the same size yarn and needle / hook , it is not necessarily true for crochet in general .
+
+most crochet uses far less than 1 / 3 more yarn than knitting for comparable pieces , and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn .
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces .
+
+according to sources [ 30 ] claiming to have tested the 1 / 3 more yarn assertion , a single crochet stitch ( sc ) uses approximately the same amount of yarn as knit garter stitch , but more yarn than stockinette stitch .
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric .
+
+this is part of why they use more yarn .
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn .
+
+any yarn can be either knitted or crocheted , provided needles or hooks of the correct size are used , but the cord ' s properties should be taken into account .
+
+for example , lofty , thick woolen yarns tend to function better when knitted , which does not crush their airy structure , while thin and tightly spun yarn helps to achieve the firm texture required for amigurumi crochet .
+
+emergent explorations : analog and digital scripting - alexander worden research and design : the architecture of variation - lars spuybroek yurtalert - kate pokorny yarn bombing [ edit ] main article : yarn bombing in the past few years , a practice called yarn bombing , or the use of knitted or crocheted cloth to modify and beautify one ' s ( usually outdoor ) surroundings , emerged in the us and spread worldwide .
+
+[ 39 ] yarn bombers sometimes target existing pieces of graffiti for beautification .
+
+[ 40 ] in september 2015 , grace brett was named " the world ' s oldest yarn bomber ".
+
+she is part of a group of yarn graffiti - artists called the souter stormers , who beautify their local town in scotland .
+
+craft yarn council .
+
+craft yarn council .
+
+^ " slip stitch crochet « a yarnified life ".
+
+ayarnifiedlife .
+
+^ " crochet does not use 1 / 3 more yarn than knitting ".
+
+knitters turn to graffiti artists with ' yarnbombing '".
+
+^ "' midnight knitter ' covers west cape may trees , lamp poles with yarn ".
+
+104 - year - old ' yarn bomber ' spreads her ' graffiti ' all over town ".
+
+the antique pattern library vtecrochettools crochet hook cro - hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control : national france bnf data germany israel united states czech republic retrieved from " https :// en .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1etymology 2origins 3irish crochet 4modern practice and culture 5materials toggle materials subsection 5.1crochet hook 5.2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12.1yarn bombing 12.2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةবাংলাcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisहिन्दीhrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमराठीမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification.
+
+crochet (english: /kroʊˈʃeɪ/;[1] french: [kʁɔʃɛ][2]) is a process of creating textiles by using a crochet hook to interlock loops of yarn, thread, or strands of other materials.
+
+[6] earlier work identified as crochet was commonly made by nålebinding, a different looped yarn technique.
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook—shepherd's knitting—is in the memoirs of a highland lady by elizabeth grant (1797–1830).
+
+[9] nonetheless, the 1833 volume of penélopé describes and illustrates a shepherd's hook, and recommends its use for crochet with coarser yarn.
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops.
+
+[citation needed] taken with the synonymous labeling of shepherd's- and single crochet, and the similar equivalence of french- and double crochet, there is a strong suggestion that crochet is rooted both in tambour embroidery and shepherd's knitting, leading to thread and yarn crochet respectively; a distinction that is still made.
+
+these patterns called for thicker threads and yarns than in earlier patterns and included variegated colors.
+
+detail on gold thread crochet in a mid-20th century short jacket designed by sybil connolly although crochet underwent a subsequent decline in popularity, the early 21st century has seen a revival of interest in handcrafts and diy, as well as improvement of the quality and varieties of yarn.
+
+materials[edit] basic materials required for crochet are a hook and some type of material that will be crocheted, most commonly yarn or thread.
+
+yarn, one of the most commonly used materials for crocheting, has varying weights which need to be taken into consideration when following patterns.
+
+in recent years, yarn selections have moved beyond synthetic and plant and animal-based fibers to include bamboo, qiviut, hemp, and banana stalks, to name a few.
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal, yarn glide, or hand disorders such as arthritis, where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use.
+
+see : list of united states standard crochet hook and knitting needle sizes yarn[edit] main article: yarn a hank of wool yarn (center) is uncoiled into its basic loop.
+
+crocheting from a normal hank directly is likely to tangle the yarn, producing snarls.
+
+yarn for crochet is usually sold as balls, or skeins (hanks), although it may also be wound on spools or cones.
+
+skeins and balls are generally sold with a yarn band, a label that describes the yarn's weight, length, dye lot, fiber content, washing instructions, suggested needle size, likely gauge, etc.
+
+it is a common practice to save the yarn band for future reference, especially if additional skeins must be purchased.
+
+crocheters generally ensure that the yarn for a project comes from a single dye lot.
+
+if insufficient yarn of a single dye lot is bought to complete a project, additional skeins of the same dye lot can sometimes be obtained from other yarn stores or online.
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern.
+
+thicker yarns generally require large-diameter crochet hooks, whereas thinner yarns may be crocheted with thick or thin hooks.
+
+hence, thicker yarns generally require fewer stitches, and therefore less time, to work up a given project.
+
+the recommended gauge for a given ball of yarn can be found on the label that surrounds the skein when buying in stores.
+
+patterns and motifs are coarser with thicker yarns and produce bold visual effects, whereas thinner yarns are best for refined or delicate pattern-work.
+
+yarns are standardly grouped by thickness into six categories: superfine, fine, light, medium, bulky and superbulky.
+
+transformation of a hank of lavender silk yarn (top) into a ball in which the yarn emerges from the center (bottom).
+
+using the latter is better for needlework, since the yarn is much less likely to tangle.
+
+before use, hanks are wound into balls in which the yarn emerges from the center, making crocheting easier by preventing the yarn from becoming easily tangled.
+
+[citation needed] a yarn's usefulness is judged by several factors, such as its loft (its ability to trap air), its resilience (elasticity under tension), its washability and colorfastness, its hand (its feel, particularly softness vs. scratchiness), its durability against abrasion, its resistance to pilling, its hairiness (fuzziness), its tendency to twist or untwist, its overall weight and drape, its blocking and felting qualities, its comfort (breathability, moisture absorption, wicking properties) and its appearance, which includes its color, sheen, smoothness and ornamental features.
+
+desirable properties may vary for different projects, so there is no one "best" yarn.
+
+the two possible twists of yarn although crochet may be done with ribbons, metal wire or more exotic filaments, most yarns are made by spinning fibers.
+
+in spinning, the fibers are twisted so that the yarn resists breaking under tension; the twisting may be done in either direction, resulting in a z-twist or s-twist yarn.
+
+if the fibers are first aligned by combing them and the spinner uses a worsted type drafting method such as the short forward draw, the yarn is smoother and called a worsted; by contrast, if the fibers are carded but not combed and the spinner uses a woolen drafting method such as the long backward draw, the yarn is fuzzier and called woolen-spun.
+
+the fibers making up a yarn may be continuous filament fibers such as silk and many synthetics, or they may be staples (fibers of an average length, typically a few inches); naturally filament fibers are sometimes cut up into staples before spinning.
+
+the strength of the spun yarn against breaking is determined by the amount of twist, the length of the fibers and the thickness of the yarn.
+
+in general, yarns become stronger with more twist (also called worst), longer fibers and thicker yarns (more fibers); for example, thinner yarns require more twist than do thicker yarns to resist breaking under tension.
+
+the thickness of the yarn may vary along its length; a slub is a much thicker section in which a mass of fibers is incorporated into the yarn.
+
+it is also common to blend different fibers in the yarn, e.g., 85% alpaca and 15% silk.
+
+[citation needed] a single spun yarn may be crochet as is, or braided or plied with another.
+
+in plying, two or more yarns are spun together, almost always in the opposite sense from which they were spun individually; for example, two z-twist yarns are usually plied with an s-twist.
+
+the opposing twist relieves some of the yarns' tendency to curl up and produces a thicker, balanced yarn.
+
+plied yarns may themselves be plied together, producing cabled yarns or multi-stranded yarns.
+
+sometimes, the yarns being plied are fed at different rates, so that one yarn loops around the other, as in bouclé.
+
+the single yarns may be dyed separately before plying, or afterwards to give the yarn a uniform look.
+
+[citation needed] the dyeing of yarns is a complex art.
+
+yarns need not be dyed; or they may be dyed one color, or a great variety of colors.
+
+dyeing may be done industrially, by hand or even hand-painted onto the yarn.
+
+the color-scheme of a yarn is sometimes called its colorway.
+
+variegated yarns can produce interesting visual effects, such as diagonal stripes.
+
+[citation needed] process[edit] a close view of a crocheted scarf made with lace-weight mohair yarn.
+
+crochet tablecloth, kolkata, west bengal, india crocheted fabric is begun by placing a slip-knot loop on the hook (though other methods, such as a magic ring or simple folding over of the yarn may be used), pulling another loop through the first loop, and repeating this process to create a chain of a suitable length.
+
+single crochet stitch (called double crochet stitch in the uk) – easiest stitch to master half-double crochet stitch (called half treble stitch in the uk) – the 'in-between' stitch, sometimes called short double crochet in vintage publications double crochet stitch (called treble stitch in the uk) (yarn over once) – many uses for this unlimited use stitch treble (or triple) crochet stitch (called double treble stitch in the uk) (yarn over twice) while the horizontal distance covered by these basic stitches is the same, they differ in height and thickness.
+
+in the united states, crochet terminology and sizing guidelines, as well as standards for yarn and hook labeling, are primarily regulated by the craft yarn council.
+
+individual crocheters work yarn with a loose or a tight hold and, if unmeasured, these differences can lead to significant size changes in finished garments that have the same number of stitches.
+
+north americans call this gauge, referring to the result of these adjustments; british crocheters speak of tension, which refers to the crafter's grip on the yarn while producing stitches.
+
+the height of knitted and crocheted stitches is also different: a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools, and a double crochet stitch is about four times the height of a knit stitch.
+
+[29] it is a common perception that crochet produces a thicker fabric than knitting, tends to have less "give" than knitted fabric, and uses approximately a third more yarn for a comparable project than knitted items.
+
+although this is true when comparing a single crochet swatch with a stockinette swatch, both made with the same size yarn and needle/hook, it is not necessarily true for crochet in general.
+
+most crochet uses far less than 1/3 more yarn than knitting for comparable pieces, and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn.
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces.
+
+according to sources[30] claiming to have tested the 1/3 more yarn assertion, a single crochet stitch (sc) uses approximately the same amount of yarn as knit garter stitch, but more yarn than stockinette stitch.
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric.
+
+this is part of why they use more yarn.
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn.
+
+any yarn can be either knitted or crocheted, provided needles or hooks of the correct size are used, but the cord's properties should be taken into account.
+
+for example, lofty, thick woolen yarns tend to function better when knitted, which does not crush their airy structure, while thin and tightly spun yarn helps to achieve the firm texture required for amigurumi crochet.
+
+emergent explorations: analog and digital scripting - alexander worden research and design: the architecture of variation - lars spuybroek yurtalert - kate pokorny yarn bombing[edit] main article: yarn bombing in the past few years, a practice called yarn bombing, or the use of knitted or crocheted cloth to modify and beautify one's (usually outdoor) surroundings, emerged in the us and spread worldwide.
+
+[39] yarn bombers sometimes target existing pieces of graffiti for beautification.
+
+[40] in september 2015, grace brett was named "the world's oldest yarn bomber".
+
+she is part of a group of yarn graffiti-artists called the souter stormers, who beautify their local town in scotland.
+
+craft yarn council.
+
+craft yarn council.
+
+^ "slip stitch crochet « a yarnified life".
+
+ayarnifiedlife.wordpress.com.
+
+^ "crochet does not use 1/3 more yarn than knitting".
+
+"knitters turn to graffiti artists with 'yarnbombing'".
+
+^ "'midnight knitter' covers west cape may trees, lamp poles with yarn".
+
+"104-year-old 'yarn bomber' spreads her 'graffiti' all over town".
+
+the antique pattern library vtecrochettools crochet hook cro-hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control: national france bnf data germany israel united states czech republic retrieved from "https://en.wikipedia.org/w/index.php?title=crochet&oldid=1149831025" categories: crochetcraftsfigured fabricsneedleworkhidden categories: webarchive template wayback linksarticles with short descriptionshort description matches wikidataarticles needing additional references from march 2023all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from march 2023articles with unsourced statements from october 2022wikipedia articles needing clarification from october 2022commons category link is on wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with nkc identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12 .
+
+1yarn bombing 12 .
+
+crochet ( english : / kroʊˈʃeɪ /;[ 1 ] french : [ kʁɔʃɛ ][ 2 ]) is a process of creating textiles by using a crochet hook to interlock loops of yarn , thread , or strands of other materials .
+
+[ 6 ] earlier work identified as crochet was commonly made by nålebinding , a different looped yarn technique .
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook — shepherd ' s knitting — is in the memoirs of a highland lady by elizabeth grant ( 1797 – 1830 ).
+
+[ 9 ] nonetheless , the 1833 volume of penélopé describes and illustrates a shepherd ' s hook , and recommends its use for crochet with coarser yarn .
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops .
+
+[ citation needed ] taken with the synonymous labeling of shepherd ' s - and single crochet , and the similar equivalence of french - and double crochet , there is a strong suggestion that crochet is rooted both in tambour embroidery and shepherd ' s knitting , leading to thread and yarn crochet respectively ; a distinction that is still made .
+
+these patterns called for thicker threads and yarns than in earlier patterns and included variegated colors .
+
+detail on gold thread crochet in a mid - 20th century short jacket designed by sybil connolly although crochet underwent a subsequent decline in popularity , the early 21st century has seen a revival of interest in handcrafts and diy , as well as improvement of the quality and varieties of yarn .
+
+materials [ edit ] basic materials required for crochet are a hook and some type of material that will be crocheted , most commonly yarn or thread .
+
+yarn , one of the most commonly used materials for crocheting , has varying weights which need to be taken into consideration when following patterns .
+
+in recent years , yarn selections have moved beyond synthetic and plant and animal - based fibers to include bamboo , qiviut , hemp , and banana stalks , to name a few .
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal , yarn glide , or hand disorders such as arthritis , where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use .
+
+see : list of united states standard crochet hook and knitting needle sizes yarn [ edit ] main article : yarn a hank of wool yarn ( center ) is uncoiled into its basic loop .
+
+crocheting from a normal hank directly is likely to tangle the yarn , producing snarls .
+
+yarn for crochet is usually sold as balls , or skeins ( hanks ), although it may also be wound on spools or cones .
+
+skeins and balls are generally sold with a yarn band , a label that describes the yarn ' s weight , length , dye lot , fiber content , washing instructions , suggested needle size , likely gauge , etc .
+
+it is a common practice to save the yarn band for future reference , especially if additional skeins must be purchased .
+
+crocheters generally ensure that the yarn for a project comes from a single dye lot .
+
+if insufficient yarn of a single dye lot is bought to complete a project , additional skeins of the same dye lot can sometimes be obtained from other yarn stores or online .
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern .
+
+thicker yarns generally require large - diameter crochet hooks , whereas thinner yarns may be crocheted with thick or thin hooks .
+
+hence , thicker yarns generally require fewer stitches , and therefore less time , to work up a given project .
+
+the recommended gauge for a given ball of yarn can be found on the label that surrounds the skein when buying in stores .
+
+patterns and motifs are coarser with thicker yarns and produce bold visual effects , whereas thinner yarns are best for refined or delicate pattern - work .
+
+yarns are standardly grouped by thickness into six categories : superfine , fine , light , medium , bulky and superbulky .
+
+transformation of a hank of lavender silk yarn ( top ) into a ball in which the yarn emerges from the center ( bottom ).
+
+using the latter is better for needlework , since the yarn is much less likely to tangle .
+
+before use , hanks are wound into balls in which the yarn emerges from the center , making crocheting easier by preventing the yarn from becoming easily tangled .
+
+[ citation needed ] a yarn ' s usefulness is judged by several factors , such as its loft ( its ability to trap air ), its resilience ( elasticity under tension ), its washability and colorfastness , its hand ( its feel , particularly softness vs .
+
+desirable properties may vary for different projects , so there is no one " best " yarn .
+
+the two possible twists of yarn although crochet may be done with ribbons , metal wire or more exotic filaments , most yarns are made by spinning fibers .
+
+in spinning , the fibers are twisted so that the yarn resists breaking under tension ; the twisting may be done in either direction , resulting in a z - twist or s - twist yarn .
+
+if the fibers are first aligned by combing them and the spinner uses a worsted type drafting method such as the short forward draw , the yarn is smoother and called a worsted ; by contrast , if the fibers are carded but not combed and the spinner uses a woolen drafting method such as the long backward draw , the yarn is fuzzier and called woolen - spun .
+
+the fibers making up a yarn may be continuous filament fibers such as silk and many synthetics , or they may be staples ( fibers of an average length , typically a few inches ); naturally filament fibers are sometimes cut up into staples before spinning .
+
+the strength of the spun yarn against breaking is determined by the amount of twist , the length of the fibers and the thickness of the yarn .
+
+in general , yarns become stronger with more twist ( also called worst ), longer fibers and thicker yarns ( more fibers ); for example , thinner yarns require more twist than do thicker yarns to resist breaking under tension .
+
+the thickness of the yarn may vary along its length ; a slub is a much thicker section in which a mass of fibers is incorporated into the yarn .
+
+it is also common to blend different fibers in the yarn , e .
+
+[ citation needed ] a single spun yarn may be crochet as is , or braided or plied with another .
+
+in plying , two or more yarns are spun together , almost always in the opposite sense from which they were spun individually ; for example , two z - twist yarns are usually plied with an s - twist .
+
+the opposing twist relieves some of the yarns ' tendency to curl up and produces a thicker , balanced yarn .
+
+plied yarns may themselves be plied together , producing cabled yarns or multi - stranded yarns .
+
+sometimes , the yarns being plied are fed at different rates , so that one yarn loops around the other , as in bouclé .
+
+the single yarns may be dyed separately before plying , or afterwards to give the yarn a uniform look .
+
+[ citation needed ] the dyeing of yarns is a complex art .
+
+yarns need not be dyed ; or they may be dyed one color , or a great variety of colors .
+
+dyeing may be done industrially , by hand or even hand - painted onto the yarn .
+
+the color - scheme of a yarn is sometimes called its colorway .
+
+variegated yarns can produce interesting visual effects , such as diagonal stripes .
+
+[ citation needed ] process [ edit ] a close view of a crocheted scarf made with lace - weight mohair yarn .
+
+crochet tablecloth , kolkata , west bengal , india crocheted fabric is begun by placing a slip - knot loop on the hook ( though other methods , such as a magic ring or simple folding over of the yarn may be used ), pulling another loop through the first loop , and repeating this process to create a chain of a suitable length .
+
+single crochet stitch ( called double crochet stitch in the uk ) – easiest stitch to master half - double crochet stitch ( called half treble stitch in the uk ) – the ' in - between ' stitch , sometimes called short double crochet in vintage publications double crochet stitch ( called treble stitch in the uk ) ( yarn over once ) – many uses for this unlimited use stitch treble ( or triple ) crochet stitch ( called double treble stitch in the uk ) ( yarn over twice ) while the horizontal distance covered by these basic stitches is the same , they differ in height and thickness .
+
+in the united states , crochet terminology and sizing guidelines , as well as standards for yarn and hook labeling , are primarily regulated by the craft yarn council .
+
+individual crocheters work yarn with a loose or a tight hold and , if unmeasured , these differences can lead to significant size changes in finished garments that have the same number of stitches .
+
+north americans call this gauge , referring to the result of these adjustments ; british crocheters speak of tension , which refers to the crafter ' s grip on the yarn while producing stitches .
+
+the height of knitted and crocheted stitches is also different : a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools , and a double crochet stitch is about four times the height of a knit stitch .
+
+[ 29 ] it is a common perception that crochet produces a thicker fabric than knitting , tends to have less " give " than knitted fabric , and uses approximately a third more yarn for a comparable project than knitted items .
+
+although this is true when comparing a single crochet swatch with a stockinette swatch , both made with the same size yarn and needle / hook , it is not necessarily true for crochet in general .
+
+most crochet uses far less than 1 / 3 more yarn than knitting for comparable pieces , and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn .
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces .
+
+according to sources [ 30 ] claiming to have tested the 1 / 3 more yarn assertion , a single crochet stitch ( sc ) uses approximately the same amount of yarn as knit garter stitch , but more yarn than stockinette stitch .
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric .
+
+this is part of why they use more yarn .
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn .
+
+any yarn can be either knitted or crocheted , provided needles or hooks of the correct size are used , but the cord ' s properties should be taken into account .
+
+for example , lofty , thick woolen yarns tend to function better when knitted , which does not crush their airy structure , while thin and tightly spun yarn helps to achieve the firm texture required for amigurumi crochet .
+
+emergent explorations : analog and digital scripting - alexander worden research and design : the architecture of variation - lars spuybroek yurtalert - kate pokorny yarn bombing [ edit ] main article : yarn bombing in the past few years , a practice called yarn bombing , or the use of knitted or crocheted cloth to modify and beautify one ' s ( usually outdoor ) surroundings , emerged in the us and spread worldwide .
+
+[ 39 ] yarn bombers sometimes target existing pieces of graffiti for beautification .
+
+[ 40 ] in september 2015 , grace brett was named " the world ' s oldest yarn bomber ".
+
+she is part of a group of yarn graffiti - artists called the souter stormers , who beautify their local town in scotland .
+
+craft yarn council .
+
+craft yarn council .
+
+^ " slip stitch crochet « a yarnified life ".
+
+ayarnifiedlife .
+
+^ " crochet does not use 1 / 3 more yarn than knitting ".
+
+knitters turn to graffiti artists with ' yarnbombing '".
+
+^ "' midnight knitter ' covers west cape may trees , lamp poles with yarn ".
+
+104 - year - old ' yarn bomber ' spreads her ' graffiti ' all over town ".
+
+the antique pattern library vtecrochettools crochet hook cro - hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control : national france bnf data germany israel united states czech republic retrieved from " https :// en .
+
+(zoology) zoology a hooklike structure of insect larvae that aids locomotion[c19: from french crochet, diminutive of croc hook, probably of scandinavian origin] ˈcrocheter ncollins english dictionary – complete and unabridged, 12th edition 2014 © harpercollins publishers 1991, 1994, 1998, 2000, 2003, 2006, 2007, 2009, 2011, 2014cro•chet (kroʊˈʃeɪ) n., v. -cheted (-ˈʃeɪd) -chet•ing (-ˈʃeɪ ɪŋ) n. 1. needlework done with a hooked needle (crochet′ hook` or crochet′ nee`dle) for drawing the thread or yarn through intertwined loops.
+
+needlework done with a hooked needle ( crochet ′ hook ` or crochet ′ nee ` dle ) for drawing the thread or yarn through intertwined loops .
+
+these shamrocks are made using one strand of worsted weight yarn on the 5 peg knifty knitter spool loom - love that spool loom!
+
+three hearts were made using green yarn following the double heart pattern and an i-cord stem was added.
+
+posted by brenda, domedweller at thursday, march 04, 2010 email thisblogthis!share to twittershare to facebookshare to pinterest labels: easter, loom knitting, toys newer posts older posts home subscribe to: posts (atom) about me brenda, domedweller view my complete profile awards blog archive ► 2019 (1) ► june (1) ► 2018 (3) ► december (2) ► july (1) ► 2017 (3) ► october (1) ► august (2) ► 2016 (2) ► may (1) ► february (1) ► 2015 (4) ► august (1) ► may (1) ► april (1) ► march (1) ► 2014 (1) ► january (1) ► 2013 (7) ► november (2) ► october (2) ► july (1) ► april (1) ► march (1) ► 2012 (12) ► july (1) ► june (3) ► may (1) ► april (3) ► march (1) ► february (2) ► january (1) ► 2011 (15) ► december (1) ► november (2) ► october (1) ► september (1) ► july (1) ► may (2) ► april (1) ► march (2) ► february (2) ► january (2) ▼ 2010 (16) ► december (3) ► november (1) ► october (3) ► september (1) ► august (1) ► july (1) ► april (2) ▼ march (4) granny-on-the-loom shamrocks itsy eggs & bitsy bunnies jellybean basket redux ► 2009 (22) ► december (3) ► november (3) ► october (1) ► august (6) ► july (1) ► june (1) ► april (4) ► march (2) ► february (1) ► 2008 (6) ► december (1) ► november (3) ► may (1) ► february (1) ► 2007 (26) ► december (2) ► november (2) ► october (3) ► september (1) ► may (3) ► april (1) ► march (4) ► february (5) ► january (5) ► 2006 (10) ► december (5) ► november (5) i taught myself to loom knit (2011), projects by brenda myers this is an updated version of the original book which is available online and at joann's fabric & craft stores.. i taught myself to loom knit (2010), projects by brenda myers available at all walmart craft departments and online from: my projects photo album knitting projects loom stitch patterns basket lace stitch houndstooth checks ridge eyelet lace pattern box angel finger puppet august sun motif autumn skull cap baby blanket baby gran hexagon12 baby gran hexagon24 baby gran square12 baby gran square24 béla bat belle angel bitsy bunnies blossom bunny boo-ella, the ghost bright bells bright star bunnies-in-the-garden dishcloth candy canes christmas egg daffodils double hearts easter eggs falling leaves lariat felted roses fishy sachet-soap sack frankie's button bands frosty snowman hat ghost angel heartstrings hexagonal geopuffs honeycomb lace cowl honeycomb lace ornament hot lips tawashi indian corn indian corn hotpad itsy easter eggs jacko, the jack-o-lantern jellybean basket--revised 3/10 knifty christmas bells lacy pumpkin loom-inaries lacy scarflet large christmas stocking leprechaun leprechaun hat lil' punkin hat with leaf & tendril little loom-knit hearts little snowmen loomed leghorn egg cozy loomy-licious cupcakes loopy flowers love birds lovebugs mini-christmas wreaths mort, the mummy ms. kitty ms. santa towel topper my cheatin' hearts pansies patriot pin piggy finger puppet poinsettia pumpkin hat quick can koozies shamrocks short row snowflake silly santa snowflake angel snowflakes snowman tp cozy sock-it-to-me dog sweater specs the owl sunflower coasters sunflowers tea time coaster tiny tim turkey tom-tildrum, the cat tommy turkey hat towel toppers valentine angel victorian lace ornaments watermelon can/bottle koozie watermelon coasters: tutorial pattern for knitting a flat circle wendy's snood witchy-poo my techniques & videos adjustable cast on christmas stocking video tutorial drawstring cast on (alternate method) diagram by greenfuzzer drawstring cast on instructions drawstring kitchener cast on geopuff-1 (drawstring co) geopuff-2 (setup & increases) geopuff-3 (peg doubling) geopuff-4 (outer edge shaping) geopuff-5 (decreasing rows) geopuff-6 (bo & finishing) granny-on-the-loom tutorial italian tubular cast on little hearts tutorial video online resources afghan sizes blocking: how to block blocking: to block, or not... chart maker charts are your friends copyright - (a primer for knitters) copyright guidelines for crafters & hobbyists copyright theft hurts copyright: how patterns are affected crafty links - loom knitting determining yarn gauge dyeing with food color dyeing with kool aid graph paper hand felting knits how to knit needle free knitting caculators, generators, sockulators & online tools knitting graph paper knittingpatterncentral's loom knitting pattern links lkc abbreviation list loom knitting on squidoo magic formula for circles making looms (blog post link list) planned pooling random stripe generator scratchy yarn made soft seduced by beads standards & guidelines for crochet & knitting yarn calculator yarn substitution yarn yardage estimator yarndex yarn directory youtube looming videos rune songs rune songs for the 21st century by tyriel followers travel theme.
+
+these shamrocks are made using one strand of worsted weight yarn on the 5 peg knifty knitter spool loom - love that spool loom !
+
+three hearts were made using green yarn following the double heart pattern and an i - cord stem was added .
+
+santa towel topper my cheatin ' hearts pansies patriot pin piggy finger puppet poinsettia pumpkin hat quick can koozies shamrocks short row snowflake silly santa snowflake angel snowflakes snowman tp cozy sock - it - to - me dog sweater specs the owl sunflower coasters sunflowers tea time coaster tiny tim turkey tom - tildrum , the cat tommy turkey hat towel toppers valentine angel victorian lace ornaments watermelon can / bottle koozie watermelon coasters : tutorial pattern for knitting a flat circle wendy ' s snood witchy - poo my techniques & videos adjustable cast on christmas stocking video tutorial drawstring cast on ( alternate method ) diagram by greenfuzzer drawstring cast on instructions drawstring kitchener cast on geopuff - 1 ( drawstring co ) geopuff - 2 ( setup & increases ) geopuff - 3 ( peg doubling ) geopuff - 4 ( outer edge shaping ) geopuff - 5 ( decreasing rows ) geopuff - 6 ( bo & finishing ) granny - on - the - loom tutorial italian tubular cast on little hearts tutorial video online resources afghan sizes blocking : how to block blocking : to block , or not ... chart maker charts are your friends copyright - ( a primer for knitters ) copyright guidelines for crafters & hobbyists copyright theft hurts copyright : how patterns are affected crafty links - loom knitting determining yarn gauge dyeing with food color dyeing with kool aid graph paper hand felting knits how to knit needle free knitting caculators , generators , sockulators & online tools knitting graph paper knittingpatterncentral ' s loom knitting pattern links lkc abbreviation list loom knitting on squidoo magic formula for circles making looms ( blog post link list ) planned pooling random stripe generator scratchy yarn made soft seduced by beads standards & guidelines for crochet & knitting yarn calculator yarn substitution yarn yardage estimator yarndex yarn directory youtube looming videos rune songs rune songs for the 21st century by tyriel followers travel theme .
+
+both the sisters' reef creations, which combine videotape, tinsel and detritus along with yarn, and a community-based creation (known as a "satellite reef") are on display.
+
+both the sisters ' reef creations , which combine videotape , tinsel and detritus along with yarn , and a community - based creation ( known as a " satellite reef ") are on display .
+
+both the sisters' reef creations, which combine videotape, tinsel and detritus along with yarn, and a community-based creation (known as a "satellite reef") are on display.
+
+both the sisters ' reef creations , which combine videotape , tinsel and detritus along with yarn , and a community - based creation ( known as a " satellite reef ") are on display .
+
+search create accountlog in personal tools create account log in pages for logged out editors learn more contributionstalk contents move to sidebar hide (top) 1etymology 2origins 3irish crochet 4modern practice and culture 5materials toggle materials subsection 5.1crochet hook 5.2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12.1yarn bombing 12.2styles in crochet 13see also 14references 15further reading 16external links toggle the table of contents toggle the table of contents crochet 49 languages afrikaansالعربيةবাংলাcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisहिन्दीhrvatskibahasa indonesiaíslenskaעבריתქართულიkaszëbscziқазақшаlatinalëtzebuergeschlietuviųmagyarमराठीမြန်မာဘာသာnederlands日本語norsk bokmålnorsk nynorskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردو中文 edit links article talk english read edit view history tools tools move to sidebar hide actions readeditview history general what links hererelated changesupload filespecial pagespermanent linkpage informationcite this pagewikidata item print/export download as pdfprintable version in other projects wikimedia commons from wikipedia, the free encyclopedia technique of creating lace or fabric from thread using a hookthis article needs additional citations for verification.
+
+crochet (english: /kroʊˈʃeɪ/;[1] french: [kʁɔʃɛ][2]) is a process of creating textiles by using a crochet hook to interlock loops of yarn, thread, or strands of other materials.
+
+[6] earlier work identified as crochet was commonly made by nålebinding, a different looped yarn technique.
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook—shepherd's knitting—is in the memoirs of a highland lady by elizabeth grant (1797–1830).
+
+[9] nonetheless, the 1833 volume of penélopé describes and illustrates a shepherd's hook, and recommends its use for crochet with coarser yarn.
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops.
+
+[citation needed] taken with the synonymous labeling of shepherd's- and single crochet, and the similar equivalence of french- and double crochet, there is a strong suggestion that crochet is rooted both in tambour embroidery and shepherd's knitting, leading to thread and yarn crochet respectively; a distinction that is still made.
+
+these patterns called for thicker threads and yarns than in earlier patterns and included variegated colors.
+
+detail on gold thread crochet in a mid-20th century short jacket designed by sybil connolly although crochet underwent a subsequent decline in popularity, the early 21st century has seen a revival of interest in handcrafts and diy, as well as improvement of the quality and varieties of yarn.
+
+materials[edit] basic materials required for crochet are a hook and some type of material that will be crocheted, most commonly yarn or thread.
+
+yarn, one of the most commonly used materials for crocheting, has varying weights which need to be taken into consideration when following patterns.
+
+in recent years, yarn selections have moved beyond synthetic and plant and animal-based fibers to include bamboo, qiviut, hemp, and banana stalks, to name a few.
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal, yarn glide, or hand disorders such as arthritis, where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use.
+
+see : list of united states standard crochet hook and knitting needle sizes yarn[edit] main article: yarn a hank of wool yarn (center) is uncoiled into its basic loop.
+
+crocheting from a normal hank directly is likely to tangle the yarn, producing snarls.
+
+yarn for crochet is usually sold as balls, or skeins (hanks), although it may also be wound on spools or cones.
+
+skeins and balls are generally sold with a yarn band, a label that describes the yarn's weight, length, dye lot, fiber content, washing instructions, suggested needle size, likely gauge, etc.
+
+it is a common practice to save the yarn band for future reference, especially if additional skeins must be purchased.
+
+crocheters generally ensure that the yarn for a project comes from a single dye lot.
+
+if insufficient yarn of a single dye lot is bought to complete a project, additional skeins of the same dye lot can sometimes be obtained from other yarn stores or online.
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern.
+
+thicker yarns generally require large-diameter crochet hooks, whereas thinner yarns may be crocheted with thick or thin hooks.
+
+hence, thicker yarns generally require fewer stitches, and therefore less time, to work up a given project.
+
+the recommended gauge for a given ball of yarn can be found on the label that surrounds the skein when buying in stores.
+
+patterns and motifs are coarser with thicker yarns and produce bold visual effects, whereas thinner yarns are best for refined or delicate pattern-work.
+
+yarns are standardly grouped by thickness into six categories: superfine, fine, light, medium, bulky and superbulky.
+
+transformation of a hank of lavender silk yarn (top) into a ball in which the yarn emerges from the center (bottom).
+
+using the latter is better for needlework, since the yarn is much less likely to tangle.
+
+before use, hanks are wound into balls in which the yarn emerges from the center, making crocheting easier by preventing the yarn from becoming easily tangled.
+
+[citation needed] a yarn's usefulness is judged by several factors, such as its loft (its ability to trap air), its resilience (elasticity under tension), its washability and colorfastness, its hand (its feel, particularly softness vs. scratchiness), its durability against abrasion, its resistance to pilling, its hairiness (fuzziness), its tendency to twist or untwist, its overall weight and drape, its blocking and felting qualities, its comfort (breathability, moisture absorption, wicking properties) and its appearance, which includes its color, sheen, smoothness and ornamental features.
+
+desirable properties may vary for different projects, so there is no one "best" yarn.
+
+the two possible twists of yarn although crochet may be done with ribbons, metal wire or more exotic filaments, most yarns are made by spinning fibers.
+
+in spinning, the fibers are twisted so that the yarn resists breaking under tension; the twisting may be done in either direction, resulting in a z-twist or s-twist yarn.
+
+if the fibers are first aligned by combing them and the spinner uses a worsted type drafting method such as the short forward draw, the yarn is smoother and called a worsted; by contrast, if the fibers are carded but not combed and the spinner uses a woolen drafting method such as the long backward draw, the yarn is fuzzier and called woolen-spun.
+
+the fibers making up a yarn may be continuous filament fibers such as silk and many synthetics, or they may be staples (fibers of an average length, typically a few inches); naturally filament fibers are sometimes cut up into staples before spinning.
+
+the strength of the spun yarn against breaking is determined by the amount of twist, the length of the fibers and the thickness of the yarn.
+
+in general, yarns become stronger with more twist (also called worst), longer fibers and thicker yarns (more fibers); for example, thinner yarns require more twist than do thicker yarns to resist breaking under tension.
+
+the thickness of the yarn may vary along its length; a slub is a much thicker section in which a mass of fibers is incorporated into the yarn.
+
+it is also common to blend different fibers in the yarn, e.g., 85% alpaca and 15% silk.
+
+[citation needed] a single spun yarn may be crochet as is, or braided or plied with another.
+
+in plying, two or more yarns are spun together, almost always in the opposite sense from which they were spun individually; for example, two z-twist yarns are usually plied with an s-twist.
+
+the opposing twist relieves some of the yarns' tendency to curl up and produces a thicker, balanced yarn.
+
+plied yarns may themselves be plied together, producing cabled yarns or multi-stranded yarns.
+
+sometimes, the yarns being plied are fed at different rates, so that one yarn loops around the other, as in bouclé.
+
+the single yarns may be dyed separately before plying, or afterwards to give the yarn a uniform look.
+
+[citation needed] the dyeing of yarns is a complex art.
+
+yarns need not be dyed; or they may be dyed one color, or a great variety of colors.
+
+dyeing may be done industrially, by hand or even hand-painted onto the yarn.
+
+the color-scheme of a yarn is sometimes called its colorway.
+
+variegated yarns can produce interesting visual effects, such as diagonal stripes.
+
+[citation needed] process[edit] a close view of a crocheted scarf made with lace-weight mohair yarn.
+
+crochet tablecloth, kolkata, west bengal, india crocheted fabric is begun by placing a slip-knot loop on the hook (though other methods, such as a magic ring or simple folding over of the yarn may be used), pulling another loop through the first loop, and repeating this process to create a chain of a suitable length.
+
+single crochet stitch (called double crochet stitch in the uk) – easiest stitch to master half-double crochet stitch (called half treble stitch in the uk) – the 'in-between' stitch, sometimes called short double crochet in vintage publications double crochet stitch (called treble stitch in the uk) (yarn over once) – many uses for this unlimited use stitch treble (or triple) crochet stitch (called double treble stitch in the uk) (yarn over twice) while the horizontal distance covered by these basic stitches is the same, they differ in height and thickness.
+
+in the united states, crochet terminology and sizing guidelines, as well as standards for yarn and hook labeling, are primarily regulated by the craft yarn council.
+
+individual crocheters work yarn with a loose or a tight hold and, if unmeasured, these differences can lead to significant size changes in finished garments that have the same number of stitches.
+
+north americans call this gauge, referring to the result of these adjustments; british crocheters speak of tension, which refers to the crafter's grip on the yarn while producing stitches.
+
+the height of knitted and crocheted stitches is also different: a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools, and a double crochet stitch is about four times the height of a knit stitch.
+
+[29] it is a common perception that crochet produces a thicker fabric than knitting, tends to have less "give" than knitted fabric, and uses approximately a third more yarn for a comparable project than knitted items.
+
+although this is true when comparing a single crochet swatch with a stockinette swatch, both made with the same size yarn and needle/hook, it is not necessarily true for crochet in general.
+
+most crochet uses far less than 1/3 more yarn than knitting for comparable pieces, and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn.
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces.
+
+according to sources[30] claiming to have tested the 1/3 more yarn assertion, a single crochet stitch (sc) uses approximately the same amount of yarn as knit garter stitch, but more yarn than stockinette stitch.
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric.
+
+this is part of why they use more yarn.
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn.
+
+any yarn can be either knitted or crocheted, provided needles or hooks of the correct size are used, but the cord's properties should be taken into account.
+
+for example, lofty, thick woolen yarns tend to function better when knitted, which does not crush their airy structure, while thin and tightly spun yarn helps to achieve the firm texture required for amigurumi crochet.
+
+emergent explorations: analog and digital scripting - alexander worden research and design: the architecture of variation - lars spuybroek yurtalert - kate pokorny yarn bombing[edit] main article: yarn bombing in the past few years, a practice called yarn bombing, or the use of knitted or crocheted cloth to modify and beautify one's (usually outdoor) surroundings, emerged in the us and spread worldwide.
+
+[39] yarn bombers sometimes target existing pieces of graffiti for beautification.
+
+[40] in september 2015, grace brett was named "the world's oldest yarn bomber".
+
+she is part of a group of yarn graffiti-artists called the souter stormers, who beautify their local town in scotland.
+
+craft yarn council.
+
+craft yarn council.
+
+^ "slip stitch crochet « a yarnified life".
+
+ayarnifiedlife.wordpress.com.
+
+^ "crochet does not use 1/3 more yarn than knitting".
+
+"knitters turn to graffiti artists with 'yarnbombing'".
+
+^ "'midnight knitter' covers west cape may trees, lamp poles with yarn".
+
+"104-year-old 'yarn bomber' spreads her 'graffiti' all over town".
+
+the antique pattern library vtecrochettools crochet hook cro-hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre-industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner-making canvas work crocheting cross-stitch embroidery felting friendship bracelet knitting lace-making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning (textiles) string art tapestry tatting tie-dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier-mâché pop-up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control: national france bnf data germany israel united states czech republic retrieved from "https://en.wikipedia.org/w/index.php?title=crochet&oldid=1149831025" categories: crochetcraftsfigured fabricsneedleworkhidden categories: webarchive template wayback linksarticles with short descriptionshort description matches wikidataarticles needing additional references from march 2023all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from march 2023articles with unsourced statements from october 2022wikipedia articles needing clarification from october 2022commons category link is on wikidataarticles with bnf identifiersarticles with bnfdata identifiersarticles with gnd identifiersarticles with j9u identifiersarticles with lccn identifiersarticles with nkc identifiersarticles containing video clips this page was last edited on 14 april 2023, at 17:57 (utc).
+
+2yarn 6process 7types of stitches 8international crochet terms and notations 9differences from and similarities to knitting 10charity and activism 11mathematics and hyperbolic crochet 12architecture toggle architecture subsection 12 .
+
+1yarn bombing 12 .
+
+crochet ( english : / kroʊˈʃeɪ /;[ 1 ] french : [ kʁɔʃɛ ][ 2 ]) is a process of creating textiles by using a crochet hook to interlock loops of yarn , thread , or strands of other materials .
+
+[ 6 ] earlier work identified as crochet was commonly made by nålebinding , a different looped yarn technique .
+
+the earliest dated reference in english to garments made of cloth produced by looping yarn with a hook — shepherd ' s knitting — is in the memoirs of a highland lady by elizabeth grant ( 1797 – 1830 ).
+
+[ 9 ] nonetheless , the 1833 volume of penélopé describes and illustrates a shepherd ' s hook , and recommends its use for crochet with coarser yarn .
+
+early yarn hooks were also continuously tapered but gradually enough to accommodate multiple loops .
+
+[ citation needed ] taken with the synonymous labeling of shepherd ' s - and single crochet , and the similar equivalence of french - and double crochet , there is a strong suggestion that crochet is rooted both in tambour embroidery and shepherd ' s knitting , leading to thread and yarn crochet respectively ; a distinction that is still made .
+
+these patterns called for thicker threads and yarns than in earlier patterns and included variegated colors .
+
+detail on gold thread crochet in a mid - 20th century short jacket designed by sybil connolly although crochet underwent a subsequent decline in popularity , the early 21st century has seen a revival of interest in handcrafts and diy , as well as improvement of the quality and varieties of yarn .
+
+materials [ edit ] basic materials required for crochet are a hook and some type of material that will be crocheted , most commonly yarn or thread .
+
+yarn , one of the most commonly used materials for crocheting , has varying weights which need to be taken into consideration when following patterns .
+
+in recent years , yarn selections have moved beyond synthetic and plant and animal - based fibers to include bamboo , qiviut , hemp , and banana stalks , to name a few .
+
+crafters may have a preference for one type of hook material over another due to aesthetic appeal , yarn glide , or hand disorders such as arthritis , where bamboo or wood hooks are favored over metal for the perceived warmth and flexibility during use .
+
+see : list of united states standard crochet hook and knitting needle sizes yarn [ edit ] main article : yarn a hank of wool yarn ( center ) is uncoiled into its basic loop .
+
+crocheting from a normal hank directly is likely to tangle the yarn , producing snarls .
+
+yarn for crochet is usually sold as balls , or skeins ( hanks ), although it may also be wound on spools or cones .
+
+skeins and balls are generally sold with a yarn band , a label that describes the yarn ' s weight , length , dye lot , fiber content , washing instructions , suggested needle size , likely gauge , etc .
+
+it is a common practice to save the yarn band for future reference , especially if additional skeins must be purchased .
+
+crocheters generally ensure that the yarn for a project comes from a single dye lot .
+
+if insufficient yarn of a single dye lot is bought to complete a project , additional skeins of the same dye lot can sometimes be obtained from other yarn stores or online .
+
+the thickness or weight of the yarn is a significant factor in determining how many stitches and rows are required to cover a given area for a given stitch pattern .
+
+thicker yarns generally require large - diameter crochet hooks , whereas thinner yarns may be crocheted with thick or thin hooks .
+
+hence , thicker yarns generally require fewer stitches , and therefore less time , to work up a given project .
+
+the recommended gauge for a given ball of yarn can be found on the label that surrounds the skein when buying in stores .
+
+patterns and motifs are coarser with thicker yarns and produce bold visual effects , whereas thinner yarns are best for refined or delicate pattern - work .
+
+yarns are standardly grouped by thickness into six categories : superfine , fine , light , medium , bulky and superbulky .
+
+transformation of a hank of lavender silk yarn ( top ) into a ball in which the yarn emerges from the center ( bottom ).
+
+using the latter is better for needlework , since the yarn is much less likely to tangle .
+
+before use , hanks are wound into balls in which the yarn emerges from the center , making crocheting easier by preventing the yarn from becoming easily tangled .
+
+[ citation needed ] a yarn ' s usefulness is judged by several factors , such as its loft ( its ability to trap air ), its resilience ( elasticity under tension ), its washability and colorfastness , its hand ( its feel , particularly softness vs .
+
+desirable properties may vary for different projects , so there is no one " best " yarn .
+
+the two possible twists of yarn although crochet may be done with ribbons , metal wire or more exotic filaments , most yarns are made by spinning fibers .
+
+in spinning , the fibers are twisted so that the yarn resists breaking under tension ; the twisting may be done in either direction , resulting in a z - twist or s - twist yarn .
+
+if the fibers are first aligned by combing them and the spinner uses a worsted type drafting method such as the short forward draw , the yarn is smoother and called a worsted ; by contrast , if the fibers are carded but not combed and the spinner uses a woolen drafting method such as the long backward draw , the yarn is fuzzier and called woolen - spun .
+
+the fibers making up a yarn may be continuous filament fibers such as silk and many synthetics , or they may be staples ( fibers of an average length , typically a few inches ); naturally filament fibers are sometimes cut up into staples before spinning .
+
+the strength of the spun yarn against breaking is determined by the amount of twist , the length of the fibers and the thickness of the yarn .
+
+in general , yarns become stronger with more twist ( also called worst ), longer fibers and thicker yarns ( more fibers ); for example , thinner yarns require more twist than do thicker yarns to resist breaking under tension .
+
+the thickness of the yarn may vary along its length ; a slub is a much thicker section in which a mass of fibers is incorporated into the yarn .
+
+it is also common to blend different fibers in the yarn , e .
+
+[ citation needed ] a single spun yarn may be crochet as is , or braided or plied with another .
+
+in plying , two or more yarns are spun together , almost always in the opposite sense from which they were spun individually ; for example , two z - twist yarns are usually plied with an s - twist .
+
+the opposing twist relieves some of the yarns ' tendency to curl up and produces a thicker , balanced yarn .
+
+plied yarns may themselves be plied together , producing cabled yarns or multi - stranded yarns .
+
+sometimes , the yarns being plied are fed at different rates , so that one yarn loops around the other , as in bouclé .
+
+the single yarns may be dyed separately before plying , or afterwards to give the yarn a uniform look .
+
+[ citation needed ] the dyeing of yarns is a complex art .
+
+yarns need not be dyed ; or they may be dyed one color , or a great variety of colors .
+
+dyeing may be done industrially , by hand or even hand - painted onto the yarn .
+
+the color - scheme of a yarn is sometimes called its colorway .
+
+variegated yarns can produce interesting visual effects , such as diagonal stripes .
+
+[ citation needed ] process [ edit ] a close view of a crocheted scarf made with lace - weight mohair yarn .
+
+crochet tablecloth , kolkata , west bengal , india crocheted fabric is begun by placing a slip - knot loop on the hook ( though other methods , such as a magic ring or simple folding over of the yarn may be used ), pulling another loop through the first loop , and repeating this process to create a chain of a suitable length .
+
+single crochet stitch ( called double crochet stitch in the uk ) – easiest stitch to master half - double crochet stitch ( called half treble stitch in the uk ) – the ' in - between ' stitch , sometimes called short double crochet in vintage publications double crochet stitch ( called treble stitch in the uk ) ( yarn over once ) – many uses for this unlimited use stitch treble ( or triple ) crochet stitch ( called double treble stitch in the uk ) ( yarn over twice ) while the horizontal distance covered by these basic stitches is the same , they differ in height and thickness .
+
+in the united states , crochet terminology and sizing guidelines , as well as standards for yarn and hook labeling , are primarily regulated by the craft yarn council .
+
+individual crocheters work yarn with a loose or a tight hold and , if unmeasured , these differences can lead to significant size changes in finished garments that have the same number of stitches .
+
+north americans call this gauge , referring to the result of these adjustments ; british crocheters speak of tension , which refers to the crafter ' s grip on the yarn while producing stitches .
+
+the height of knitted and crocheted stitches is also different : a single crochet stitch is twice the height of a knit stitch in the same yarn size and comparable diameter tools , and a double crochet stitch is about four times the height of a knit stitch .
+
+[ 29 ] it is a common perception that crochet produces a thicker fabric than knitting , tends to have less " give " than knitted fabric , and uses approximately a third more yarn for a comparable project than knitted items .
+
+although this is true when comparing a single crochet swatch with a stockinette swatch , both made with the same size yarn and needle / hook , it is not necessarily true for crochet in general .
+
+most crochet uses far less than 1 / 3 more yarn than knitting for comparable pieces , and a crocheter can get similar feel and drape to knitting by using a larger hook or thinner yarn .
+
+tunisian crochet and slip stitch crochet can in some cases use less yarn than knitting for comparable pieces .
+
+according to sources [ 30 ] claiming to have tested the 1 / 3 more yarn assertion , a single crochet stitch ( sc ) uses approximately the same amount of yarn as knit garter stitch , but more yarn than stockinette stitch .
+
+any stitch using yarnovers uses less yarn than single crochet to produce the same amount of fabric .
+
+this is part of why they use more yarn .
+
+slip stitch can produce a fabric much like stockinette that is thinner and therefore uses less yarn .
+
+any yarn can be either knitted or crocheted , provided needles or hooks of the correct size are used , but the cord ' s properties should be taken into account .
+
+for example , lofty , thick woolen yarns tend to function better when knitted , which does not crush their airy structure , while thin and tightly spun yarn helps to achieve the firm texture required for amigurumi crochet .
+
+emergent explorations : analog and digital scripting - alexander worden research and design : the architecture of variation - lars spuybroek yurtalert - kate pokorny yarn bombing [ edit ] main article : yarn bombing in the past few years , a practice called yarn bombing , or the use of knitted or crocheted cloth to modify and beautify one ' s ( usually outdoor ) surroundings , emerged in the us and spread worldwide .
+
+[ 39 ] yarn bombers sometimes target existing pieces of graffiti for beautification .
+
+[ 40 ] in september 2015 , grace brett was named " the world ' s oldest yarn bomber ".
+
+she is part of a group of yarn graffiti - artists called the souter stormers , who beautify their local town in scotland .
+
+craft yarn council .
+
+craft yarn council .
+
+^ " slip stitch crochet « a yarnified life ".
+
+ayarnifiedlife .
+
+^ " crochet does not use 1 / 3 more yarn than knitting ".
+
+knitters turn to graffiti artists with ' yarnbombing '".
+
+^ "' midnight knitter ' covers west cape may trees , lamp poles with yarn ".
+
+104 - year - old ' yarn bomber ' spreads her ' graffiti ' all over town ".
+
+the antique pattern library vtecrochettools crochet hook cro - hook hook gauge list of yarns for crochet and knitting scissors stitch marker techniques and motifs bead crochet blocking gauge granny square list of crochet stitches shell stitch tapestry crochet tunisian crochet items amigurumi noken or bilum doily crocheted lace broomstick lace crocheted lace filet crochet hairpin lace irish crochet related crochet thread dye lot yarn vtetextile artsfundamentals appliqué beadwork crochet dyeing embroidery fabric felting fiber knitting lace macramé nålebinding needlework patchwork passementerie plying quilting rope rug making sewing spinning stitch textile printing weaving yarn history of ... byzantine silk clothing and textiles silk quilting silk in the indian subcontinent textile manufacturing by pre - industrial methods textiles in the british industrial revolution timeline of textile technology regional and ethnic african andean australian aboriginal hmong burmese acheik indonesian balinese sumba indigenous peoples of the americas kongo korean kuba māori mapuche maya mexican navajo oaxacan related blocking fiber art mathematics and fiber arts manufacturing preservation recycling textile industry textile museums units of measurement wearable fiber art glossaries dyeing terms sewing terms textile manufacturing terms clothing portal vtedecorative arts and handicrafts history textile banner - making canvas work crocheting cross - stitch embroidery felting friendship bracelet knitting lace - making lucet macrame millinery needlepoint needlework patchwork quilting ribbon embroidery rug hooking rug making sewing shoemaking spinning ( textiles ) string art tapestry tatting tie - dye weaving paper altered book bookbinding calligraphy cardmaking cast paper collage decoupage papier collé photomontage iris folding jianzhi kamikiri origami kirigami moneygami embossing marbling papercraft papercutting chinese jewish slavic papermaking paper toys papier - mâché pop - up book quilling scrapbooking stamping wallpaper wood bentwood cabinetry carpentry chip carving ébéniste fretwork intarsia marquetry wood burning wood carving woodturning ceramic azulejo bone china earthenware porcelain pottery stoneware terracotta glass cameo glass enamelled glass glass etching glassware stained glass chip work metal chemical milling enamel engraving etching jewellery goldsmith silversmith bronze and brass ornamental work ironwork other assemblage balloon modelling beadwork bone carving doll making dollhouse egg decorating engraved gems faux painting grotesque gargoyle hardstone carving lath art lapidary leatherworking miniatures micromosaic mosaic glass mosaic ornament pargeting pietra dura private press pressed flower craft qing handicrafts scrimshaw straw marquetry wall decal authority control : national france bnf data germany israel united states czech republic retrieved from " https :// en .
+
